@@ -2,8 +2,8 @@
 # "RooneyMcNibNug's SNAFU list"
 #
 #
-# Maintainer	: "https://github.com/RooneyMcNibNug/pihole-stuff/"
-# Category        : "suspicious"
+# Maintainer	: https://github.com/RooneyMcNibNug/pihole-stuff/
+# Category        : suspicious
 # Confidence      : 4 
 ### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
 ### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###

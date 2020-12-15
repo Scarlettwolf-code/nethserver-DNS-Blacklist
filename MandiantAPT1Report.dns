@@ -2,8 +2,8 @@
 # "Mandiant APT1 Report"
 #
 #
-# Maintainer	: "https://bitbucket.org/ethanr/dns-blacklists"
-# Category        : "malicious"
+# Maintainer	: https://bitbucket.org/ethanr/dns-blacklists
+# Category        : malicious
 # Confidence      : 4 
 advanbusiness.com
 aoldaily.com

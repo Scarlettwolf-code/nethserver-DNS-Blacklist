@@ -2,8 +2,8 @@
 # "Perflyst's Amazon FireTV Domains"
 #
 #
-# Maintainer	: "https://github.com/Perflyst/PiHoleBlocklist"
-# Category        : "tracking"
+# Maintainer	: https://github.com/Perflyst/PiHoleBlocklist
+# Category        : tracking
 # Confidence      : 4 
 device-messaging-na.amazon.com
 devicemessaging.us-east-1.amazon.com

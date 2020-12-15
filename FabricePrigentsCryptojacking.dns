@@ -2,8 +2,8 @@
 # "Fabrice Prigent's Cryptojacking"
 #
 #
-# Maintainer	: "https://dsi.ut-capitole.fr/blacklists/index_en.php"
-# Category        : "malicious"
+# Maintainer	: https://dsi.ut-capitole.fr/blacklists/index_en.php
+# Category        : malicious
 # Confidence      : 4 
 01crypto.net
 01xmrpool.com

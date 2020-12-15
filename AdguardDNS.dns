@@ -2,8 +2,8 @@
 # "Adguard DNS"
 #
 #
-# Maintainer	: "https://filters.adtidy.org/extension/chromium/filters/15.txt"
-# Category        : "advertising"
+# Maintainer	: https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Category        : advertising
 # Confidence      : 4 
 pollscoopiffy.com
 sporedfryhum.com
