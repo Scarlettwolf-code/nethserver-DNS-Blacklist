@@ -1,9 +1,28 @@
+#
+# "Perflyst's Android Trackers"
+#
+#
+# Maintainer	: "https://github.com/Perflyst/PiHoleBlocklist"
+# Category        : "tracking"
+# Confidence      : 4 
+# Created with:
+# LineageOS 14.1
+# Android 6 on Huawei
+# Android 8 OnePlus
+# iPhone 6
+# Facebook
+# graph.facebook.com # needed for facebook groups
+# b-graph.facebook.com # needed for facebook pages manager
 a-graph.facebook.com
 graph.instagram.com
+# b-api.facebook.com # required for Facebook Messenger login on mobile
+# edge-mqtt.facebook.com # needed for facebook groups
 mqtt-mini.facebook.com
+# Crashlytics
 e.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
+# Uncatagorized
 ads.twitter.com
 app-measurement.com
 events.appsflyer.com
@@ -50,17 +69,23 @@ appspot-preview.l.google.com
 m.quantcount.com
 app.adjust.com
 utraffic.engine.adglare.net
+# Google
 www.googleadservices.com
 googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 ad.doubleclick.net
 ssl.google-analytics.com
+# clients1.google.com (blocks chromecast)
 adservice.google.de
 ade.googlesyndication.com
 id.google.de
+# Apple
 stats.gc.apple.com
 iadsdk.apple.com
+# Huawei
 servicesupport.hicloud.com
+# Snapchat ads and tracking
+# gcs.sc-cdn.net # needed to send snaps
 sc-analytics.appspot.com
 app-analytics.snapchat.com
 adserver.snapads.com
@@ -69,11 +94,14 @@ euc.adserver.snapads.com
 usc.adserver.snapads.com
 ase.adserver.snapads.com
 tr.snapchat.com
+# Whatsapp
 crashlogs.whatsapp.net
+# Quizduell
 rt.applovin.com
 d.applvn.com
 a.applvn.com
 applvn.com
+# Leanplum
 leanplum.com
 www.leanplum.com
 api.leanplum.com

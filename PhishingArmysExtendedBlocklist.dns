@@ -1,3 +1,21 @@
+#
+# "Phishing Army's Extended Blocklist"
+#
+#
+# Maintainer	: "https://www.phishing.army/"
+# Category        : "malicious"
+# Confidence      : 4 
+# 
+# Phishing Army | The Blocklist to filter Phishing 
+# 
+# Last Update: Tue, 15 Dec 2020 04:11:53 UTC
+# 
+# This is the extended version, also contains domains without subdomains.
+# 
+# Project website: https://phishing.army 
+# 
+# This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+# ======================================================================================================
 001www.com
 003999.cc
 008753331120.com

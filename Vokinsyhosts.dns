@@ -1,3 +1,12 @@
+#
+# "Vokins yhosts"
+#
+#
+# Maintainer	: "https://github.com/vokins/yhosts"
+# Category        : "suspicious"
+# Confidence      : 4 
+#version=202004201613
+#url=https://github.com/vokins/yhosts
  ereg.adobe.com
  hlrcv.stage.adobe.com
  lm.licenses.adobe.com

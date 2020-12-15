@@ -1,3 +1,15 @@
+#
+# "Crazy Max's Microsoft Telemetry"
+#
+#
+# Maintainer	: "https://github.com/crazy-max/WindowsSpyBlocker"
+# Category        : "tracking"
+# Confidence      : 4 
+### WindowsSpyBlocker - Hosts spy rules
+### License: MIT
+### Updated: 2020-08-24T04:31:00Z02:00
+### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
+### More info: https://github.com/crazy-max/WindowsSpyBlocker
  a.ads1.msn.com
  a.ads2.msads.net
  a.ads2.msn.com

@@ -1,8 +1,18 @@
+#
+# "Jdlingyu's Ad-wars"
+#
+#
+# Maintainer	: "https://github.com/jdlingyu/ad-wars"
+# Category        : "advertising"
+# Confidence      : 4 
+#pkg=white.ad.web.com;浏览器播放视频〔提示误伤〕不√下面两条
  t7z.cupid.iqiyi.com
  livew.l.qq.com
+ #以下与看广告领奖相关#
  gw.365you.com
  mi.gdt.qq.com
  adsmind.gdtimg.com
+#pkg=ad.xiaomi.com;【小米视频&TV】. MIUI
  video.market.xiaomi.com
  t1.a.market.xiaomi.com
  t2.a.market.xiaomi.com
@@ -44,6 +54,7 @@
  bj.imp.voiceads.cn
  o2o.api.xiaomi.com
  xiaomi.m.cn.miaozhen.com
+#pkg=iqiyi.com;【爱奇艺 .& TV】. Qiyi
  api.cupid.iqiyi.com
  api.yuedu.iqiyi.com
  c.uaa.iqiyi.com
@@ -94,6 +105,7 @@
  bdcdncmn-gd.inter.71edge.com
  mixer.cupid.ptqy.gitv.tv
  msg.ptqy.gitv.tv
+#pkg=tv.qq.com;【腾讯视频&TV】. Tencent﹝V6.4.0﹞
  aiseet.aa.atianqi.com
  livep.l.aiseet.atianqi.com
  lives.l.aiseet.atianqi.com
@@ -138,6 +150,7 @@
  mcgi.v.qq.com
  soup.v.qq.com
  bksoup.v.qq.com
+#pkg=tv.sohu.com;【搜狐视频&TV】. Sohu
  sohu-dtv.m.cn.miaozhen.com
  agn.aty.snmsohu.aisee.tv
  agn.aty.sohu.com
@@ -165,12 +178,14 @@
  download.wan.sohu.com
  g.jssdk.net
  changyan.sohu.com
+#pkg=le.com;【乐视视频&TV】. Letv
  api.game.letvstore.com
  dev.dc.letv.com
  msg.m.letv.com
  n.mark.letv.com
  static.app.m.letv.com
  test.ark.letv.com
+#pkg=pptv.com;【PP视频 & TV】. PPTV
  de.as.cp61.ott.cibntv.net
  lives.l.cp81.ott.cibntv.net
  mtrace.play.cp81.ott.cibntv.net
@@ -195,6 +210,7 @@
  gas.data.pplive.com
  plt.data.pplive.com
  web.data.pplive.com
+#pkg=mgtv.com;【芒果TV & TV】. Mgtv
  mobile.da.mgtv.com
  mobile2.da.mgtv.com
  ott.da.mgtv.com
@@ -219,6 +235,7 @@
  apperr.log.mgtv.com
  m2.da.mgtv.com
  m.da.mgtv.com
+#pkg=tv.cntv.cn;【央视影音&TV】. CNTV
  mdrecv.app.cntvwb.cn
  sdapprecv.app.cntvwb.cn
  vdapprecv.app.cntvwb.cn
@@ -231,6 +248,7 @@
  d.cntv.cn
  adguanggao.eee114.com
  cctv.adsunion.com
+#pkg=fun.tv;【风行&酷喵TV】. FunShion
  aa0.pub.funshion.com
  aa1.pub.funshion.com
  adm.funshion.com
@@ -253,6 +271,7 @@
  px.ucweb.com
  huichuan.sm.cn
  timeserver.cnzz.net
+#pkg=ad.cmvideo.cn;【咪咕┆土豆┆人人┆酷6┆等……】
  ggx.cmvideo.cn
  adxserver.ad.cmvideo.cn
  dspserver.ad.cmvideo.cn
@@ -346,6 +365,7 @@
  dsa-mfp.fengshows.cn
  sdk.cferw.com
  anquan.luomi.com
+#pkg=ad.adwars.com;大圣净化规则
  ad.wx.com
  wxa.wxs.qq.com
  wxsnsdy.wxs.qq.com
@@ -720,6 +740,7 @@
  adx.appsdk.com.cn
  adls.suning.com
  e.crashlytics.com
+#pkg=googleanalysis.mobi;谷歌广告服务
  ads.google.com
  www.googleadservices.com
  google-analytics.com
@@ -1006,6 +1027,7 @@
  media.admob.com
  adfarm.mediaplex.com
  ssl.google-analytics.com
+#pkg=baidu.com;百度广告服务
  adm.baidu.com
  ad.player.baidu.com
  adscdn.baidu.com
@@ -1072,6 +1094,7 @@
  crab.baidu.com
  api1.tuisong.baidu.com
  hpd.baidu.com
+#pkg=qq.com;腾讯广告服务
  ad.qun.qq.com
  adping.qq.com
  adpm.app.qq.com
@@ -1140,6 +1163,7 @@
  p.store.qq.com
  masdk.3g.qq.com
  ten.sngapm.qq.com
+#pkg=alibaba.com;阿里广告服务
  adash.man.aliyuncs.com
  cdn-ads.oss-cn-shanghai.aliyuncs.com
  ynuf.aliapp.org
@@ -1174,6 +1198,7 @@
  adashx4yt.m.taobao.com
  h-adashx4yt.ut.taobao.com
  umdc.aliapp.org
+#pkg=xxx.ad.doubleclick.net;广告联盟
  a.irs01.com
  bitauto.irs01.com
  h.irs01.com

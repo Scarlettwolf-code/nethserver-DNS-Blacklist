@@ -1,3 +1,26 @@
+#
+# "RooneyMcNibNug's SNAFU list"
+#
+#
+# Maintainer	: "https://github.com/RooneyMcNibNug/pihole-stuff/"
+# Category        : "suspicious"
+# Confidence      : 4 
+### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
+### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
+### Work in progress - will be adding new domains as I find them through a number of methods. ###
+# Author: RooneyMcNibNug
+# License: WTFPL (http://www.wtfpl.net/about/)
+# Home: https://github.com/RooneyMcNibNug/pihole-stuff
+# @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+# Updated: 11 December 2020
+#
+#
+### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
+### i began to see that i had commodified myself. commodification means that you turn         ###
+### something into a product which has a money-value." - humdog (1994)                        ###
+#
+#
+#BEGIN BLOCKLIST#
 bridge.sfo1.admarketplace.net
 bridge2.sfo1.admarketplace.net
 bridge.lga1.admarketplace.net

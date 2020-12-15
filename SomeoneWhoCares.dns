@@ -1,3 +1,69 @@
+#
+# "Someone Who Cares"
+#
+#
+# Maintainer	: "https://someonewhocares.org/"
+# Category        : "suspicious"
+# Confidence      : 4 
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/zero/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+# Last updated: Mon, 14 Dec 2020 at 06:39:20 GMT
+# Use this file to prevent your computer from connecting to selected
+# internet hosts. This is an easy and effective way to protect you from 
+# many types of spyware, reduces bandwidth use, blocks certain pop-up 
+# traps, prevents user tracking by way of "web bugs" embedded in spam,
+# provides partial protection to IE from certain web-based exploits and
+# blocks most advertising you would otherwise be subjected to on the 
+# internet. 
+# There is a version of this file that uses  instead of  
+# available at http://someonewhocares.org/hosts/.
+# On some machines this may run minutely faster, however the zero version
+# may not be compatible with all systems. 
+# This file must be saved as a text file with no extension. (This means
+# that the file name should be exactly as below, without a ".txt" appended.)
+# Let me repeat, the file should be named "hosts" NOT "hosts.txt".
+# For Windows 9x and ME place this file at "C:\Windows\hosts"
+# For NT, Win2K and XP use "C:\windows\system32\drivers\etc\hosts"
+#                       or "C:\winnt\system32\drivers\etc\hosts"
+# For Windows 7 and Vista use "C:\windows\system32\drivers\etc\hosts"
+#			or "%systemroot%\system32\drivers\etc\hosts"
+# For Windows 8 and Windows 10 use "C:\Windows\System32\drivers\etc\hosts"
+# 		You may need to tell Windows Defender to ignore this path
+# 		see: http://support.microsoft.com/kb/2764944
+# You may have to use Notepad and "Run as Administrator"
+#
+# For Linux, Unix, or OS X place this file at "/etc/hosts" or on some
+#    systems at "/private/etc/hosts". You will require root access to do
+#    this. Saving this file to "~/hosts" will allow you to run something
+#    like "sudo cp ~/hosts /etc/hosts".
+# For OS/2 copy the file to "%ETC%\HOSTS" and in the CONFIG.SYS file,
+#    ensure that the line "SET USE_HOSTS_FIRST=1" is included.
+# For BeOS place it at "/boot/beos/etc/hosts"
+# On a Netware system, the location is System\etc\hosts"
+# For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
+#    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
+#    Alternatively you can save it elsewhere on your machine, then go to the 
+#    TCP/IP control panel and click on "Select hosts file" to read it in.
+#    ------------------
+#    | As well, note that the format is different on old macs, so
+#    | please visit http://someonewhocares.org/hosts/zero/mac/ for mac format
+# For Android place the file at "/system/etc/hosts". You will need root
+#   access on your device to do this.
+#    ------------------
+# To convert the hosts file to a set of Cisco IOS commands for Cisco routers
+#   use this script by Jesse Baird:
+#   http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html
+# If there is a domain name you would rather never see, simply add a line
+# that reads " machine.domain.tld". This will have the effect of
+# redirecting any requests to that host to your own computer. For example
+# this will prevent your browser from downloading banner ads, or sending
+# your information back to a company.
 255.255.255.255	broadcasthost
 	local
 fe00::0		ip6-localnet
@@ -5,6 +71,10 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+# For example, to block unpleasant pages, try:
+ goatse.cx       # More information on sites such as 
+ www.goatse.cx   # these can be found in this article
+ oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
  www.oralse.cx
  goatse.ca
  www.goatse.ca
@@ -192,12 +262,69 @@ ff02::3		ip6-allhosts
  www.zentastic.com
  youaresogay.com
  zentastic.com
+# As well by specifying the ipaddress of a server, you can gain access
+#   to some of your favourite sites with a single letter, instead of
+#   using the whole domain name
+# It is perhaps a better solution to use Favourites/Bookmarks instead.
+#216.34.181.45   s        # slashdot.org
+#74.125.127.105	g        # google.com
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
+# and redirect all requests through their servers. You may need to use spyware 
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
+# nasty parasite. It's possible that blocking these sites using a hosts file 
+# may not work, in which case you should remove the following lines from this
+# file and try the tools listed above immediately. Don't forget to reboot 
+# after a scan.
  ads234.com
  ads345.com
  www.ads234.com
  www.ads345.com
+# Spyware and user tracking
+# By entering domains here, it will prevent certain companies from
+# gathering information on your surfing habits. These servers do not
+# necessarily serve ads, instead some are used by certain products to
+# "phone home". Others use web cookies to gather statistics on surfing 
+# habits. Among other uses, this is a common tactic by spammers, to 
+# let them know that you have read your mail. 
+# Uncomment (remove the #) the lines that you wish to block, as some
+# may provide you with services you like.
+# auto.search.msn.com  # Microsoft uses this server to redirect
+                                # mistyped URLs to search engines. They
+                                # log all such errors.
+# sitefinder.verisign.com	# Verisign has joined the game 
+# sitefinder-idn.verisign.com	# of trying to hijack mistyped
+					# URLs to their site. 
+					# May break iOS Game Center.
+# s0.2mdn.net		# This may interfere with some streaming 
+				# video on sites such as cbc.ca
+# ad.doubleclick.net   # This may interefere with www.sears.com
+				# and potentially other sites. 
+ media.fastclick.net	# Likewise, this may interfere with some
+ cdn.fastclick.net	# sites. 
+# ebay.doubleclick.net		# may interfere with ebay
+# google-analytics.com			# breaks some sites
+# ssl.google-analytics.com
+# www.google-analytics.l.google.com
+# stat.livejournal.com		# There are reports that this may mess 
+ 					# up CSS on livejournal
+# stats.surfaid.ihost.com	# This has been known cause 
+					# problems with NPR.org
+# www.google-analytics.com		# breaks some sites
+# ads.imeem.com		# Seems to interfere with the functioning of imeem.com
+# ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+# ll.a.hulu.com	# Uncomment to block Hulu.
+# metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
+# nl.sitestat.com	# may interfere with duo.nl
+# pro.hit.gemius.pl	# May interfere with some video sites
+# services.krxd.net
+# stats.channel4.com
+# t2.hulu.com		# Uncomment to block Hulu.
+# track.hulu.com	# Uncomment to block Hulu.
+# webstat.channel4.com
+# www.googletagservices.com		#interferes with techrepublic
  006.free-counter.co.uk
  006.freecounters.co.uk
+ 06272002-dbase.hitcountz.net # Web bugs in spam
  0stats.com
  123counter.mycomputer.com
  123counter.superstats.com
@@ -220,6 +347,7 @@ ff02::3		ip6-allhosts
  aboardamusement.com
  abscbn.spinbox.net
  accountlock-demo.iovation.com
+ activity.serving-sys.com	#eyeblaster.com
  ad-logics.com
  adadvisor.net
  adapi.ragapa.com
@@ -229,7 +357,11 @@ ff02::3		ip6-allhosts
  adcounter.globeandmail.com
  adcounter.theglobeandmail.com
  addfreestats.com
+ adelogs.adobe.com	#See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
  ademails.com
+ adlog.com.com # Used by Ziff Davis to serve 
+  # ads and track users across 
+  # the com.com family of sites
  admanmail.com
  admin.iesnare.co.uk
  admin.iesnare.com
@@ -306,6 +438,7 @@ ff02::3		ip6-allhosts
  beacons.hottraffic.nl
  belierlaine.com
  benchemail.bmetrack.com
+ best-search.cc	#spyware
  beta.easy-hit-counter.com
  beta.easy-hit-counters.com
  beta.easyhitcounters.com
@@ -404,6 +537,7 @@ ff02::3		ip6-allhosts
  clicks.m4n.nl
  clicks.natwest.com
  clicks.rbs.co.uk
+ clickspring.net	#used by a spyware product called PurityScan
  clickstatsview.chooseonlinecasino.com
  clickstatsview.earnmoneycasinos.com
  clickstatsview.hourfreeplaycasinos.com
@@ -589,6 +723,10 @@ ff02::3		ip6-allhosts
  counteraport.spylog.com
  counterbot.com
  countercrazy.com
+ counters.auctionhelper.com		# comment these 
+ counters.auctionwatch.com		# out to allow 
+ counters.auctiva.com			# tracking by
+ counters.honesty.com			# ebay users
  counters.gigya.com
  counters.xaraonline.com
  cs.sexcounter.com
@@ -617,7 +755,9 @@ ff02::3		ip6-allhosts
  def.dev-nano.com
  delivery.loopingclick.com
  detectorcarecenter.in
+ didtheyreadit.com		# email bugs
  digistats.westjet.com
+ dimeprice.com		# "spam bugs"
  directads.mcafee.com
  diskager.com
  dkb01.webtrekk.net
@@ -790,6 +930,7 @@ ff02::3		ip6-allhosts
  htm.freelogs.com
  http300.edge.ru4.com
  hud8mxdt.computerhelpmirror.top
+ i.kissmetrics.com	# http://www.wired.com/epicenter/2011/07/undeletable-cookie/
  i.track112.site
  ib.adnxs.com
  ic.tynt.com
@@ -798,6 +939,7 @@ ff02::3		ip6-allhosts
  idm.hit.gemius.pl
  ieplugin.com
  iesnare.co.uk
+ iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
  ig.insightgrit.com
  ih.constantcontacts.com
  ilead.itrack.it
@@ -805,9 +947,11 @@ ff02::3		ip6-allhosts
  images-aud.freshmeat.net
  images-aud.slashdot.org
  images-aud.sourceforge.net
+ images.dailydiscounts.com	# "spam bugs"
  images.itchydawg.com
  images1.paycounter.com
  imp.clickability.com
+ impacts.alliancehub.com # "spam bugs"
  impch.tradedoubler.com
  impde.tradedoubler.com
  impdk.tradedoubler.com
@@ -899,6 +1043,8 @@ ff02::3		ip6-allhosts
  lycoscollect.realmedia.com
  m1.nedstatbasic.net
  m1.webstats4u.com
+ mailcheckisp.biz	# "spam bugs"
+ mailfoogae.appspot.com	# Streak email tracker
  mailtrack.me
  mailtrack1313.com
  mama128.valuehost.ru
@@ -1079,6 +1225,7 @@ ff02::3		ip6-allhosts
  proxycfg.marketscore.com
  qbittorrent.com
  quantcast584928381.s.moatpixel.com
+ quantserve.com #: Ad Tracking, JavaScript, etc.
  quareclk.com
  quicktrck.com
  r.clickdensity.com
@@ -1108,6 +1255,7 @@ ff02::3		ip6-allhosts
  s.statistici.ro
  s.stats.wordpress.com
  s.update.fbsbx.com 
+ s.youtube.com				# Blocking this will interfere with video watching history
  s1-tracking.adalyser.com
  s1.shinystat.it
  s10.histats.com
@@ -1271,6 +1419,7 @@ ff02::3		ip6-allhosts
  static.audienceinsights.net
  static.criteo.net
  static.kibboko.com
+ static.smni.com		# Santa Monica - popunders
  static.trackedweb.net
  statik.topica.com
  statique.secureguards.eu
@@ -1371,6 +1520,7 @@ ff02::3		ip6-allhosts
  stats4all.com
  stats5.lightningcast.com
  stats6.lightningcast.net
+ statse.webtrendslive.com	# Fortune.com among others
  stellarium.fr
  stl.p.a1.traceworks.com
  straighttangerine.cz.cc
@@ -1382,6 +1532,7 @@ ff02::3		ip6-allhosts
  t.senaldos.com
  t.senaluno.com
  t.signaletre.com
+ t.signauxdeux.com # Another email opentracker from hubspot
  t.update.fbsbx.com
  t.yesware.com
  tag.crsspxl.com
@@ -1391,6 +1542,7 @@ ff02::3		ip6-allhosts
  targetnet.com
  tates.freestats.com
  tcookie.usatoday.com
+ tcr.tynt.com		# See http://daringfireball.net/2010/05/tynt_copy_paste_jerks
  telecharger-openoffice.fr
  test.iovation.com
  testgw.iovation.com
@@ -1748,6 +1900,7 @@ ff02::3		ip6-allhosts
  vip.clickzs.com
  virtualbartendertrack.beer.com
  vis.sexlist.com
+ visit.theglobeandmail.com # Visits to theglobeandmail.com
  vitals.vercel-analytics.com
  voken.eyereturn.com
  vs.dmtracker.com
@@ -1763,6 +1916,7 @@ ff02::3		ip6-allhosts
  web3.realtracker.com
  web4.realtracker.com
  webanalytics.globalthoughtz.com
+ webbug.seatreport.com	# web bugs
  webcounter.com
  webcounter.goweb.de
  webcounter.together.net
@@ -1792,6 +1946,7 @@ ff02::3		ip6-allhosts
  www.admin.iesnare.co.uk
  www.admin.iesnare.com
  www.affiliatesuccess.net
+ www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
  www.belstat.nl
  www.betcounter.com
  www.bigbadted.com
@@ -1804,6 +1959,7 @@ ff02::3		ip6-allhosts
  www.ci-mpsnare.iesnare.com
  www.cig-arrete.com
  www.clickclick.com
+ www.clickspring.net	#used by a spyware product called PurityScan
  www.clixgalore.com
  www.connectionlead.com
  www.counter.bloke.com
@@ -1845,6 +2001,7 @@ ff02::3		ip6-allhosts
  www.hitstats.co.uk
  www.iccee.com
  www.iesnare.co.uk
+ www.iesnare.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
  www.iovation.co.uk
  www.iovation.com
  www.jellycounter.com
@@ -1854,6 +2011,7 @@ ff02::3		ip6-allhosts
  www.linkcounter.com
  www.marketscore.com
  www.megacounter.de
+ www.metareward.com		# web bugs in spam
  www.mmstat.com
  www.mnbasd77.com
  www.mpsnare.iesnare.co.uk
@@ -1863,12 +2021,14 @@ ff02::3		ip6-allhosts
  www.nextgenstats.com
  www.ntsearch.com
  www.onestat.com
+ www.originalicons.com	# installs IE extension
  www.paycounter.com
  www.pointclicktrack.com
  www.popuptrafic.com
  www.precisioncounter.com
  www.premiumsmail.net
  www.printmail.biz
+ www.quantserve.com #: Ad Tracking, JavaScript, etc.
  www.quareclk.com
  www.remotrk.com
  www.rightmedia.net
@@ -1891,6 +2051,7 @@ ff02::3		ip6-allhosts
  www.tradedoubler.com
  www.tradedoubler.com.ar
  www.tradingtactics.win
+ www.trafficmagnet.net # web bugs in spam
  www.trafic.ro
  www.trendcounter.com
  www.true-counter.com
@@ -1932,12 +2093,14 @@ ff02::3		ip6-allhosts
  xyz.freelogs.com
  zsisk.com
  zz.cqcounter.com
+# sites with known trojans, phishing, or other malware
  0.nextyourcontent.com
  05tz2e9.com
  09killspyware.com
  10tide.com
  11398.onceedge.ru
  20-yrs-1.info
+ 2006mindfreaklike.blogspot.com	# Facebook trojan
  24newsoft.fetmoredonefasterbysubmiting.download
  24upgradecheck.thesteadysystemforupgrades.download
  59-106-20-39.r-bl100.sakura.ne.jp
@@ -1983,6 +2146,7 @@ ff02::3		ip6-allhosts
  ale-gratka.pl
  alegratka.eu
  allaskme.com
+ allhqpics.com				# Facebook trojan
  alltereg0.ru
  alocdn.com
  alphabirdnetwork.com
@@ -2062,6 +2226,7 @@ ff02::3		ip6-allhosts
  bopstermedia56.com
  br.phorm.com
  brightonclick.com
+ brunga.at	# Facebook phishing attempt
  bt.phorm.com
  bt.webwise.com
  bt.webwise.net
@@ -2089,9 +2254,11 @@ ff02::3		ip6-allhosts
  celestia.es
  celestia.fr
  certifiedwinners.today
+ changduk26.com			# Facebook trojan
  check.goodroundtoupdates.date
  checkfreevideos.net
  checkingfree.thebig-centeralplacecontentprepared.review
+ chelick.net				# Facebook trojan
  ciiycode.com
  cioco-froll.com
  cira.login.cqr.ssl.igotmyloverback.com
@@ -2158,6 +2325,7 @@ ff02::3		ip6-allhosts
  efreedom.net
  emergingupdates.com
  en.btc-trader-app.club
+ en.likefever.org			# Facebook trojan
  enterprise.telesat.com.co
  enteryouremail.net
  eol1.egyptonline.com
@@ -2204,6 +2372,7 @@ ff02::3		ip6-allhosts
  froling.bee.pl
  fromru.su
  ftdownload.com
+ fu.golikeus.net			# Facebook trojan
  fumey.snelop.pw
  fw433.npic.ac.cn
  gadgetsytecnologia.com
@@ -2215,8 +2384,10 @@ ff02::3		ip6-allhosts
  getnewsoft.bestfreesitetocontent.info
  getsoftnow.smallandprecise2upgradesnew.review
  getsoftnow.smallandprecise2upgradingnew.review
+ gglcash4u.info	# twitter worm
  gigaonclick.com
  gimp.es
+ girlownedbypolicelike.blogspot.com	# Facebook trojan
  go.deliverymodo.com
  goggle.com
  goobbe.com
@@ -2237,6 +2408,7 @@ ff02::3		ip6-allhosts
  hallaert.online
  handbrake.es
  hashing.win
+ hatrecord.ru				# Facebook trojan
  hcg82f2b.com
  hellwert.biz
  helpmedb.com
@@ -2250,6 +2422,8 @@ ff02::3		ip6-allhosts
  howtobuildsoftware.com
  howupdateworks.beststubcontentsfrees.xyz
  hp.myway.com
+ hsb-canada.com	# phishing site for hsbc.ca
+ hsbconline.ca 	# phishing site for hsbc.ca
  humption.info
  icecars.com
  idea21.org
@@ -2281,6 +2455,7 @@ ff02::3		ip6-allhosts
  jujitsu-ostrava.info
  jump.ewoss.net
  jur.unn.ac.ru
+ juste.ru	# Twitter trojan
  jyhfuqoh.info
  kacstserv.kacst.edu.sa
  kaytri.com
@@ -2292,9 +2467,11 @@ ff02::3		ip6-allhosts
  kentsucks.youcanoptout.com
  keybinary.com
  keyupgrade.thecentral2updating.bid
+ kirgo.at	# Facebook phishing attempt
  kitsjim.com
  klowns4phun.com
  known.counsellor.gov.cn
+ konflow.com				# Facebook trojan
  kplusd.far.ru
  kpremium.com
  kr.phorm.com
@@ -2310,6 +2487,10 @@ ff02::3		ip6-allhosts
  licasd.com
  lighthouse2k.com
  like.likewut.net
+ likeportal.com			# Facebook trojan
+ likespike.com				# Facebook trojan
+ likethis.mbosoft.com			# Facebook trojan
+ likethislist.biz			# Facebook trojan
  lilovakia.info
  lingintirejohny.club
  livecheck.theperfectsystoupdating.date
@@ -2423,6 +2604,7 @@ ff02::3		ip6-allhosts
  mx03.phorm.com
  mx1.freemail.ne.jp
  my-uq.com
+ mylike.co.uk				# Facebook trojan
  myornamenti.com
  myprivateemails.com
  n02.unternehmen.com
@@ -2576,6 +2758,7 @@ ff02::3		ip6-allhosts
  prk.roverinvolv.bid
  prm-ext.phorm.com
  products-gold.net
+ proflashdata.com			# Facebook trojan
  projectpoi.com
  protectionupdatecenter.com
  provenfeedback.com
@@ -2621,6 +2804,7 @@ ff02::3		ip6-allhosts
  scan.antispyware-free-scanner.com
  scanner.best-click-av1.info
  scanner.best-protect.info
+ scottishstuff-online.com	# Canadian bank phishing site
  screenaddict.thewhizproducts.com
  scribe.ttwitter.com
  scribus.fr
@@ -2706,6 +2890,7 @@ ff02::3		ip6-allhosts
  tahoesup.com
  tanieaukcje.com
  taniezakupy.pl
+ tattooshaha.info			# Facebook trojan
  taxi-petr.by
  teamdzsn.beget.tech
  tech9638514.ru
@@ -2717,6 +2902,7 @@ ff02::3		ip6-allhosts
  test.ishvara-yoga.com
  testupgrade.yourforcontentsplaysystems.icu
  thebestgame2020.com
+ thedatesafe.com			# Facebook trojan
  themoneyclippodcast.com
  themusicnetwork.co.uk
  thinstall.abetterinternet.com
@@ -2725,6 +2911,7 @@ ff02::3		ip6-allhosts
  tipsforall.xyz
  tivvitter.com
  toknowall.com
+ tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
  toolbarbest.biz
  toolbarbucks.biz
  toolbarcool.biz
@@ -2774,6 +2961,7 @@ ff02::3		ip6-allhosts
  versionsupport.thebig-centeralplacecontentgreat.date
  videoamp.com
  videos.dskjkiuw.com
+ videos.twitter.secure-logins01.com # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
  viowyf.khaiafi.com
  vip.fortunatetime.xyz
  virus-notice.com
@@ -2838,6 +3026,7 @@ ff02::3		ip6-allhosts
  www.afantispy.com
  www.airadmins.com
  www.akoneplatit.sk
+ www.allhqpics.com			# Facebook trojan
  www.alrpost69.com
  www.anatol.com
  www.apple.com-shield-guard.live
@@ -2862,6 +3051,7 @@ ff02::3		ip6-allhosts
  www.caramail.com
  www.celestia.es
  www.celestia.fr
+ www.chelick.net			# Facebook trojan
  www.clearalgorithm.com
  www.clonezilla.es
  www.clonezilla.fr
@@ -2922,7 +3112,12 @@ ff02::3		ip6-allhosts
  www.knowinteractive.com
  www.kpremium.com
  www.launchbuffer.com
+ www.likeportal.com			# Facebook trojan
+ www.likespike.com			# Facebook trojan
+ www.likethis.mbosoft.com		# Facebook trojan
+ www.likethislist.biz			# Facebook trojan
  www.locatorprotocol.com
+ www.lomalindasda.org			# Facebook trojan
  www.lovecouple.ru
  www.lovetrust.ru
  www.macaheadapps.com
@@ -2934,6 +3129,7 @@ ff02::3		ip6-allhosts
  www.movie-port.ru
  www.mplayerdownloader.com
  www.mshelp247.weebly.com
+ www.mylike.co.uk			# Facebook trojan
  www.mylovecards.com
  www.nine2rack.in
  www.notepad2.com
@@ -2956,6 +3152,7 @@ ff02::3		ip6-allhosts
  www.poxudeli.ru
  www.ppoi.org
  www.presidency.site
+ www.proflashdata.com			# Facebook trojan
  www.puush.in
  www.pyilgdamion.city
  www.qbittorrent.com
@@ -2970,6 +3167,7 @@ ff02::3		ip6-allhosts
  www.securityscan.us
  www.servertasarimbu.com
  www.sexytiger.ru
+ www.shinilchurch.net	# domain was hacked and had a trojan installed
  www.simplyhelper.com
  www.sinera.org
  www.siom.ac.cn
@@ -2979,7 +3177,9 @@ ff02::3		ip6-allhosts
  www.systempartition.com
  www.taba.site
  www.tanger.com.br
+ www.tattooshaha.info			# Facebook trojan
  www.te81.net
+ www.thedatesafe.com			# Facebook trojan
  www.thunderbird.es
  www.trucktirehotline.com
  www.truecrypt.fr
@@ -2988,6 +3188,7 @@ ff02::3		ip6-allhosts
  www.unetbootin.org
  www.upgradebasic.com
  www.upgradeexplorer.com
+ www.upi6.pillsstore-c.com		# Facebook trojan
  www.uqz.com
  www.urldelivery.com
  www.vb1rc5l52n.us
@@ -3058,6 +3259,7 @@ ff02::3		ip6-allhosts
  ztrf.net
  zviframe.biz
  zzhc.vnet.cn
+# pubads.g.doubleclick.net	#interferes with video on cwtv.com
  3ad.doubleclick.net
  ad-emea.doubleclick.net
  ad-g.doubleclick.net
@@ -3462,11 +3664,14 @@ ff02::3		ip6-allhosts
  tmcnet.us.intellitxt.com
  toms.us.intellitxt.com
  tomsnetworking.us.intellitxt.com
+ tribal.us.intellitxt.com	# vibrantmedia.com
  universetoday.us.intellitxt.com
  us.intellitxt.com
  warp2search.us.intellitxt.com
  wi-fitechnology.uk.intellitxt.com
  worldnetdaily.us.intellitxt.com
+# Red Sheriff and imrworldwide.com  -- server side tracking
+# secure-au.imrworldwide.com
  devfw.imrworldwide.com
  fe-au.imrworldwide.com
  fe1-au.imrworldwide.com
@@ -3517,7 +3722,9 @@ ff02::3		ip6-allhosts
  www.imrworldwide.com
  www.imrworldwide.com.au
  www.redsheriff.com
+# cydoor -- server side tracking
  cydoor.com
+ j.2004cms.com			# cydoor
  jbaventures.cjt1.net
  jbeet.cjt1.net
  jbit.cjt1.net
@@ -3581,6 +3788,9 @@ ff02::3		ip6-allhosts
  jumcna.cjt1.net
  jwebbsense.cjt1.net
  www.cydoor.com
+# 2o7.net -- server side tracking
+# appleglobal.112.2o7.net	#breaks apple.com
+# applestoreus.112.2o7.net	#breaks apple.com
  102.112.2o7.net
  102.122.2o7.net
  112.2o7.net
@@ -4041,6 +4251,7 @@ ff02::3		ip6-allhosts
  yrkeve.112.2o7.net
  ziffdavisglobal.112.2o7.net
  ziffdavispennyarcade.112.2o7.net
+# oewabox.at -- 'Austrian Webanalysis Society'
  1000ps.oewabox.at
  afinder.oewabox.at
  alphalux.oewabox.at
@@ -4166,6 +4377,21 @@ ff02::3		ip6-allhosts
  woche.oewabox.at
  wohnnet.oewabox.at
  zfm.oewabox.at
+# adfarm.mediaplex.com		# may interfere with ebay
+# ads.msn.com			#This may cause problems with zone.msn.com
+# ak.imgfarm.com		# may cause problems with iwon.com
+# click.linksynergy.com
+# global.msads.net		#This may cause problems with zone.msn.com
+# lads.myspace.com		# blocks myspace media/video players
+# refer.ccbill.com		#affiliate program, to add it back, remove the #
+# rmads.msn.com			#This may cause problems with zone.msn.com
+# www.apmebf.com		#qksrv
+# www.tkqlhce.com		#qksrv
+# ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
+# transfer.go.com		#may interfere with Disney websites
+# ads
+# aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
+# s.amazon-adsystem.com	# may interfere with Amazon ad preferences
  0101011.com
  0427d7.se
  0d79ed.r.axf8.net
@@ -12868,6 +13094,7 @@ ff02::3		ip6-allhosts
  zuzzer5.com
  zytpirwai.net
  zzzrtrcm2.com
+# https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
  admicro1.vcmedia.vn
  ct1.addthis.com
  cya2.net
@@ -12881,6 +13108,8 @@ ff02::3		ip6-allhosts
  kiks.yandex.ru
  tv.sohu.com
  y3.ifengimg.com
+# yahoo banner ads
+# us.i1.yimg.com	#Uncomment this to block yahoo images
  eur.a1.yimg.com
  in.yimg.com
  sg.yimg.com
@@ -12910,6 +13139,7 @@ ff02::3		ip6-allhosts
  us.x1.yimg.com
  us.y1.yimg.com
  us.z1.yimg.com
+# hitbox.com web bugs
  1cgi.hitbox.com
  2cgi.hitbox.com
  adminec1.hitbox.com
@@ -13274,6 +13504,7 @@ ff02::3		ip6-allhosts
  y2k.hitbox.com
  yang.hitbox.com
  ying.hitbox.com
+# www.extreme-dm.com tracking
  extreme-dm.com
  reports.extreme-dm.com
  t.extreme-dm.com
@@ -13304,6 +13535,7 @@ ff02::3		ip6-allhosts
  z.extreme-dm.com
  z0.extreme-dm.com
  z1.extreme-dm.com
+# realmedia.com's Open Ad Stream
  ap.oasfile.aftenposten.no
  imagenen1.247realmedia.com
  oacentral.cepro.com
@@ -13485,6 +13717,7 @@ ff02::3		ip6-allhosts
  oascentreal.adcritic.com
  oascetral.laweekly.com
  oasroanoke.com
+# fastclick banner ads
  media1.fastclick.net
  media2.fastclick.net
  media3.fastclick.net
@@ -13585,6 +13818,7 @@ ff02::3		ip6-allhosts
  media98.fastclick.net
  media99.fastclick.net
  fastclick.net
+# belo interactive ads
  te.about.com
  te.adlandpro.com
  te.advance.net
@@ -13628,6 +13862,7 @@ ff02::3		ip6-allhosts
  te.trb.com
  te.versiontracker.com
  te.wsls.com
+# popup traps -- sites that bounce you around or won't let you leave
  24hwebsex.com
  adultfriendfinder.com
  all-tgp.org
@@ -13656,6 +13891,9 @@ ff02::3		ip6-allhosts
  www.xxxnightly.com
  www.xxxtoolbar.com
  www.yourfuckbook.com
+# malicious e-card -- these sites send out mass quantities of spam 
+	# and some distribute adware and spyware
+ 123greetings.com	# contains one link to distributor of adware or spyware
  2000greetings.com
  celebwelove.com
  ecard4all.com
@@ -13663,6 +13901,7 @@ ff02::3		ip6-allhosts
  freewebcards.com
  fukkad.com
  fun-e-cards.com
+ funnyreign.com	# heavy spam (Site Advisor received 1075 e-mails/week)
  funsilly.com
  myfuncards.com
  www.cool-downloads.com
@@ -13677,6 +13916,7 @@ ff02::3		ip6-allhosts
  www.friendgreetings.net
  www.laugh-mail.com
  www.laugh-mail.net
+# European network of tracking sites
  1und1.ivwbox.de
  bild.ivwbox.de
  faz.ivwbox.de
@@ -13686,6 +13926,8 @@ ff02::3		ip6-allhosts
  onvis.ivwbox.de
  spiegel.ivwbox.de
  www.ivwbox.de
+# message board and wiki spam -- these sites are linked in 
+	# message board spam and are unlikely to be real sites
  10pg.scl5fyd.info
  21jewelry.com
  24x7.soliday.org
@@ -14494,6 +14736,7 @@ ff02::3		ip6-allhosts
  zyrtec.1.p2l.info
  zyrtec.3.p2l.info
  zyrtec.4.p2l.info
+# Windows 10 reporting domains. 
  a.ads2.msads.net
  adnexus.net
  aidps.atdmt.com
@@ -14524,3 +14767,36 @@ ff02::3		ip6-allhosts
  statsfe2.ws.microsoft.com
  telemetry.appex.bing.net
  wes.df.telemetry.microsoft.com
+# Acknowledgements
+# I'd like to thank the following people for submitting sites, and
+# helping promote the site.
+# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
+#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
+#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
+#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
+#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
+#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
+#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
+#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
+#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
+#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
+#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
+#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
+#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
+#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
+#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
+#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
+#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
+#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
+#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
+#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
+#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
+#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
+#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
+#  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
+#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  the hosts file.
+# Russell O'Connor for OS/2 information
+# kwadronaut for Windows 7 and Vista information
+# John Mueller and Lawrence H Smith for Mac Pre-OSX information
+# Jesse Baird for the Cisco IOS script

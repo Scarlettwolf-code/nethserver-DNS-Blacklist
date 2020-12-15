@@ -14,7 +14,7 @@ do
 	echo "# Confidence      : 4 " >> "$filename"
 	list=$(echo $list | tr -d '"')
 	curl $list >> "$filename"
-	sed -i '/#/d' "$filename"
+	#sed -i '/#/d' "$filename"
         sed -i '/localhost/d' "$filename" 
 	sed -i '/^$/d' "$filename" 
 	sed -i 's/127.0.0.1//g' "$filename"

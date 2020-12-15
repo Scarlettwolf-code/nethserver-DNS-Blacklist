@@ -1,5 +1,42 @@
+#
+# "Andy Short"
+#
+#
+# Maintainer	: "https://hostsfile.mine.nu/"
+# Category        : "suspicious"
+# Confidence      : 4 
+#####################################################################
+# The Hosts File Project http://hostsfile.mine.nu
+# Global Advert Servers Blocklist - Personal Edition
+#####################################################################
+# Release 2018-02-14
+# Servers Verified as up and running 2018-02-14 (by dns resolving)
+# Updated sorted and maintained by Andy Short (sh0rtie)
+# Contact: wduk10@hotmail.com
+#####################################################################
+# A big thank you to all contributers (too many to mention)
+# who really have made this project a success, well done :)
+# Licensed under the LGPL a copy of the license may be viewed at
+# http://www.gnu.org/licenses/lgpl.txt
+######################################################################
+# WARNING:
+# This file is *extremely comprehensive* and some sites might be
+# included here that you wish to visit, if this is the case you can
+# deactivate the block on that site by placing a # (octothorpe)symbol
+# before its entry, this will deactivate blocking on that server
+# so for example #   foobar.com
+# will enable you to visit foobar.com or you can just simply delete
+# the line that contains the site you wish to visit.
+# NB:
+# For some computer software updates you may need to disable
+# this file in order to perform the update, if you have problems
+# rename this file from "hosts" to "hosts.txt" reboot then perform
+# the update and then rename this file back to "hosts" to re-enable it
+######################################################################
+# You must keep the below lines
 	pop3.norton.antivirus
 	pop3.spa.norton.antivirus
+######################################################################
 
 	tags.tiqcdn.com
 	static.ads-twitter.com
@@ -49976,6 +50013,7 @@
 	www.xovq5nemr.com
 	www.zbwp6ghm.com
 
+# AppNexus Inc
 
 	2flax1.ib.adnxs.com
 	ad.himediadx.com
@@ -50033,6 +50071,7 @@
 	www.adnxs.com
 	ym.adnxs.com
 
+# ASPROX [botnet]
 
 	17ge.cn
 	adw95.com
@@ -50065,12 +50104,14 @@
 	www.qq117cc.cn
 	xvgaoke.cn
 
+# BannerConnect
 
 	bannerconnect.net
 	content.bannerconnect.net
 	www.bannerconnect.net
 	ym.bannerconnect.net
 
+# Banners
 
 	a2a.lockerz.com
 	ad78.neodatagroup.com
@@ -50100,6 +50141,7 @@
 	www.4wmarketplace.com
 	www.adult-adv.com
 
+# BarbBlock
 
 	119.29.196.104.bc.googleusercontent.com
 	175.220.196.104.bc.googleusercontent.com
@@ -50288,6 +50330,7 @@
 	zbwp6ghm.com
 	zlp6s.pw
 
+# BleedingThreats
 
 	acid-irc.be
 	borlander.com.cn
@@ -50302,6 +50345,7 @@
 	tbc3.hanged.tk
 	uikkl.info
 
+# Blogads
 
 	banners.blogads.com
 	blogads.com
@@ -50318,6 +50362,7 @@
 	ww2.blogads.com
 	www.blogads.com
 
+# Blogspot
 
 	acommitmentphobic.blogspot.com
 	afcojiqene617.blogspot.com
@@ -50430,6 +50475,7 @@
 	www.teqoqoleap108.blogspot.com
 	www.wetusiasai418.blogspot.com
 
+# Bloke Counters
 
 	counter.bloke.com
 	www.counter.bloke.com
@@ -50443,6 +50489,7 @@
 	www8.counter.bloke.com
 	www9.counter.bloke.com
 
+# Botnet
 
 	13tw22rigobert.de
 	61229.com
@@ -50500,6 +50547,7 @@
 	wileful.com
 	zxcvbnmas.i989.net
 
+# Bpath
 
 	ads01.bpath.com
 	ads03.bpath.com
@@ -50560,6 +50608,7 @@
 	www.bpath.com
 	www.webpath.com
 
+# C4DL Media [trojan.adware]
 
 	3wplayer.com
 	anti.divocodec.com
@@ -50611,6 +50660,7 @@
 	www.torrentsoftware.org
 	www.winzix.com
 
+# Casale Media [spyware]
 
 	00fun.casalemedia.com
 	a047.casalemedia.com
@@ -50694,6 +50744,7 @@
 	www.casalemdia.com
 	www.casalemedia.com
 
+# Cedexis
 
 	atanarglobal.http.internapcdn.net
 	bitgravity.cedexis.com
@@ -50715,6 +50766,7 @@
 	services.nirvanix.com
 	testcdn.chinacache.com
 
+# Channel Intelligence Inc
 
 	3com.links.channelintelligence.com
 	3com.links.origin.channelintelligence.com
@@ -50955,6 +51007,7 @@
 	xeroxscanners.links.channelintelligence.com
 	zoom.links.channelintelligence.com
 
+# Chinese Video Adverts
 
 	1.allyes.com.cn
 	86file.megajoy.com
@@ -51034,6 +51087,7 @@
 	vid.atm.youku.com
 	walp.atm.youku.com
 
+# CloudFront
 
 	d159blje5992j1.cloudfront.net
 	d1e7jscb3d7s23.cloudfront.net
@@ -51096,6 +51150,7 @@
 	dtxtngytz5im1.cloudfront.net
 	dwmi8257y6y2r.cloudfront.net
 
+# CNET Networks
 
 	adimg.cnet.com
 	adimg.com.com
@@ -51217,6 +51272,7 @@
 	zdreviews.search.com
 	zdreviews.search.com.com
 
+# Commision Junction
 
 	api.cj.com
 	banners.cj.com
@@ -51239,6 +51295,7 @@
 	www5.cj.com
 	wwww.cj.com
 
+# Comscore Sitestat
 
 	alstom.sitestat.com
 	bbc01.sitestat.com
@@ -51262,6 +51319,7 @@
 	www.sitestat.com
 	yle01.sitestat.com
 
+# ComScore [spyware]
 
 	88circle.net
 	admetrix.comscore.com
@@ -51377,6 +51435,7 @@
 	www.voicefive.net
 	wwwc.or4.securestudies.com
 
+# Conduit [toolbar.adware]
 
 	089com.ourtoolbar.com
 	0rangemask.myblogtoolbar.com
@@ -53811,6 +53870,7 @@
 	zwajcqwebsite.ourtoolbar.com
 	zwjate.ourtoolbar.com
 
+# CoolWebSearch Domains [trojan][webhelper4u list]
 
 	0-29.com
 	008i.com
@@ -59189,6 +59249,7 @@
 	zredirector.com
 	zxserv0.com
 
+# CPA LLC
 
 	anywherecamping.com
 	avacard.com
@@ -59205,6 +59266,7 @@
 	webserver.cpalead.com
 	www.cpalead.com
 
+# Criteo [web.affliates]
 
 	as.criteo.com
 	caw.criteo.com
@@ -59224,6 +59286,7 @@
 	static.criteo.com
 	widget.criteo.com
 
+# CryptoMiners
 
 	0aqpqdju.me
 	115776615-884492032168661957.preview.editmysite.com
@@ -63028,6 +63091,7 @@
 	zsw8.cc
 	zxc1-ustokyyneikyfasnm.stackpathdns.com
 
+# CyberHeat
 
 	discountrealitysite.com
 	euroteenxxx.com
@@ -63054,6 +63118,7 @@
 	twinks4cash.com
 	twinksforcash.com
 
+# Demos OnLine (dol)
 
 	10.6.87.194.dynamic.dol.ru
 	100.6.87.194.dynamic.dol.ru
@@ -63285,6 +63350,7 @@
 	99.6.87.194.dynamic.dol.ru
 	www.banner.dol.ru
 
+# Dialer Droppers
 
 	0190-dialer.com
 	0190-dialers.com
@@ -63482,6 +63548,7 @@
 	xxl-dialer.de
 	zonadialer.com
 
+# Direct Revenue [malware]
 
 	abetterinternet.com
 	aid.farmmext.com
@@ -63510,6 +63577,7 @@
 	twain-tech.com
 	vx2.org
 
+# Disney
 
 	3ps.go.com
 	abc.starwave.com
@@ -63571,6 +63639,7 @@
 	www.starwave.com
 	x.go.com
 
+# Doubleclick
 
 	2mdn.net
 	ad-emea.doubleclick.net
@@ -63764,6 +63833,7 @@
 	www3.doubleclick.com
 	www3.doubleclick.net
 
+# E-Dialog [email.spam]
 
 	aa.ed10.net
 	airtran.ed10.net
@@ -63800,6 +63870,7 @@
 	virginmedia.ed10.net
 	worldmarket.ed10.net
 
+# Effective.Measures
 
 	au-cdn.effectivemeasure.net
 	c.effectivemeasure.net
@@ -63817,6 +63888,7 @@
 	www9.effectivemeasure.net
 	yahoo.effectivemeasure.net
 
+# EraserCash
 
 	ad.erasercash.com
 	ad0.erasercash.com
@@ -64087,11 +64159,13 @@
 	erasercash.com
 	www.erasercash.com
 
+# eUniverse
 
 	crazymates.com
 	euniverse.com
 	intermix.com
 
+# Exploit
 
 	001y.com
 	137wg.com
@@ -64162,7 +64236,9 @@
 	yuhadefunjinsa.com
 	zpx520.com
 
+# Facebook [web.privacy]
 
+	#graph.facebook.com
 	0.channel15.facebook.com
 	ads.ak.facebook.com
 	ads.beta.facebook.com
@@ -64174,6 +64250,7 @@
 	pixel.facebook.com
 	static.ak.connect.facebook.com
 
+# Fake Anti-Spyware [spywarewarrior.com list]
 
 	1clickspyclean.com
 	1clicksuite.net
@@ -65102,6 +65179,7 @@
 	zoneprotect.com
 	zyonline.com
 
+# Fake DRM and Codecs
 
 	0bucksforpornmovie.com
 	2.webfilesdownloader.com
@@ -65415,6 +65493,7 @@
 	zero-codec.com
 	zipcodec.com
 
+# Fake P2P (P2PScams.info)
 
 	18sex18.info
 	8thstreetbitches.com
@@ -65768,6 +65847,7 @@
 	youmaze.com
 	zimodo.com
 
+# Fake Security Sites
 
 	404mispage.com
 	adwaredeluxe.com
@@ -65851,6 +65931,7 @@
 	www1.to-stop-the-vironmypc.in
 	youcanbesureforsafe.net
 
+# Fake Tech Support Scams
 
 	-gtrafficim.tf
 	1-atraffickim.tf
@@ -67242,6 +67323,7 @@
 	zoomworldwidesoftware.com
 	zsystem.us
 
+# Fastclick
 
 	remstats.corp.fastclick.net
 	secure.fastclick.net
@@ -67257,6 +67339,7 @@
 	www.fastclick.com
 	www.fastclick.net
 
+# Focalink
 
 	ad01.focalink.com
 	ad02.focalink.com
@@ -67362,6 +67445,7 @@
 	sj-g-lbs.focalink.com
 	www.focalink.com
 
+# Fraudware
 
 	0scan.com
 	0scanner.com
@@ -68026,6 +68110,7 @@
 	youtubedownloader-full.info
 	zoomscan4.info
 
+# Fraudware Related
 
 	1yandex.ru
 	4netbanners.com
@@ -68306,6 +68391,7 @@
 	zappinads.com
 	zustaus.com
 
+# GoHip.com Inc
 
 	a.gohip.com
 	addserver1.gohip.com
@@ -68363,6 +68449,7 @@
 	www8.gohip.com
 	www9.gohip.com
 
+# Google Inc
 
 	adservices.google.com
 	adwords.google.com
@@ -68445,6 +68532,7 @@
 	www.googleadservices.com
 	www.googletagservices.com
 
+# Grapeshot
 
 	ad-incisive.grapeshot.co.uk
 	ad1.grapeshot.co.uk
@@ -68470,6 +68558,7 @@
 	telegraph.grapeshot.co.uk
 	trinitymirror.grapeshot.co.uk
 
+# Hitbox
 
 	1cgi.hitbox.com
 	21stcenturyfeed.hitbox.com
@@ -71739,6 +71828,7 @@
 	zealot.hitbox.com
 	zoomedia.hitbox.com
 
+# HotLog
 
 	click.hotlog.ru
 	counter.hotlog.ru
@@ -71760,6 +71850,7 @@
 	top.hotlog.ru
 	www.hotlog.ru
 
+# HPG
 
 	ad.hpg.com.br
 	ad.hpg.ig.com.br
@@ -73709,6 +73800,7 @@
 	www.sodomy.hpg.com.br
 	www.tudoparablogs2.hpg.com.br
 
+# IAC [adware]
 
 	ads.ask.com
 	aj4kids.com
@@ -73972,6 +74064,7 @@
 	zmanatee.com
 	zwinkyblog.com
 
+# IFrame Exploits
 
 	111ct.cn
 	158dm.com
@@ -74107,6 +74200,7 @@
 	win496.com
 	wsxhost.net
 
+# ImrWorldwide
 
 	abbey.redsheriff.com
 	abc.imrworldwide.com
@@ -74824,6 +74918,7 @@
 	xc03-jp.imrworldwide.com
 	xc04-jp.imrworldwide.com
 
+# Innovative Marketing - Lotus [fakeware]
 
 	antiespiamaestro.com
 	antispionimaestro.com
@@ -74837,6 +74932,7 @@
 	spywaretaisakumaster.com
 	trygpcbruger.com
 
+# InnovativeMarketing [trojans]
 
 	adult-billing.com
 	antispywareexpert.com
@@ -74863,6 +74959,7 @@
 	windefender.com
 	yourpcprivacycleaner.com
 
+# InsightExpress LLC
 
 	ad.insightexpress.com
 	ad.insightexpressai.com
@@ -75532,6 +75629,7 @@
 	www.insightexpress.com
 	www.insightexpressai.com
 
+# Intellicontact (spammer)
 
 	a-zmedia.intellicontact.com
 	abuse.intellicontact.com
@@ -75713,6 +75811,7 @@
 	xdesign.intellicontact.com
 	zapfactor.intellicontact.com
 
+# Invalid [nodns.testing]
 
 	25dollargiftcard.com
 	404errorpage.com
@@ -75855,6 +75954,7 @@
 	xvidsworld.com
 	zxlinks.com
 
+# iWon [toolbar.spyware]
 
 	ads.iwon.com
 	ads2.iwon.com
@@ -75975,6 +76075,7 @@
 	www1.iwon.com
 	wwwiwon.com
 
+# Keynetics Inc (Clickbank)
 
 	0864213579.livin23.hop.clickbank.net
 	1.4idiots.pay.clickbank.net
@@ -76536,6 +76637,7 @@
 	zendo.expresspay.hop.clickbank.net
 	zzz.clickbank.net
 
+# LinkShare Corp [web.affiliates]
 
 	ad.linksynergy.com
 	aftp.linksynergy.com
@@ -76570,6 +76672,7 @@
 	www.msgboard.linkshare.com
 	www1.linkshare.com
 
+# Liteweb
 
 	ads.liteweb.net
 	ads0.liteweb.net
@@ -76840,7 +76943,9 @@
 	ads99.liteweb.net
 	liteweb.net
 
+# LiveRail
 
+	#vox-static.liverail.com
 	ad2.live.liverail.com
 	ad3.live.liverail.com
 	ad3.liverail.com
@@ -76863,6 +76968,7 @@
 	west.liverail.com
 	www.liverail.com
 
+# LiveTechnology
 
 	08.185.87.0.liveadvert.com
 	08.185.87.00.liveadvert.com
@@ -77294,6 +77400,7 @@
 	liveadvert.com
 	www.liveadvert.com
 
+# Looksmart [lycos][spyware]
 
 	aboutus.looksmart.com
 	adbuyer.lycos.com
@@ -77333,11 +77440,13 @@
 	www.lycos.com
 	www.tripod.lycos.com
 
+# Lop [spyware]
 
 	crap2.com
 	mp3heaven.org
 	xcx.com
 
+# Lotame Solutions LLC
 
 	ad.crwdcntrl.net
 	bb.crwdcntrl.net
@@ -77372,6 +77481,7 @@
 	vsocial.crwdcntrl.net
 	worth1000.crwdcntrl.net
 
+# Malware
 
 	 www.saatlikrapor.com
 	00.devoid.us
@@ -78884,6 +78994,7 @@
 	zoo.com
 	zvco6m.com
 
+# Malware Droppers
 
 	01.sharedsource.org
 	03.sharedsource.org
@@ -79111,6 +79222,7 @@
 	yourserverdefenderstore.com
 	zalex.info
 
+# Malware Koobface Related
 
 	1nasa-test.com
 	1online-test.com
@@ -79447,6 +79559,7 @@
 	yourblog2blog.com
 	yourmaximumphoto.com
 
+# Malware Related
 
 	2011-skype-center.com
 	2011-skype-center.net
@@ -79640,6 +79753,7 @@
 	xfour.es
 	yeti.com.pl
 
+# Malware Testing
 
 	02to.cn
 	056789.cn
@@ -82962,6 +83076,7 @@
 	zxs35.com
 	zyfx987.cn
 
+# MalwareDomainList
 
 	001.bbexe.cn
 	001e2e4.info
@@ -86589,6 +86704,7 @@
 	zzhuk.biz
 	zzzzzz.com
 
+# MarchEx
 
 	b.ns.ah-ha.com
 	b.ns.marchex.com
@@ -86603,6 +86719,7 @@
 	pekka-vip.sad.marchex.com
 	scanscout.p.ah-ha.com
 
+# MarketGid Ltd
 
 	ab.newsblock.dt00.net
 	de.marketgid.com
@@ -86615,6 +86732,7 @@
 	us.marketgid.com
 	www.marketgid.com
 
+# Microsoft
 
 	a1.bing.com
 	a2.bing.com
@@ -86659,6 +86777,7 @@
 	www.microsoftaffiliates.net
 	www.sqm.microsoft.com
 
+# Microsoft Adbureau
 
 	ad101com-admin.adbureau.net
 	ad101com-images.adbureau.net
@@ -86745,6 +86864,7 @@
 	www.dinclinx.com
 	xos.adbureau.net
 
+# Microsoft Aquantive
 
 	alaskaair.click-url.com
 	americansingles.click-url.com
@@ -86776,6 +86896,7 @@
 	www.msnmessenger-download.click-url.com
 	zonelabs.click-url.com
 
+# Microsoft ATDMT
 
 	adecn-w.atdmt.com
 	analytics.atdmt.com
@@ -86807,6 +86928,7 @@
 	t.atdmt.com
 	www.atdmt.com
 
+# Microsoft MSN
 
 	a.sc.msn.com
 	adcenter.msn.com
@@ -86900,6 +87022,7 @@
 	www.msn.bluemountain.co.uk
 	www.msngamecentre.co.uk
 
+# Microsoft MSN Ads
 
 	0.r.msn.com
 	ac2.msn.com
@@ -86918,6 +87041,7 @@
 	expdb2.msn.com
 	rpt.rad.msn.com
 
+# Microsoft MSN Search
 
 	auto.search.msn.com
 	beta.search.msn.co.uk
@@ -86940,6 +87064,7 @@
 	search.msn.no
 	search.msn.se
 
+# Microsoft Win10
 
 	a-0001.a-msedge.net
 	a.ads1.msn.com
@@ -87045,6 +87170,7 @@
 	wns.windows.com
 	www.msftncsi.com
 
+# Microsoft WM
 
 	autoupdate.windowsmedia.com
 	beta.windowsmedia.com
@@ -87062,6 +87188,7 @@
 	www.windowsmedia.com.ar
 	www.windowsmedia.com.ph
 
+# Miva Corporation
 
 	abcsearch.xmlsearch.miva.com
 	account.eu.miva.com
@@ -87343,6 +87470,7 @@
 	yahoo.espotting.com
 	zsazsa.miva.com
 
+# Mobile Spyware
 
 	119.network
 	a.medialytics.com
@@ -87762,6 +87890,7 @@
 	www1.vip.sc9.admob.com
 	zl.storm8.com
 
+# Mtree (flying croc)
 
 	clicktraq.mtree.com
 	clit16.st.fci.pgserv.flyingcroc.net
@@ -87927,6 +88056,7 @@
 	xbs.pao.mtree.com
 	xbs.sea.mtree.com
 
+# MyWay [spyware.toolbar]
 
 	barcfg.myway.com
 	bfc.myway.com
@@ -87999,6 +88129,7 @@
 	www1.myway.com
 	zn.myway.com
 
+# Netster [affiliate.spyware]
 
 	2.netster.com
 	abacus.netster.com
@@ -88048,6 +88179,7 @@
 	www.www-netster.com
 	yellowpages.netster.com
 
+# New Relic
 
 	beacon-2.newrelic.com
 	beacon-3.newrelic.com
@@ -88066,6 +88198,7 @@
 	rpm.newrelic.com
 	rt.newrelic.com
 
+# NicTech
 
 	debteraser.org
 	kickbackspam.com
@@ -88073,6 +88206,7 @@
 	spyban.com
 	thirdeyecon.com
 
+# Nugg.ad AG [web.spyware]
 
 	a.nuggad.net
 	ad.u.nuggad.net
@@ -88136,6 +88270,7 @@
 	yahoo.nuggad.net
 	yahooit.nuggad.net
 
+# Omniture [web.spyware]
 
 	1-800-volunteer.org.102.112.2o7.net
 	100hot.122.2o7.net
@@ -93412,6 +93547,7 @@
 	zourseucerincom.122.2o7.net
 	zxo.de.102.112.2o7.net
 
+# One Eighty Solutions
 
 	180solutions.com
 	180solutions.net
@@ -93702,6 +93838,7 @@
 	zangoprizes.com
 	zwinky.smileycentral.com
 
+# Online Media Solutions
 
 	cjt1.net
 	j800banners.cjt1.net
@@ -93848,6 +93985,7 @@
 	paltalkjava.cjt1.net
 	www.cjt1.net
 
+# OpenX
 
 	aa-d.openx.net
 	aad.openx.net
@@ -94384,9 +94522,11 @@
 	zam-d3.openxenterprise.com
 	zooplad.openx.net
 
+# Optstal
 
 	dvdconverter.net
 
+# Overture
 
 	3dns.overture.com
 	a-secure.overture.com
@@ -94553,6 +94693,7 @@
 	ypn-jscp.overture.com
 	ypn-jscs.overture.com
 
+# PayCount
 
 	ad.paycount.com
 	ad0.paycount.com
@@ -94822,6 +94963,7 @@
 	ad99.paycount.com
 	paycount.com
 
+# Phishing
 
 	acumtrebuiesasteasus.4t.com
 	ammazon.srv.ro
@@ -94876,6 +95018,7 @@
 	yagenoysentoplesen.com
 	your-sslsecurity.goracer.de
 
+# Phorm [dpi.spyware]
 
 	a.webwise.com
 	b.webwise.com
@@ -94883,6 +95026,7 @@
 	c.webwise.com
 	www.webwise.com
 
+# PinBall Corporation
 
 	3cyweaze.com
 	4carrera.com
@@ -95021,6 +95165,7 @@
 	xlrs7.com
 	yearafteryours.com
 
+# Pr0n
 
 	1fuckyourfantasy.com
 	1gangbangfuckfest.com
@@ -95202,6 +95347,7 @@
 	www.yes-messenger.com
 	xxx.fuckk.org
 
+# Realmedia (247media)
 
 	247access.com
 	247canada.247realmedia.com
@@ -96187,6 +96333,7 @@
 	yellowpages.247realmedia.com
 	yellowpagescollect.247realmedia.com
 
+# RealMedia (InsightFirst)
 
 	admissionsservices.insightfirst.com
 	aol.insightfirst.com
@@ -96425,6 +96572,7 @@
 	zonageek.insightfirst.com
 	zonageekcollect.insightfirst.com
 
+# Realmedia Clients
 
 	ads.nwsource.com
 	ads.pennlive.com
@@ -96634,6 +96782,7 @@
 	sifomedia.tidningsnatet.se
 	www.oascentral.net
 
+# RealNetworks
 
 	account.real.com
 	ad1.realmedia.com
@@ -96858,6 +97007,7 @@
 	www.service.real.com
 	xray.realmedia.com
 
+# RevenueScience [web.spyware]
 
 	ads-pd01-ab.revsci.net
 	ads-pd01.revsci.net
@@ -96926,6 +97076,7 @@
 	www-pn-pd01.revsci.net
 	www.revsci.net
 
+# RoughTed Malvertising
 
 	accouncil.info
 	accouncilist.com
@@ -97207,6 +97358,7 @@
 	zonearmour4u.top
 	zonearmour4u.work
 
+# Search Spammers
 
 	1.tnssearch.com
 	10.tnssearch.com
@@ -97612,6 +97764,7 @@
 	x-google.net
 	youronlinemovies.net
 
+# Site Meter Inc
 
 	s10.sitemeter.com
 	s11.sitemeter.com
@@ -97659,6 +97812,7 @@
 	sm9.sitemeter.com
 	www.sitemeter.com
 
+# Skimlinks
 
 	3amcouk.skimlinks.com
 	abxzonecom.skimlinks.com
@@ -97741,6 +97895,7 @@
 	www.skimlinks.com
 	wwwyournextshoescom.skimlinks.com
 
+# SmartAdServer
 
 	cdn1.smartadserver.com
 	diff2.smartadserver.com
@@ -97801,6 +97956,7 @@
 	www4.smartadserver.com
 	www8.smartadserver.com
 
+# Software & Spyware
 
 	2mgames.com
 	333999.net
@@ -98156,6 +98312,7 @@
 	zecc.net
 	zopa.110mb.com
 
+# Spammers
 
 	amateurporn4free.com
 	amysincome.com
@@ -98261,6 +98418,7 @@
 	www.uptilt.com
 	www.verticalresponse.com
 
+# Spotify Ads
 
 	adclick.g.doublecklick.net
 	adeventtracker.spotify.com
@@ -98293,6 +98451,7 @@
 	u.scdn.co
 	v.jwpcdn.com
 
+# Spybot S&D Entries
 
 	2007-download.com
 	3xcurves.com
@@ -99304,6 +99463,7 @@
 	zjkjw.gov.cn
 	zonealarm-stop.com
 
+# SpyEyeTracker [botnet.trojan]
 
 	100myr.com
 	13copacabana37.u2m.ru
@@ -99669,6 +99829,7 @@
 	zihermantopse.net
 	zipgate.ru
 
+# Spylog
 
 	banners.spylog.com
 	counteraport.spylog.com
@@ -99975,6 +100136,7 @@
 	www.spylog.com
 	www.spylog.ru
 
+# StatCounter
 
 	b005.statcounter.com
 	b007.statcounter.com
@@ -100041,12 +100203,14 @@
 	secure.statcounter.com
 	www.statcounter.com
 
+# Storm [worm]
 
 	blyapizdets.info
 	kentford.cn
 	merrychristmasdude.com
 	traff-mega.net
 
+# Suntimes
 
 	a1.suntimes.com
 	a2.suntimes.com
@@ -100065,6 +100229,7 @@
 	suntimes.com
 	te.suntimes.com
 
+# TagMan
 
 	contact1.levexis.com
 	didit.levexis.com
@@ -100172,6 +100337,7 @@
 	wiki.levexis.com
 	www.levexis.com
 
+# TargetNet
 
 	as-1101.nyc1.targetnet.com
 	as-301.tor3.targetnet.com
@@ -100243,6 +100409,7 @@
 	www.targetnet.com
 	www.targetnetworks.net
 
+# TopMoxie
 
 	bonussavingscenter.com
 	dealsters.com
@@ -100259,6 +100426,7 @@
 	sysupdates.com
 	topmoxie.com
 
+# Tracking & Counters
 
 	005.free-counter.co.uk
 	006.free-counter.co.uk
@@ -101285,6 +101453,7 @@
 	zurich.tcliveeu.com
 	zz.cqcounter.com
 
+# Tradedoubler
 
 	citrix.tradedoubler.com
 	clk.tradedoubler.com
@@ -101342,9 +101511,11 @@
 	www.tradedoubler.ru
 	www.tradedoubler.se
 
+# Traffix Inc
 
 	hotmatch.com
 
+# Transponder
 
 	celticfestival.org
 	chunkybreakfast.com
@@ -101352,6 +101523,7 @@
 	top10sites.com
 	zerotrace.com
 
+# TrekEight
 
 	adawair.com
 	crazydrinks.com
@@ -101359,6 +101531,7 @@
 	i5interactive.com
 	nopop.net
 
+# Trojans
 
 	1-digital-media.com
 	16868.org
@@ -101577,6 +101750,7 @@
 	zuiii.serveblog.net
 	zzrenwu.com
 
+# Tynt Multimedia Inc [web.spyware]
 
 	ac.tynt.com
 	asc.tynt.com
@@ -101811,6 +101985,7 @@
 	www1.tynt.com
 	wz.tynt.com
 
+# Valueclick
 
 	admin.valueclick.com
 	ads.0518.valueclick.jp
@@ -101970,6 +102145,7 @@
 	zmedia.com
 	zmo.net
 
+# VibrantMedia
 
 	101thingstodo.us.intellitxt.com
 	13029.ivillage.us.intellitxt.com
@@ -103181,6 +103357,7 @@
 	zeropaid.us.intellitxt.com
 	zzap.us.intellitxt.com
 
+# Virtual Internet UK LTD
 
 	vi-ads-1001.ads.vi.net
 	vi-ads-1005.ads.vi.net
@@ -103303,6 +103480,7 @@
 	vi-ads-952.ads.vi.net
 	vi-ads-unk.ads.vi.net
 
+# Visible Measures Inc [web.spyware]
 
 	bld100.visiblemeasures.com
 	cage1.visiblemeasures.com
@@ -103310,6 +103488,7 @@
 	log.visiblemeasures.com
 	video.visiblemeasures.com
 
+# Warezov [Trojan]
 
 	20pills.com
 	6phr.com
@@ -103349,10 +103528,12 @@
 	yourtablets.com
 	zybixiwocal.com
 
+# Webhancer [spyware]
 
 	webhancer.com
 	www.webhancer.com
 
+# Webtrends [web.spyware]
 
 	api.webtrends.akadns.net
 	bbandt.webtrends.akadns.net
@@ -103412,6 +103593,7 @@
 	www.webtrends.net
 	www.webtrendslive.com
 
+# Wild Neutron (bot)
 
 	adb.strangled.net
 	ads.digitalinsight-ltd.com
@@ -103437,6 +103619,7 @@
 	updatesoft.eu
 	ww1.jdk-update.com
 
+# WildTangent
 
 	aborted.aim-cda.wildtangent.com
 	aborted.cda.wildtangent.com
@@ -103485,6 +103668,7 @@
 	www.wildtangent.com
 	zeus.wildtangent.com
 
+# WMF Exploit
 
 	60.topnssearch.com
 	aluminumstudios.com
@@ -103511,6 +103695,7 @@
 	winfoundation.org
 	xxxteen.tv
 
+# Worm
 
 	0x80.online-software.org
 	17dk.com
@@ -103566,6 +103751,7 @@
 	xup.hut2.ru
 	zanet.org.za
 
+# Xiti
 
 	dedekind.xiti.com
 	lavoisier.xiti.com
@@ -103661,9 +103847,11 @@
 	www.xiti.com
 	xiti.com
 
+# Xupiter
 
 	timesynchronize.com
 
+# Yahoo Inc
 
 	360.yahoo.com
 	a.analytics.yahoo.com
@@ -104736,6 +104924,7 @@
 	ypn-js.ysm.yahoo.com
 	yq.search.yahoo.com
 
+# Zanox AG
 
 	adrank.net
 	bueromarkt-brockmann.de
@@ -104774,6 +104963,7 @@
 	zxad.com
 	zxad.net
 
+# Zeustracker [botnet.trojan]
 
 	001.bladespoon.cn
 	0md.ru
@@ -106052,6 +106242,7 @@
 	zuverink.net
 	zvezdu-sosut.ru
 
+# Ziff Davis
 
 	adimg.zdnet.com
 	ads.zdnet.co.uk
@@ -106086,6 +106277,7 @@
 	zdnetmetrie.zdnet.co.uk
 	zzdnet.com
 
+# Zlob [botnet.trojan]
 
 	abcdepage.com
 	adnsline.com

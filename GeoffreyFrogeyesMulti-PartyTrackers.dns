@@ -1,3 +1,35 @@
+#
+# "Geoffrey Frogeye's Multi-Party Trackers"
+#
+#
+# Maintainer	: "https://hostfiles.frogeye.fr"
+# Category        : "tracking"
+# Confidence      : 4 
+# First-party trackers host list
+# Variant: multi-party trackers
+#
+# About first-party trackers: https://hostfiles.frogeye.fr/#whats-a-first-party-tracker
+#
+# In case of false positives/negatives, or any other question,
+# contact me the way you like: https://geoffrey.frogeye.fr
+#
+# Latest versions and variants: https://hostfiles.frogeye.fr/#list-variants
+# Source code: https://git.frogeye.fr/geoffrey/eulaurarien
+# License: https://git.frogeye.fr/geoffrey/eulaurarien/src/branch/master/LICENSE
+# Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
+#
+# Generation software: eulaurarien v2.2-8-g8828d4c
+# List generation date: 2020-12-15T00:53:18+01:00
+# Oldest record: 2020-12-11T01:06:36+01:00
+# Number of source websites: 873
+# Number of source subdomains: 1990306
+# Number of source DNS records: ~2E9 + 1344173
+#
+# Input rules: asns: 7, zones: 4112
+# Subsequent rules: asns: 7, hostnames: 69555, ip4s: 68, zones: 4112
+# … no dupplicates: asns: 7, hostnames: 39842, zones: 38
+# Output rules: hostnames: 69555
+#
  000000.ads.tremorhub.com
  0001.ya-man.com
  0002.onlyminerals.jp

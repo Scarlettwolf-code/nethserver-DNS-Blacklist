@@ -1,6 +1,34 @@
+#
+# "Mahakala"
+#
+#
+# Maintainer	: "https://mahakala.is/"
+# Category        : "suspicious"
+# Confidence      : 4 
+# Entries: 81,239
+# As of 2020-12-07 16:04:50 UTC
+# this.generated using github.com/Laicure/HostsZ
 
+# Sources: 15
+# [2,808] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+# [9,211] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# [820] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+# [14,570] https://someonewhocares.org/hosts/zero/hosts
+# [2,214] https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+# [3,558] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=
+# [9,259] http://winhelp2002.mvps.org/hosts.txt
+# [859] https://urlhaus.abuse.ch/downloads/hostfile/
+# [389] https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+# [3,595] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+# [861] https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+# [2,701] https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+# [2,736] https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+# [34] https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# [42,122] https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
+# Loopbacks
 
+# Start
  n2019cov.000webhostapp.com
  webmail-who-int.000webhostapp.com
  010sec.com
@@ -81239,3 +81267,4 @@
  error.bizographics.com
  img.bizographics.com
  imp2.bizographics.com
+# End
