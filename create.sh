@@ -1,6 +1,6 @@
 #!/bin/bash
 #get list of lists
-curl -O https://v.firebog.net/hosts/csv.txt
+#curl -O https://v.firebog.net/hosts/csv.txt
 
 create_file () 
 {
@@ -23,6 +23,7 @@ create_file ()
        	sed -i 's/0.0.0.0//g' "$filename"
 	sed -i '/<*>/d' "$filename"
 }
+
 IFS=","
 while read -r typee tick website name list
 do
