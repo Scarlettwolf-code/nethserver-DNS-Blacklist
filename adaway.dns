@@ -5430,8 +5430,6 @@
  cdn.intergi.com
 # [intermarkets.net]
  intermarkets.net
-# [internetstores.com]
- cloud.internetstores.com
 # [intowow.com]
  intowow.com
  adcfg.intowow.com
@@ -5478,9 +5476,6 @@
 # [iprom.net]
  adserver.iprom.net
 # [ipromote.com]
- cdn.ipromote.com
- fra1.ipromote.com
- fra2.ipromote.com
  i.ipromote.com
  iad1.ipromote.com
  iad2.ipromote.com
@@ -5601,9 +5596,6 @@
  traffick.jivox.com
 # [jorte.com]
  ad.jorte.com
-# [joyeggs.com]
- finlogs.joyeggs.com
- payback.joyeggs.com
 # [jpush.cn]
  im64.jpush.cn
  s.jpush.cn
@@ -5681,8 +5673,6 @@
  screencaptue-cdn.kampyle.com
  screencapture.kampyle.com
  udc-neb.kampyle.com
-# [kaotic.com]
- kaotic.com
 # [kargo.com]
  ad-monitor.kargo.com
  storage.cloud.kargo.com
@@ -8210,7 +8200,6 @@
  ct.pinterest.com
  log.pinterest.com
  trk.pinterest.com
- widgets.pinterest.com
 # [pippio.com]
  pippio.com
 # [pixel.watch]

@@ -13,7 +13,7 @@
 #                                                          #
 #                                                          #
 #**********************************************************#
-# ------------ Updated: October-25-2020 ---------------- #
+# ------------- Updated: December-15-2020 ---------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
@@ -44,7 +44,6 @@
  app.activetrail.com
  ad2games.com
  adadvisor.net
- wad.adbasket.net
  www.adchimp.com
  pixel.adcrowd.com
  ct1.addthis.com
@@ -233,8 +232,6 @@
  cdn.buysellads.com
  traffic.buyservices.com
  www.buzzclick.com
- adnetwork.buzzlogic.com
- tr.buzzlogic.com
  byet.org
  blog.byethost.com
 # [C]
@@ -302,7 +299,6 @@
  sh.creativcdn.net
  adverts.creativemark.co.uk
  ads.crisppremium.com
- stg.widget.crowdignite.com
  i.ctnsnet.com
  ads.milliyet.cubecdn.net
 #  cdn.cxense.com #[affects dagsavisen.no]
@@ -606,7 +602,6 @@
  track.linkoffers.net
  ad.linkstorms.com
  www.linkworth.com
- ads.linuxfoundation.org
  ads.listingware.com
  s1.listrakbi.com
  click.adv.livedoor.com
@@ -745,7 +740,6 @@
  404.online.net
  aa.online-metrix.net
  h.online-metrix.net
- adserver.online-tech.com
  sayac.onlinewebstats.com
  lifemediahouse1.onlinewelten.com
 #  assets.onswipe.com #[affects mobile devices]
@@ -791,7 +785,6 @@
  ads.pinger.com
  www.pixazza.com
  banner.play-asia.com
- pei-ads.playboy.com #[RealMedia]
  pu.plugrush.com
  webstats.plus.net
 #  po.st #[affects URL shortening]
@@ -841,8 +834,6 @@
  qualityporn.biz
  siteinterceptco1.qualtrics.com
  tracking.quisma.com
- adping.qq.com
- adsrich.qq.com
 # [R]
  ads.racunalniske-novice.com
  stats2.radiocompanion.com
@@ -1137,7 +1128,6 @@
  ads.whitelabelpros.com
  wikia-ads.wikia.com
  a.wikia-beacon.com
- cacheserve.williamhill.com
  serve.williamhill.com
  banner-server.winecountry.com
  ads.wineenthusiast.com
@@ -1472,62 +1462,9 @@
  adserver.digitalmedianet.com
 # [ADNC][AS6130][67.207.208.0 - 67.207.223.255]
  metrics.impactengine.com
-# [AdOcean]
- ad.adocean.pl
- aripaee.adocean.pl
- b92rs.adocean.pl
- bg.adocean.pl
- bggde.adocean.pl
- bggde-new.adocean.pl
- blitzbg.adocean.pl
- by.adocean.pl
- cz.adocean.pl
- digital4ro.adocean.pl
- edipresse.adocean.pl
- ee.adocean.pl
- hr.adocean.pl
- hrgde.adocean.pl
- hugde.adocean.pl
- ilgde.adocean.pl
- indexhu.adocean.pl
- keepaneyemk.adocean.pl
- ltgde.adocean.pl
- lt.adocean.pl
- lv.adocean.pl
- my.adocean.pl
- myao.adocean.pl
- pracuj.adocean.pl
- protvmd.adocean.pl
- ringierrs.adocean.pl
- ro.adocean.pl
- ro1ro.adocean.pl
- rogde.adocean.pl
- rs.adocean.pl
- rsgde.adocean.pl
- s1.sk.adocean.pl
- s1.cz.adocean.pl
- s1.czgde.adocean.pl
- s1.edipresse.adocean.pl
- s1.my.adocean.pl
- s1.myao.adocean.pl
- s1.pracuj.adocean.pl
- s1.skgde.adocean.pl
- sk.adocean.pl
- si.adocean.pl
- sportalbg.adocean.pl
- thinkdigitalro.adocean.pl
- trgde.adocean.pl
- tvn.adocean.pl
- tvn2.adocean.pl
- ua.adocean.pl
- vbbg.adocean.pl
- webgroundbg.adocean.pl
 # [AdOrigin Corp][AS19271][209.34.255.0 - 209.34.255.255]
  www.adorigin.com
 # [Adsolutions][Webads Europe][80.79.200.0 - 80.79.200.63]
- storage.adsolutions.nl
- telgids.adsolutions.nl
- adserver.webads.nl
  adserver.webads.co.uk
 # [Advancedhosters][AS39572][192.243.48.0 - 192.243.63.255]
  st-n.ads1-adnow.com
@@ -1590,7 +1527,6 @@
  err.agava.ru
 # [Agora][AS8535][80.252.3.0 - 80.252.3.63]
  static.adtaily.com
- ad.glossymedia.pl
 # [AiNET][AS6405][205.134.160.0 - 205.134.191.255]
  bantam.ai.net
  fiona.ai.net
@@ -1671,7 +1607,6 @@
  adtgs.adk2.co
  cdn.adk2.co
  matomy.adk2.co
- ad-media.xe.gr
 #  assets.adobedtm.com #[affects landsend.com]
  www.adobetag.com #[SiteCatalyst Link Tracking]
  a.adready.com
@@ -1870,10 +1805,6 @@
  h.nexac.com
  log3.optimizely.com
  config.parsely.com
- log.pinion.gg
- motd.pinion.gg #[Game Adverts]
- wiki.pinion.gg
- www.pinion.gg
  statdb.pressflex.com
  js4.ringrevenue.com
  json4.ringrevenue.com
@@ -2102,7 +2033,6 @@
  videe.tv
  pm.w55c.net
  www.whizstats.com
-# [Amazon.com][AS39111][35.152.0.0 - 35.183.255.255]
 # [Amazon.com][AS39111][46.137.0.0 - 46.137.127.255]
  code2.adtlgc.com
  l.linkpulse.com
@@ -2118,7 +2048,6 @@
  go.affec.tv
  www.smartredirect.de
 # [Amazon.com][AS16509][50.112.0.0 - 50.112.255.255]
- api.amplitude.com
  idsync.rlcdn.com
 # [Amazon.com][AS14618][50.16.0.0 - 50.19.255.255]
  web-t.9gag.com #[Piwik.Analytics]
@@ -2249,7 +2178,6 @@
  trk.ablogica.com
  pool.admedo.com
  rudy.adsnative.com
- www.centralsignnew.com #[Riskware/PUP]
  ing-district.clicktale.net
  infinityid.condenastdigital.com
  dmg.demdex.net
@@ -2275,7 +2203,6 @@
  iau.adsiduous.com
  s.amazon-adsystem.com
  fls-eu.amazon-adsystem.com
- creatives.ancoraplatform.com
  track.adthrive.com
  d1v9u0bgi1uimx.cloudfront.net
  d169bbxks24g2u.cloudfront.net
@@ -2298,7 +2225,6 @@
  static.site24x7rum.com
  outcome.supersonicads.com
  adserver.tappsgames.com
- core.videoegg.com
 # [Amazon.com][AS14618][54.144.0.0 - 54.159.255.255]
  t.adk2.com
  vid-io.springserve.net
@@ -2357,7 +2283,6 @@
  d2zah9y47r7bi2.cloudfront.net
  d3qxwzhswv93jk.cloudfront.net
  script.crazyegg.com
- d.dc121677.com
  me-ssl.effectivemeasure.net
  gscounters.eu1.gigya.com
  seccdn-gl.imrworldwide.com
@@ -2367,7 +2292,6 @@
  t.mdn2015x2.com
  ads.mic.com
  dbg52463.moatads.com
- files.native.ad
  ps.ns-cdn.com
  ap.octopuspop.com
  tags.onscroll.com
@@ -2405,8 +2329,6 @@
  matcher.idtargeting.com
  ccs.infospace.com
  www.i.matheranalytics.com #[WebBug]
- stats.mezzobit.com
- analytics.cnd-motionmedia.de
  redirect.com
  www.storygize.net #[WebBug]
  d.tailtarget.com
@@ -2419,9 +2341,7 @@
  z2.zedo.com
 #  segment-data.zqtk.net #[affects wsj.com]
 # [Amazon.com][AS16509][54.224.0.0 - 54.239.255.255]
- s.206ads.com
  ib.3lift.com
- optimize.adpushup.com
  ads-stream.com
  js.apxlv.com
  www.adbooth.com
@@ -2442,7 +2362,6 @@
  cdn.installationsafe.net.s3.amazonaws.com
  slate-ad-scripts.s3.amazonaws.com
  znaptag-us.s3.amazonaws.com
- as.eu.angsrvr.com
  cdn.avmws.com #[AvantMetrics]
  beachfrontio.com
  t.beanstalkdata.com
@@ -2474,8 +2393,6 @@
  col.eum-appdynamics.com
  cdn.evergage.com
  ads.evidon.com
- hj.flxpxl.com
- beacon.guim.co.uk
  cdn.heapanalytics.com
  bundle-geoip.herokuapp.com
  powr-counter.herokuapp.com
@@ -2557,7 +2474,6 @@
  blockmetrics.com
  cache.btrll.com
  engine.carbonads.com
- ycv.clearshieldredirect.com
  d2vig74li2resi.cloudfront.net
  desv383oqqc0.cloudfront.net #[Popcorn Metrics]
  js.convertale.com
@@ -2591,7 +2507,6 @@
  js-agent.newrelic.com
  traffic.pubexchange.com
  orca.qubitproducts.com
- ortc-ws2-useast1-s0005.realtime.co
  a.remarketstats.com
  partner.shareaholic.com
  traffic.shareaholic.com
@@ -2612,9 +2527,6 @@
  api.proofpositivemedia.com
  s.pubmine.com
 # [Amazon.com][AS14618][54.72.0.0 - 54.95.255.255]
- yieldmanager.adbooth.com
- synchroscript.adswizz.com
- synchroscript.deliveryengine.adswizz.com
  secure.adwebster.com
  pixiedust.buzzfeed.com
  comcast.demdex.net
@@ -2678,7 +2590,6 @@
  edge.analytics.brightedge.com
  fhg.digitaldesire.com
  tags.extole.com
- clicks11.geoads.com
  tracking.hubspot.com
  of.inviziads.com
  ads.livepromotools.com
@@ -2689,12 +2600,10 @@
 # [Amazon.com][AS39111][79.125.0.0 - 79.125.63.255]
  d.adroll.com
  s.adroll.com
- s32.research.de.com
  d.skimresources.com
  t.skimresources.com #[WebBug]
  www.supersonicads.com
 # [Amazon.com][AS39111][87.238.82.0 - 87.238.83.255]
- adseu.novem.pl
 # [Amazon.com][16509][99.84.120.0/21]
  tagan.adlightning.com
  cdn-v3.conductrics.com
@@ -2780,7 +2689,6 @@
  logc238.xiti.com
  logc253.xiti.com
  logc279.xiti.com
- logc400.xiti.com
  logc407.xiti.com
  logi4.xiti.com
  logi5.xiti.com
@@ -3060,7 +2968,6 @@
 # [Bulgarian Teleco][AS8866][46.10.0.0 - 46.10.255.255]
  ads.bl-consulting.net
 # [Businessnet][AS13093][192.118.72.0 - 192.118.75.255]
- dclk.haaretz.com
  dclk.themarker.com
 # [Casalemedia][AS27381][192.40.32.0 - 192.40.39.255]
  a1589.casalemedia.com
@@ -3110,15 +3017,11 @@
  ad3.linkbucks.com
  www.linkbucks.com
  gk.rts.sparkstudios.com
-# [Caravan / Lanways-net][AS15756][217.23.132.248 - 217.23.132.255]
- spytrack.tic.ru
-# [Carmen Media][66.212.235.192 - 66.212.235.255]
 # [Caronet][AS13618][174.34.224.0 - 174.34.255.255]
  cdn.zeusclicks.com
 # [Caronet / Aebn][74.81.184.0 - 74.81.185.255]
  hostedbannerads.aebn.net
  realtouchbannerwidget.aebn.net
- ox.tossoffads.com
 # [Caronet][74.81.187.56 - 74.81.187.63]
  affiliate.blucigs.com
  bluhostedbanners.blucigs.com
@@ -3250,8 +3153,6 @@
 # [Choopa][68.232.160.0 - 68.232.191.255]
 # [Chunghwa Telecom][AS3462][210.242.128.0 - 210.242.255.255]
  secure-yt.imrworldwide.com
-# [ClaraNET][AS8426][62.80.0.0 - 62.80.63.255]
- www.free-choices.com
 # [ClaraNET][AS8426][95.0.0.0 - 95.255.255.255]
  3amcouk.skimlinks.com
  bikeforumsnet.skimlinks.com
@@ -3286,64 +3187,14 @@
  stats.clickability.com
 # [Cloudflare][AS13335][104.16.0.0 - 104.31.255.255]
  try.abtasty.com
- ads.adamoads.com
- adclickservice.com
- click.adpremium.org
- hts2.adpremium.org
- hts4.adpremium.org
- js.adpremium.org
- ms.adpremium.org
- asmedia.adsupplyssl.com
- run.adrizer.com
- traffic.adxprts.com
- www.appfindr.org #[Riskware/PUP]
- tracker.bang.com
  srv.bebi.com
- banners.bghelp.co.uk
  buzzcpm.com
  cdnmedia.xyz
  wp1.cor-natty.com
- count.im
- cdn.districtm.ca
- prebid.districtm.ca
- downloadappguide.com
- track.flexlinkspro.com
- ox.furaffinity.net
- rv.furaffinity.net
- www.game-clicks.com
- serve.getpopunder.com
- grabtrk.com
- www.hostadserver.com
- tag.imonomy.com
- us-tracker.inside-graph.com
- embed.insticator.com
- ssl.mousestats.com
- multioptik.com
- myfukbuddy.com
- neki.org
 #  onesignal.com #[blocks Push notifications]
- opensharecount.com
- code.poptm.com
- ads.proboards.com
- www.ps7894.com
- cdn.pubexchange.com
- cdn.quantummetric.com
- qikdownloads.com
- ads.reembed.com
- a10.reflexcash.com
- ads.reflexcash.com
- www.retailproductzone.com
- retracker.com
- samvaulter.com
- seaofads.com
- www.searchapps.me #[Riskware/PUP]
- siteimproveanalytics.com
- counter.snackly.co
  cdn.spoutable.com
  engine.spoutable.com
  www1.tec-tec-boom.com
- code.theads.me
- r1-t.trackedlink.net
  cdn.tynt.com
  pixel.yola.com
  s.zkcdn.net
@@ -3352,22 +3203,8 @@
 # [Cloudflare][AS13335][108.162.192.0 - 108.162.255.255]
  adfoc.us
  img.avatraffic.com
- bestappinstalls.com
- ads.casumoaffiliates.com
- cmtrading.ck-cdn.com
- jque.net
- mh.ogercron.com
- ozertesa.com
- www.pstats.com
- www.xyfex.com
 # [Cloudflare][AS13335][141.101.112.0 - 141.101.119.255]
- adsbookie.com
- ads.adsbookie.com
- cs.luckyorange.net
- settings.luckyorange.net
- upload.luckyorange.net
 #  js.maxmind.com #[affects marchon.com / directvnow.com]
- ads.mylikes.com
  trafficg.com
  www.trafficg.com
  trw12.com
@@ -3381,12 +3218,9 @@
  www.fulltraffic.net
  static.kameleoon.com
  lognormal.net
- cdn.luckyorange.com #[Analytics.Tracker]
- w1.luckyorange.com
  www2.mousestats.com
  opendownloadmanager.com
  popcash.net
- softwareupdaterlp.com #[Win32/DownWare.AA]
 # [Cloudflare][AS13335][173.245.48.0 - 173.245.63.255]
  bokotraffic.com
  bororango.com
@@ -3396,46 +3230,26 @@
  geoservice.curse.com
  pixxur.com
 # [Cloudflare][AS13335][198.41.128.0 - 198.41.255.255]
- opensoftwareupdate.com #[Adware.Downware.3736]
- popmyads.com
- cdn.popmyads.com
  assets.popmarker.com
 # [Cogent / Psinet][AS174][38.0.0.0 - 38.255.255.255]
  3xtraffic.com
  counter.bizland.com
  v.bsvideos.com
- creative.clicksor.com
- ppc-parked.domainsite.com #[Parking Service]
- vcontent.e-messenger.net
- ads.financialcontent.com
  id3103.com
- ad.internetradioinc.com
- click.linkstattrack.com
- ads.lzjl.com
- www.lzjl.com #[PaypopUp]
  ads.newgrounds.com
  www.ngads.com
  adimg.ngfiles.com
- ads.onemodelplace.com
- www.pythonpays.com
  ads.redlightcenter.com
  tor.redlightcenter.com
  ad.trident.net
  a.xanga.com
-# [Cogent][AS174][50.7.0.0 - 50.7.255.255]
- cache.betweendigital.com
 # [Cogent / Psinet][AS174][66.28.0.0 - 66.28.255.255]
  static.hatid.com
  piwik.ientry.com
 # [Colo4dallas][AS30496][173.237.128.0 - 173.237.191.255]
  ads.smartolution.com
-# [Colo4dallas][AS30496][65.99.192.0 - 65.99.255.255]
- e.nspmotion.com
 # [Colo4dallas][AS30496][67.222.133.86 - 67.222.133.93]
  imgc.psychcentral.com
-# [Coloc8][AS33536][64.128.87.0 - 64.128.87.255]
- hop.clickbank.net #[Adware.Clickbank][Adware.ClickDLoader]
- zzz.clickbank.net
 # [Colocall][AS15497][62.149.28.0 - 62.149.28.255]
  e2.molbuk.ua
 # [Colocation Clients][AS8262][85.14.6.0 - 85.14.6.255]
@@ -3456,12 +3270,9 @@
  textad.xxxcupid.com
  textad.xxxmatch.com
 # [Colosseum Online][216.105.94.64 - 216.105.94.95]
- clickedyclick.com #[Tracking.Cookie]
- www.clickedyclick.com
  pod.infinitypersonals.com
  textad.socialsex.com
 # [Colt-hqs][AS8220][217.110.73.160 - 217.110.73.167]
- www.ranking-links.de
  api.zanox.com
 # [Columbus Network Access][AS10297][173.45.111.112 - 173.45.111.127]
  ads.all-free-download.com
@@ -3470,7 +3281,6 @@
 # [Columbus Network Access][AS10297][207.182.128.0 - 207.182.159.255]
  adv.all-free-download.com
 # [Comscore / Relevant Knowledge]
- siterecruit.comscore.com
  oss-content.securestudies.com
  b.scorecardresearch.com
  beacon.scorecardresearch.com #[WebBug]
@@ -3497,15 +3307,9 @@
  survey2.voicefive.com
 # [Coremetrics][AS46589][74.121.132.0 - 74.121.135.255]
  data.abebooks.com #[WebBug.eluminate]
- www25.bathandbodyworks.com #[WebBug.eluminate]
  testdata.coremetrics.com
 # [Core Technology][AS23421][64.29.176.0 - 64.29.191.255]
  www.linkshare.com
-# [Cotendo][AS46281][208.93.136.0 - 208.93.143.255]
- www.ad4mat.ch
- www.da-ads.com
- t.p.mybuys.com
- w.p.mybuys.com
 # [Cotendo][AS46281][98.142.96.0 - 98.142.111.255]
  ads.jpost.com #[RealMedia]
 # [Criteo][AS55569][182.161.73.0 - 182.161.73.255]
@@ -3523,9 +3327,6 @@
  www.criteo.com
 # [Cable & Wireless][AS1273][63.130.0.0 - 63.130.255.255]
  search.ipromote.com
-# [Cybercon][AS7393][64.37.82.96 - 64.37.82.127]
- api.wundercounter.com
- www.wundercounter.com
 # [Cybernet Quest]
  cqcounter.com #[WebBug]
  img.cqcounter.com
@@ -3585,10 +3386,6 @@
  rmedia.adonnetwork.com
 # [Data Centers / Dark Castle][AS12025][72.44.193.0 - 72.44.193.255]
  banners.camdough.com
-# [Datacenter D.o.o][AS41427][193.164.137.0 - 193.164.141.255]
- ad.httpool.com
- aurelius.httpool.com
- trajan.httpool.com
 # [Datagroup][AS21219][80.91.176.128 - 80.91.176.255]
  nsrecord.org
 # [Datapipe][AS24043][122.200.132.0 - 122.200.135.255]
@@ -3613,7 +3410,6 @@
  www.adwarespy.com #[Symantec.AdwareSpy]
  affiliates.bhphotovideo.com
  www.buildtraffic.com
- www.buildtrafficx.com
  www.eliteconcepts.com
  www.loggerx.com
  www.myaffiliateprogram.com
@@ -3740,7 +3536,6 @@
  cdn.engine.adsupply.com
  ads.adultfriendfinder.com
  ads.adxpansion.com
- media.adxpansion.com
  ads.alt.com
  ads.amigos.com
  ads.asiafriendfinder.com
@@ -3778,7 +3573,6 @@
  static.woopra.com
 # [EdgeCast][AS15133][93.184.216.0 - 93.184.223.255]
  g.3gl.net
- adcdn.33universal.com
  static.cdn.adblade.com
  y.cdn.adblade.com
  adunit.cdn.auditude.com
@@ -3856,23 +3650,15 @@
 #  sec1.liveperson.net
 #  server.iad.liveperson.net
 # [Euroaccess][AS34305][193.138.220.0 - 193.138.231.255]
- www.hostedbanners.com
  landingpages.sunnytoolz.com
 # [Euroaccess][AS34305][85.12.0.0 - 85.12.63.255]
  ads.guru3d.com
  banner1.pornhost.com
-# [Eurocolo][AS35230][83.143.168.0 - 83.143.175.255]
- ad3.hornymatches.com
-# [Eurohost][AS48841][91.212.65.0 - 91.212.65.255]
 # [Euro Web][AS35393][91.191.144.0 - 91.191.144.255]
  banner.adserverpub.com
  js.adserverpub.com
  www2.adserverpub.com
-# [Eveloz][AS27716][200.63.46.128/29]
-# [Everydns][AS15135][208.76.56.0 - 208.76.63.255]
 # [eXact Advertising LLC][Innovation Interactive][360i LLC]
- images.brainfox.com
- search.brainfox.com
  www.brainfox.com
  results.cafefind.net
  www.exactadvertising.com
@@ -4047,182 +3833,6 @@
  www.surfaccuracy.com
  ads.sxx.com
  ads.vipcams.com
-# [GeMius]
- 15minadlt.hit.gemius.pl
- hit.gemius.pl #[Tracking.Cookie]
- activeby.hit.gemius.pl
- ad.hit.gemius.pl
- adactiongapl.hit.gemius.pl
- adafi.hit.gemius.pl
- adbg.hit.gemius.pl
- adclick.hit.gemius.pl
- adcz.hit.gemius.pl
- adee.hit.gemius.pl
- adhr.hit.gemius.pl
- adlt.hit.gemius.pl
- adlv.hit.gemius.pl
- adnet.hit.gemius.pl
- adnetgalt.hit.gemius.pl
- adocean-by.hit.gemius.pl
- adocean-cz.hit.gemius.pl
- adocean-ee.hit.gemius.pl
- adocean-hr.hit.gemius.pl
- adocean-lt.hit.gemius.pl
- adocean-lv.hit.gemius.pl
- adocean-pl.hit.gemius.pl
- adocean-ro.hit.gemius.pl
- adocean-si.hit.gemius.pl
- adocean-ua.hit.gemius.pl
- adro.hit.gemius.pl
- adrs.hit.gemius.pl
- advice.hit.gemius.pl
- advicead.hit.gemius.pl
- aolt.hit.gemius.pl
- aolv.hit.gemius.pl
- apolloadlv.hit.gemius.pl
- arbo.hit.gemius.pl
- aripaadee.hit.gemius.pl
- avt.hit.gemius.pl
- allegro.hit.gemius.pl
- axel.hit.gemius.pl
- b92adrs.hit.gemius.pl
- bestjobs.hit.gemius.pl
- bg.hit.gemius.pl
- blitzadbg.hit.gemius.pl
- centrumcz.hit.gemius.pl
- corm.hit.gemius.pl
- cz.hit.gemius.pl
- darikspaceadbg.hit.gemius.pl
- delfiadlt.hit.gemius.pl
- delfiadlv.hit.gemius.pl
- delfiadee.hit.gemius.pl
- delfilv.hit.gemius.pl
- diginetlt.hit.gemius.pl
- digital4adro.hit.gemius.pl
- dirbg.hit.gemius.pl
- edipresse.hit.gemius.pl
- ee.hit.gemius.pl
- eega.hit.gemius.pl
- eniro.hit.gemius.pl
- gaae.hit.gemius.pl
- gaat.hit.gemius.pl
- gaba.hit.gemius.pl
- gabe.hit.gemius.pl
- gabg.hit.gemius.pl
- gaby.hit.gemius.pl
- gacz.hit.gemius.pl
- gadk.hit.gemius.pl
- gaee.hit.gemius.pl
- gadnet.hit.gemius.pl
- gahu.hit.gemius.pl
- gajo.hit.gemius.pl
- gail.hit.gemius.pl
- gakz.hit.gemius.pl
- galb.hit.gemius.pl
- galindia.hit.gemius.pl
- galt.hit.gemius.pl
- galv.hit.gemius.pl
- gamd.hit.gemius.pl
- gamk.hit.gemius.pl
- gapl.hit.gemius.pl
- gars.hit.gemius.pl
- garo.hit.gemius.pl
- garu.hit.gemius.pl
- gask.hit.gemius.pl
- gatr.hit.gemius.pl
- gaua.hit.gemius.pl
- gazeta.hit.gemius.pl
- gdeua.hit.gemius.pl
- gdebg.hit.gemius.pl
- gdeil.hit.gemius.pl
- gdelt.hit.gemius.pl
- gdecz.hit.gemius.pl
- gdelv.hit.gemius.pl
- gdesk.hit.gemius.pl
- gders.hit.gemius.pl
- gdetr.hit.gemius.pl
- gemadhu.hit.gemius.pl
- generalmediaadhu.hit.gemius.pl
- gg.hit.gemius.pl
- gde-default.hit.gemius.pl
- ghmme.hit.gemius.pl
- ghmbg.hit.gemius.pl
- ghmhu.hit.gemius.pl
- ghmpl.hit.gemius.pl
- ghmrs.hit.gemius.pl
- goldbach.hit.gemius.pl
- gspro.hit.gemius.pl
- gtlt.hit.gemius.pl
- gtlv.hit.gemius.pl
- gttr.hit.gemius.pl
- idg.hit.gemius.pl
- hr.hit.gemius.pl
- hu.hit.gemius.pl
- huadn.hit.gemius.pl
- icorpadro.hit.gemius.pl
- idm.hit.gemius.pl
- interia.hit.gemius.pl
- keepaneyeadmk.hit.gemius.pl
- kon.hit.gemius.pl
- lrytasadlt.hit.gemius.pl
- ls.hit.gemius.pl
- lt.hit.gemius.pl
- lv.hit.gemius.pl
- mbank.hit.gemius.pl
- mediaregad.hit.gemius.pl
- metagaua.hit.gemius.pl
- mreg.hit.gemius.pl
- negadbg.hit.gemius.pl
- netsprint.hit.gemius.pl
- neogenadro.hit.gemius.pl
- o2.hit.gemius.pl
- o2adpl.hit.gemius.pl
- oglasnikadhr.hit.gemius.pl
- ohtulehtadee.hit.gemius.pl
- olx.hit.gemius.pl
- onet.hit.gemius.pl
- opt.hit.gemius.pl
- prefix.hit.gemius.pl
- pracuj.hit.gemius.pl
- pro.hit.gemius.pl
- protvadmd.hit.gemius.pl
- rbcgaru.hit.gemius.pl
- realitateadro.hit.gemius.pl
- ringieradrs.hit.gemius.pl
- ro.hit.gemius.pl
- ro1adro.hit.gemius.pl
- rp.hit.gemius.pl
- scz.hit.gemius.pl
- see.hit.gemius.pl
- seznam.hit.gemius.pl
- si.hit.gemius.pl
- sk.hit.gemius.pl
- slovakia.hit.gemius.pl
- slt.hit.gemius.pl
- spir.hit.gemius.pl
- spl.hit.gemius.pl
- sportaladbg.hit.gemius.pl
- st.hit.gemius.pl
- st1.hit.gemius.pl
- std1.hit.gemius.pl #[WebBug]
- str.hit.gemius.pl
- stua.hit.gemius.pl
- thinkdigitaladro.hit.gemius.pl
- tr.hit.gemius.pl
- tvn.hit.gemius.pl
- ua.hit.gemius.pl
- vbadbg.hit.gemius.pl
- webgroundadbg.hit.gemius.pl
- wp.hit.gemius.pl
- wykop.hit.gemius.pl
- home.hit.stat.pl
- onet.hit.stat.pl
- s1.hit.stat.pl
- s2.hit.stat.pl
- s3.hit.stat.pl
- s4.hit.stat.pl
- sisco.hit.stat.pl
- www.stat.pl
 # [Giga-hosting][AS51167][178.238.233.0 - 178.238.233.255]
  baner.energy-torrent.com
 # [Gigenet][AS32181][209.212.144.0 - 209.212.159.255]
@@ -5496,13 +5106,10 @@
  tealium.hs.llnwd.net
  img100-321.xvideos.com
 # [Limelight][69.28.128.0 - 69.28.191.255]
- cdn.advancedmactools.com #[Riskware.Mac/PUP]
 #   libs.coremetrics.com #[affects tMobile/EverBank]
  munchkin.marketo.net
 # [Limestone][AS46475][69.162.64.0 - 69.162.127.255]
  e.freewebhostingarea.com
-# [Limestone][AS46475][74.63.224.172]
- www.advancedmactools.com
 # [Liquid Web][AS32244][209.59.128.0 - 209.59.191.255]
  ad-rotator.com #[adspeed.com]
  serv.adspeed.com
@@ -5852,9 +5459,6 @@
  www.coolfreehost.com
 # [NetHolding][AS24730][81.173.64.0 - 81.173.64.255]
  schoorsteen.geenstijl.nl
-# [Netinfo][AS13147][194.153.145.0 - 194.153.145.255]
-# [Netinfo][AS13147][217.174.144.0 - 217.174.159.255]
- banners.alo.bg
  adv.starozagorci.com
  openx.vsekiden.com
 # [Netinfo][AS13147][78.128.0.0 - 78.128.63.255]
@@ -5863,7 +5467,6 @@
 # [Netinfo][AS13147][87.120.40.0 - 87.120.41.255]
  adv.consadbg.com
 # [NetNation][AS14280][64.40.96.0 - 64.40.127.255]
- www.revisitors.com
  affiliates.thrixxx.com
  content.thrixxx.com
 # [Netsaits BV]
@@ -5890,14 +5493,8 @@
  vip2.clickzs.com
  www.clickzs.com
  www.hit-now.com
-# [Nedstat][AS42320][212.72.32.0 - 212.72.63.255]
- www.netdirect.nl
- startpunt.nu.site-id.nl
- www.site-id.nl
 # [Net Ground][AS41445 ][87.250.141.0 - 87.250.141.255]
  geoaddicted.net
- promotools.islive.nl
- promotools.vpscash.nl
 # [Neterra][AS34224][31.13.222.80 - 31.13.222.95]
  affiliate.bfashion.com
 # [Netvertising][][84.2.34.0 - 84.2.34.63]
@@ -5929,9 +5526,6 @@
  ads9.speedbit.com
  ads10.speedbit.com
  mirrorsearch.speedbit.com
-# [NetVision][AS8584][212.150.0.0 - 212.150.255.255]
- protizer.ru
-# [NetVision][AS1680][212.29.254.192 - 212.29.254.255]
 # [NetVision / Adperform][AS1680][62.90.134.16 - 62.90.134.31]
  www.adoptim.com
  ariboo.com
@@ -7680,7 +7274,6 @@
  www.alenty.com
  secure.audienceinsights.net
  static.audienceinsights.net
- ox2.sterta.pl
 # [Ovh Sas][91.121.144.0 - 91.121.191.255]
  server1.affiz.net
  apicit.net
@@ -7713,7 +7306,6 @@
  adbard.net
  cache.adviva.net
  cdn.amgdgt.com #[WebBug]
- media.baventures.com
  js.bizographics.com
  images.ddc.com #[Parking Service]
  cdn.firstlook.com
@@ -7799,14 +7391,12 @@
  srv.buysellads.com
 # [Peer 1][AS11305][64.224.0.0 - 64.227.255.255]
  www.iboard.com
- cg-global.maxymiser.com
  www.mcsqd.com
 # [Peer 1 / Canadawebhosting][64.33.132.0 - 64.34.132.255]
  ab163949.adbutler-kaon.com
  ads.d-msquared.com
  1.ofsnetwork.com
  centro.pixel.ad
- ads.sportsblog.com
  ab159015.adbutler-zilon.com
 # [Peer 1 / Canadawebhosting][AS13768][65.39.128.0 - 65.39.255.255]
  www.countmypage.com
@@ -7819,10 +7409,7 @@
  www4search.net
 # [Peer 1][AS13601][66.132.128.0 - 66.132.255.255]
  archive.coolerads.com
- counter.co.kz
  hitmodel.net
-# [Peer 1 / Serverbeach][66.135.32.0 - 66.135.63.255]
- openads.hiphopsite.com
 # [Peer 1][AS13768][66.155.16.0 - 66.155.97.255]
  connexionsafe.com
  geo.crtracklink.com
@@ -7844,7 +7431,6 @@
  members.sexroulette.com
 # [Peer 1][70.33.192.0 - 70.33.255.255]
  bb.o2.eyereturn.com
- www.full-edition.info
  musicmembersarea.com
  www.pdf-platinum.info
 # [Peer 1][AS13768][72.51.0.0 - 72.51.63.255]
@@ -7933,10 +7519,6 @@
  vod.topbucks.com
  referral.vod.topbucks.com
  webmaster.topbucks.com
-# [Priority Colo][AS30176][204.11.48.0 - 204.11.55.255]
- dynamic.fmpub.net
- keywords.fmpub.net
- tenzing.fmpub.net
 # [Priority Colo / Enthropia][AS30176][204.11.52.64 - 204.11.52.127]
  mapstats.blogflux.com
  topsites.blogflux.com
@@ -7961,7 +7543,6 @@
  tamprc.com
 # [Prolexic / Crown Solution][AS32787][209.200.162.192 - 209.200.162.223]
  banner.ambercoastcasino.com
- banner.cdpoker.com
  banner.eurogrand.com
  m.friendlyduck.com
 # [Prolexic / Confluence][AS40034][50.58.0.0 - 50.59.255.255]
@@ -7976,17 +7557,12 @@
  ads.canalblog.com
 # [Q9 Networks][AS12188][216.220.32.0 - 216.220.63.255]
  geo.deepmetrix.com
- banners.easydns.com
  www.incentaclick.com
 # [Q9 Networks][AS36031][67.210.208.0 - 67.210.223.255]
  chlcotrk.com
- www.mlinktracker.com
  www.mmtracking.com
- mpmotrk.com
  mprptrk.com
- mpxxtrk.com
  sebcotrk.com
- suscotrk.com
 # [Quantcast][AS27281][64.94.107.0 - 64.94.107.255]
  quantserve.com
  edge.quantserve.com
@@ -8005,7 +7581,6 @@
  www.whitesmoke.us
 # [Qwest][AS209][63.144.0.0 - 63.151.255.255]
  ak1.abmr.net
- ads.xda-developers.com
 # [Qwest][AS209][65.112.0.0 - 65.127.255.255]
  cache.dtmpub.com
  t.omkt.co
@@ -8070,7 +7645,6 @@
 # [Rackspace.com][AS33070][174.143.0.0 - 174.143.255.255]
  banners.brinkin.com
  stats.buysellads.com
- zfhg.digitaldesire.com
  adsrv.ea.com #[affects Battlefield]
  adx.ibibo.com
  pixel.parsely.com
@@ -8157,8 +7731,6 @@
  gd.geobytes.com
  ism2trk.com
  ads.jiwire.com
- clk.madisonlogic.com
- jsc.madisonlogic.com
  oamtrk.com
  clients.pointroll.com
  ads.queendom.com
@@ -8205,11 +7777,7 @@
  banners.toteme.com
  cachebanners.toteme.com
 # [Reasonnet][AS25525][83.98.203.128 - 83.98.203.255]
- gfx.webmasterprofitcenter.com
- promo.webmasterprofitcenter.com
  promo.worldprofitcenter.com
-# [Reflected Networks][AS29789][208.99.64.0 - 208.99.95.255]
- ads.profitsdeluxe.com
 # [Reflected Networks][AS29789][209.239.160.0 - 209.239.175.255]
  ads.playboy.com
  delivery.trafficforce.com
@@ -8243,9 +7811,6 @@
  www.naughty-traffic.com
 # [Righthosting.com / ZMac][AS14576][67.220.139.64 - 67.220.139.127]
  ads.host.camz.com
-# [Righthosting.com][AS14576][67.220.140.0 - 67.220.141.255]
- ads.amateurmatch.com
- ads.datinggold.com
 # [Saferoute][AS7415][69.172.216.0 - 69.172.216.255]
  5726.bapi.adsafeprotected.com
  6063.bapi.adsafeprotected.com
@@ -8298,8 +7863,6 @@
  analytics.slashdotmedia.com #[Piwik.Analytics]
  images-aud.sourceforge.net
  events.webflowmetrics.com
-# [Savvis / Nextpoint][216.69.224.0 - 216.69.239.255]
- track1.breakmedia.com
 # [Savvis / Creative Media][216.74.128.0 - 216.74.191.255]
  alt.webtraxs.com
  www.webtraxs.com
@@ -8348,10 +7911,6 @@
  www.joinourwebsite.com
  tgp.pornsponsors.com
  www.pornsponsors.com
-# [Secured Servers][AS20454][198.15.64.0 - 198.15.127.255]
- www.ccbilleu.com
-# [Secured Servers][AS20454][209.188.14.0 - 209.188.14.255]
- banners.lativio.com
 # [Secured Servers][AS20454][64.38.192.0 - 64.38.255.255]
  serve.ads.chaturbate.com
  bill.ecsuite.com
@@ -8372,7 +7931,6 @@
  www1.sedoparking.com
 # [ServePath][157.22.32.0 - 157.22.47.255]
  www.incentivenetworks2.com
-# [ServePath][173.1.0.0 - 173.1.127.255]
 # [ServePath][AS26228][204.51.128.0 - 204.51.255.255]
  ideoclick.com
 # [ServePath][AS26228][208.96.0.0 - 208.96.63.255]
@@ -8557,7 +8115,6 @@
 # [Softlayer][AS36351][173.192.0.0 - 173.193.255.255]
  d1.24counter.com
  www.admixxer.com
- affrh2019.com
  bluekai.com
  analytics.bluekai.com
  stags.bluekai.com
@@ -8577,7 +8134,6 @@
  px.owneriq.net
  spx.owneriq.net
  28.securefinds2.com
- stats.snacktools.net
  tags.t.tailtarget.com
  h.verticalscope.com
  w55c.net
@@ -8593,8 +8149,6 @@
  www.besthitsnow.com
  www.cashlayer.com
  juggler.services.disqus.com
- ads.imaging-resource.com
- ad.leadbolt.net
  ads.right-ads.com
  ad.slashgear.com
  www.supremehits.net
@@ -8624,10 +8178,6 @@
  c3.gostats.com
  c4.gostats.com
  monster.gostats.com
- gostats.pl
- gostats.ru
- c4.gostats.ru
- monster.gostats.ru
  s4.histats.com
  s10.histats.com
  s11.histats.com
@@ -8635,13 +8185,11 @@
  s129js.histats.com
  sstatic1.histats.com
  in-appadvertising.com
- widget6.linkwithin.com
  peerfly.com
  tracking.softwareprojects.com
  ads.somd.com
  webstats.thaindian.com
  www.trafficpace.com
- stats.vodpod.com
 # [Softlayer][AS36351][37.58.82.248 - 37.58.82.255]
  service.clicksvenue.com
  eu-px.steelhousemedia.com
@@ -9144,27 +8692,10 @@
  vip.clickzzs.nl
  vip2.clickzzs.nl
 # [Trueserver][87.233.141.0 - 87.233.228.255]
- a3.adzs.nl
- a4.adzs.nl
- img.adzs.nl
  www.cash4members.com
  privatamateure.com #[Sagnet Group]
  webmaster.privatamateure.com
  www.privatamateure.com
-# [TutHost / Samotlortelecom][AS44820][91.203.4.0 - 91.203.7.255]
-# [Tw Telecom][AS4323][174.46.0.0 - 174.47.255.255]
- servedby.ipromote.com
-# [Tw Telecom][AS4323][206.80.0.0 - 206.80.31.255]
- pureleads.com
-# [Tw Telecom][AS4323][216.120.224.0 - 216.120.255.255]
- boloz.com
-# [Tw Telecom][AS4323][66.192.0.0 - 66.195.255.255]
- testats.inuvo.com
- tracking.inuvo.com
- myap.liveperson.com
- img1.ncsreporting.com
- www.ncsreporting.com
- ads.proz.com
 # [Uaonline / Real International][AS46636][88.214.192.0 - 88.214.255.255]
  femeedia.com
  gbscript.com
@@ -9287,19 +8818,12 @@
 # [VeriCenter / Coremetrics][209.235.28.0 - 209.235.28.255]
  data.cmcore.com
  analytics.harpercollins.com
- d1.playboy.com
-# [VeriCenter / Coremetrics][66.179.0.0 - 66.179.255.255]
- www2.kiehls.com
 # [VeriCenter / Coremetrics][69.48.237.0 - 69.48.237.255]
  log.aebn.net #[WebBug.eluminate]
 # [VeriCenter][AS33502][216.205.80.0 - 216.205.95.255]
  www3.bloomingdales.com
- core.bluefly.com
  cmd.customink.com
- rpt.footlocker.com
  www25.victoriassecret.com #[WebBug.eluminate]
-# [Verizon][AS702][193.67.160.0 - 193.67.167.255]
- webtrends1.britishgas.co.uk
 # [Verizon][AS702][212.153.70.0 - 212.155.198.31]
  secure-eu.imrworldwide.com
 # [ViaWest][AS13649][204.238.82.0 - 204.238.82.255]
@@ -10137,12 +9661,9 @@
  xml.ad-maven.com
  filter.adxfactory.com
  xml.adxfactory.com
- realtime.deximedia.com
  cpanel.nativeads.com
  exchange.nativeads.com
- xml.plusfind.net
  cpv.popxml.com
- xml.quiveradnet.com
  app.super-links.net
  cpm.super-links.net
 # [Webair][AS36057][174.137.128.0 - 174.137.191.255]
@@ -10151,7 +9672,6 @@
  xml.adsparkmedia.net
  xml.adventurefeeds.com
  affiliates.hookup.com
- xml.mxsads.com
  xml.onwardclick.com
 # [Webair][AS36057][198.134.112.230]
  rtb.nativeads.com
@@ -10199,7 +9719,6 @@
 # [WebaZilla][AS35415][185.49.144.0 - 185.49.147.255]
  go.ad2up.com
  adsvids.com
- padsdel.cdnads.com
  go.padsdel.com
  go.padsdelivery.com
  go.padstm.com

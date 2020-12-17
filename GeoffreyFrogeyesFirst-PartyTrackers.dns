@@ -19,16 +19,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.2-8-g8828d4c
-# List generation date: 2020-12-15T00:53:18+01:00
+# List generation date: 2020-12-17T00:57:04+01:00
 # Oldest record: 2020-12-11T01:06:36+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1344173
+# Number of source DNS records: ~2E9 + 1338701
 #
 # Input rules: asns: 7, zones: 32
-# Subsequent rules: asns: 7, hostnames: 56571, ip4s: 68, zones: 32
-# … no dupplicates: asns: 7, hostnames: 29896, zones: 32
-# Output rules: hostnames: 56571
+# Subsequent rules: asns: 7, hostnames: 56581, ip4s: 68, zones: 32
+# … no dupplicates: asns: 7, hostnames: 29897, zones: 32
+# Output rules: hostnames: 56581
 #
  0001.ya-man.com
  0002.onlyminerals.jp
@@ -8743,6 +8743,7 @@
  bp4apps.horus.biz
  bpa.affex.org
  bp.affex.org
+ b.par.vip.prod.criteo.com
  bpcqyo.morozko-shop.ru
  bpe2.destinia.co.il
  bpm.affex.org
@@ -9372,6 +9373,7 @@
  cbs.affex.org
  cbsd.am5.vip.prod.criteo.com
  cbsd.da1.vip.prod.criteo.com
+ cbsd.par.vip.prod.criteo.com
  cbsd.va1.vip.prod.criteo.com
  cbt.affex.org
  cbtm.klarmobil.de
@@ -14395,6 +14397,7 @@
  dynamic.par.vip.prod.criteo.com
  dynamics.affex.org
  dynamictsi.actonsoftware.com
+ dynamic.ty5.vip.prod.criteo.com
  dynamic.va1.vip.prod.criteo.com
  dynovo.actonservice.com
  dys.affex.org
@@ -14900,6 +14903,7 @@
  ebs.criteo.com
  ebs.da1.vip.prod.criteo.com
  ebs.green-dog.com
+ ebs.hk5.vip.prod.criteo.com
  ebs-paris-fr.eulerian.net
  ebs.par.vip.prod.criteo.com
  ebs.pulito.co.jp
@@ -17371,15 +17375,19 @@
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com
  gbc6.fr.eu.criteo.com
+ gbc6.hk.as.criteo.com
+ gbc6.nl.eu.criteo.com
  gbc6.sv.us.criteo.com
  gbc6.va.us.criteo.com
  gbc7.da.us.criteo.com
  gbc7.fr.eu.criteo.com
+ gbc7.jp.as.criteo.com
  gbc7.nl.eu.criteo.com
  gbc7.sv.us.criteo.com
  gbc7.va.us.criteo.com
  gbc8.da.us.criteo.com
  gbc8.fr.eu.criteo.com
+ gbc8.jp.as.criteo.com
  gbc8.nl.eu.criteo.com
  gbc8.sv.us.criteo.com
  gbc8.va.us.criteo.com
@@ -17468,6 +17476,7 @@
  geoproxy.criteo.net
  geoproxy.da1.vip.prod.criteo.net
  geoproxy.par.vip.prod.criteo.net
+ geoproxy.va1.vip.prod.criteo.net
  george.affex.org
  georges.affex.org
  georgia.affex.org
@@ -28696,6 +28705,7 @@
  mug.criteo.com
  mug.da1.vip.prod.criteo.com
  mugen.affex.org
+ mug.par.vip.prod.criteo.com
  mug.va1.vip.prod.criteo.com
  mulberry.affex.org
  muller.affex.org

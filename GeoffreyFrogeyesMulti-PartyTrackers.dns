@@ -19,16 +19,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.2-8-g8828d4c
-# List generation date: 2020-12-15T00:53:18+01:00
+# List generation date: 2020-12-17T00:57:04+01:00
 # Oldest record: 2020-12-11T01:06:36+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1344173
+# Number of source DNS records: ~2E9 + 1338701
 #
-# Input rules: asns: 7, zones: 4112
-# Subsequent rules: asns: 7, hostnames: 69555, ip4s: 68, zones: 4112
-# … no dupplicates: asns: 7, hostnames: 39842, zones: 38
-# Output rules: hostnames: 69555
+# Input rules: asns: 7, zones: 4118
+# Subsequent rules: asns: 7, hostnames: 69577, ip4s: 68, zones: 4118
+# … no dupplicates: asns: 7, hostnames: 39843, zones: 34
+# Output rules: hostnames: 69577
 #
  000000.ads.tremorhub.com
  0001.ya-man.com
@@ -1419,6 +1419,7 @@
  3l5qa-5d943.ads.tremorhub.com
  3l5qa-5vku1.ads.tremorhub.com
  3l5qa-7zhly.ads.tremorhub.com
+ 3l5qa-8a0pr.ads.tremorhub.com
  3l5qa-9tfpj.ads.tremorhub.com
  3l5qa-9z6ix.ads.tremorhub.com
  3l5qa-cl89e.ads.tremorhub.com
@@ -1438,6 +1439,7 @@
  3l5qa-sj8y2.ads.tremorhub.com
  3l5qa-tgx9y.ads.tremorhub.com
  3l5qa-tr9e2.ads.tremorhub.com
+ 3l5qa-vp6j0.ads.tremorhub.com
  3l5qa-wlwhk.ads.tremorhub.com
  3mark.actonservice.com
  3nur.michelin.co.uk
@@ -1493,6 +1495,7 @@
  4b54c372f1160c0214905f3dcd3e126ebb6b41f4.cws.conviva.com
  4cac35af27856042182d4b583614edf2aea81124.cws.conviva.com
  4cywq-4vxh0.ads.tremorhub.com
+ 4cywq-eqnre.ads.tremorhub.com
  4dt2-r71si.ads.tremorhub.com
  4eab9a5b0a43480d5596a173e7a24851b7969a08.cws.conviva.com
  4o2my.ads.tremorhub.com
@@ -7924,6 +7927,7 @@
  ads.sprout-ad.com
  ads.srax.com
  ads.ssp.shufoo.net
+ ads.tremorhub.com
  ad.suprint.jp
  ads.up-value.de
  ads.us.criteo.com
@@ -9921,6 +9925,7 @@
  aypbpr.tokopedia.com
  ayradvertiser-gb.ayradvertiser.com
  ays6l-35iy3.ads.tremorhub.com
+ ays6l-a8tes.ads.tremorhub.com
  ays6l-da7iy.ads.tremorhub.com
  ayuda.affex.org
  az3dz.ads.tremorhub.com
@@ -11033,6 +11038,7 @@
  bp4apps.horus.biz
  bpa.affex.org
  bp.affex.org
+ b.par.vip.prod.criteo.com
  bpce.demdex.net
  bpcqyo.morozko-shop.ru
  bpe2.destinia.co.il
@@ -11791,6 +11797,7 @@
  cbs.affex.org
  cbsd.am5.vip.prod.criteo.com
  cbsd.da1.vip.prod.criteo.com
+ cbsd.par.vip.prod.criteo.com
  cbsd.va1.vip.prod.criteo.com
  cbsi.demdex.net
  cbsmsacompanhiabrasileira.demdex.net
@@ -12597,6 +12604,7 @@
  cguke-arsu8.ads.tremorhub.com
  cguke-ct6ea.ads.tremorhub.com
  cguke-d80fq.ads.tremorhub.com
+ cguke-fqbkq.ads.tremorhub.com
  cguke-g8a15.ads.tremorhub.com
  cguke-gfurt.ads.tremorhub.com
  cguke-heqqp.ads.tremorhub.com
@@ -25899,6 +25907,7 @@
  dynamic.par.vip.prod.criteo.com
  dynamics.affex.org
  dynamictsi.actonsoftware.com
+ dynamic.ty5.vip.prod.criteo.com
  dynamic.va1.vip.prod.criteo.com
  dyn.care.com
  dyn.hatchbuck.com
@@ -26430,6 +26439,7 @@
  ebs.criteo.com
  ebs.da1.vip.prod.criteo.com
  ebs.green-dog.com
+ ebs.hk5.vip.prod.criteo.com
  ebs-paris-fr.eulerian.net
  ebs.par.vip.prod.criteo.com
  ebs.pulito.co.jp
@@ -26717,6 +26727,7 @@
  el0u2-5nqke.ads.tremorhub.com
  el0u2-alvzk.ads.tremorhub.com
  el0u2-cdjgc.ads.tremorhub.com
+ el0u2-db0q8.ads.tremorhub.com
  el0u2-dlor9.ads.tremorhub.com
  el0u2-kb3o3.ads.tremorhub.com
  el0u2-ve3bu.ads.tremorhub.com
@@ -26953,6 +26964,7 @@
  em1jn-a3ve7.ads.tremorhub.com
  em1jn-f2uz6.ads.tremorhub.com
  em1jn-ngioz.ads.tremorhub.com
+ em1jn-o4epm.ads.tremorhub.com
  em1jn-tec0c.ads.tremorhub.com
  em1jn-xfole.ads.tremorhub.com
  em1jobs-gb.em1jobs.com
@@ -27502,6 +27514,8 @@
  epsonuk.demdex.net
  epz8.salutilescanaries.com
  eq97f-0jx8b.ads.tremorhub.com
+ eq97f-1j0az.ads.tremorhub.com
+ eq97f-2zjlm.ads.tremorhub.com
  eq97f-3ak3i.ads.tremorhub.com
  eq97f-d1alp.ads.tremorhub.com
  eq97f-d6025.ads.tremorhub.com
@@ -27549,6 +27563,7 @@
  erepublic.actonservice.com
  er.eulerian.net
  erf4d-08eyy.ads.tremorhub.com
+ erf4d-7m53b.ads.tremorhub.com
  erf4d-apmlm.ads.tremorhub.com
  erf4d-mpbzg.ads.tremorhub.com
  ergoag.demdex.net
@@ -27677,6 +27692,7 @@
  esxi03.affex.org
  esxi04.affex.org
  esxi.affex.org
+ esy8v-lruz1.ads.tremorhub.com
  esy8v-oj7wd.ads.tremorhub.com
  esy8v-uoeng.ads.tremorhub.com
  esy8v-ypf6a.ads.tremorhub.com
@@ -29294,15 +29310,19 @@
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com
  gbc6.fr.eu.criteo.com
+ gbc6.hk.as.criteo.com
+ gbc6.nl.eu.criteo.com
  gbc6.sv.us.criteo.com
  gbc6.va.us.criteo.com
  gbc7.da.us.criteo.com
  gbc7.fr.eu.criteo.com
+ gbc7.jp.as.criteo.com
  gbc7.nl.eu.criteo.com
  gbc7.sv.us.criteo.com
  gbc7.va.us.criteo.com
  gbc8.da.us.criteo.com
  gbc8.fr.eu.criteo.com
+ gbc8.jp.as.criteo.com
  gbc8.nl.eu.criteo.com
  gbc8.sv.us.criteo.com
  gbc8.va.us.criteo.com
@@ -29402,6 +29422,7 @@
  geoproxy.criteo.net
  geoproxy.da1.vip.prod.criteo.net
  geoproxy.par.vip.prod.criteo.net
+ geoproxy.va1.vip.prod.criteo.net
  george.affex.org
  georges.affex.org
  georgia.affex.org
@@ -41019,6 +41040,7 @@
  mug.criteo.com
  mug.da1.vip.prod.criteo.com
  mugen.affex.org
+ mug.par.vip.prod.criteo.com
  mug.va1.vip.prod.criteo.com
  mulberry.affex.org
  muller.affex.org
