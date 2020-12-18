@@ -19,16 +19,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.2-8-g8828d4c
-# List generation date: 2020-12-17T00:57:04+01:00
+# List generation date: 2020-12-18T00:52:54+01:00
 # Oldest record: 2020-12-11T01:06:36+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1338701
+# Number of source DNS records: ~2E9 + 1344515
 #
 # Input rules: asns: 7, zones: 32
-# Subsequent rules: asns: 7, hostnames: 56581, ip4s: 68, zones: 32
+# Subsequent rules: asns: 7, hostnames: 56584, ip4s: 68, zones: 32
 # … no dupplicates: asns: 7, hostnames: 29897, zones: 32
-# Output rules: hostnames: 56581
+# Output rules: hostnames: 56584
 #
  0001.ya-man.com
  0002.onlyminerals.jp
@@ -17353,6 +17353,7 @@
  gbc0.da.us.criteo.com
  gbc0.fr.eu.criteo.com
  gbc0.hk.as.criteo.com
+ gbc0.nl.eu.criteo.com
  gbc0.sv.us.criteo.com
  gbc0.va.us.criteo.com
  gbc1.da.us.criteo.com
@@ -17365,12 +17366,14 @@
  gbc2.va.us.criteo.com
  gbc3.da.us.criteo.com
  gbc3.fr.eu.criteo.com
+ gbc3.nl.eu.criteo.com
  gbc3.sv.us.criteo.com
  gbc3.va.us.criteo.com
  gbc4.da.us.criteo.com
  gbc4.sv.us.criteo.com
  gbc4.va.us.criteo.com
  gbc5.da.us.criteo.com
+ gbc5.fr.eu.criteo.com
  gbc5.sv.us.criteo.com
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com

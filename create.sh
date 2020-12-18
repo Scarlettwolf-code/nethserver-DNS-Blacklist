@@ -10,12 +10,12 @@ create_file ()
 	website=$(echo $2 | tr -d '"')
 	typee=$(echo $3 | tr -d '"')
 	list=$(echo $4 | tr -d '"')
-	#crate header
+	#create header
 	echo -e "#\n# $name\n#\n#" > "$filename"
 	echo "# Maintainer	: $website" >> "$filename"
 	echo "# Category        : $typee" >> "$filename"
 	echo "# Confidence      : 4 " >> "$filename"
-	curl $list >> "$filename"
+	curl -# --connect-timeout 30 --max-time 90 $list >> "$filename"
 	#sed -i '/#/d' "$filename"
         sed -i '/localhost/d' "$filename" 
 	sed -i '/^$/d' "$filename" 
@@ -28,9 +28,8 @@ IFS=","
 while read -r typee tick website name list
 do
 
-create_file $name $website $typee $list &
+create_file $name $website $typee $list
 
 done < csv.txt
 
-wait
-exit
+

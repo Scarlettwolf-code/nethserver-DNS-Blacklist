@@ -19,16 +19,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v2.2-8-g8828d4c
-# List generation date: 2020-12-17T00:57:04+01:00
+# List generation date: 2020-12-18T00:52:54+01:00
 # Oldest record: 2020-12-11T01:06:36+01:00
 # Number of source websites: 873
 # Number of source subdomains: 1990306
-# Number of source DNS records: ~2E9 + 1338701
+# Number of source DNS records: ~2E9 + 1344515
 #
-# Input rules: asns: 7, zones: 4118
-# Subsequent rules: asns: 7, hostnames: 69577, ip4s: 68, zones: 4118
-# … no dupplicates: asns: 7, hostnames: 39843, zones: 34
-# Output rules: hostnames: 69577
+# Input rules: asns: 7, zones: 4122
+# Subsequent rules: asns: 7, hostnames: 69584, ip4s: 68, zones: 4122
+# … no dupplicates: asns: 7, hostnames: 39845, zones: 36
+# Output rules: hostnames: 69584
 #
  000000.ads.tremorhub.com
  0001.ya-man.com
@@ -2190,6 +2190,7 @@
  7330213.collect.igodigital.com
  734235127041830.wt-eu02.net
  73.affex.org
+ 73aj2-6461t.ads.tremorhub.com
  73aj2-xba3h.ads.tremorhub.com
  74.affex.org
  7510f0943092c328e1943b38d4c9644576b2d233.cws.conviva.com
@@ -8566,6 +8567,7 @@
  analytics.dignotion.com
  analytics.directive.com
  analytics.dreamsresorts.com
+ analytics.faw-sky.com.akadns.net
  analytics.ferguson.com
  analytics.firespring.com
  analytics.fishtrack.com
@@ -10295,6 +10297,7 @@
  bc-us-east.bidswitch.net
  bd2.idgdmg.com.cn
  bd2.idgdmg.com.cn.cname3300.yjs-cdn.com
+ bd2-ly.6789.com.cname3717.yjs-cdn.com
  bd91a373d532376de4e51bf4da86644ea4dce9eb.cws.conviva.com
  bd.a0.top.mail.ru
  bd.a1.top.mail.ru
@@ -29288,6 +29291,7 @@
  gbc0.da.us.criteo.com
  gbc0.fr.eu.criteo.com
  gbc0.hk.as.criteo.com
+ gbc0.nl.eu.criteo.com
  gbc0.sv.us.criteo.com
  gbc0.va.us.criteo.com
  gbc1.da.us.criteo.com
@@ -29300,12 +29304,14 @@
  gbc2.va.us.criteo.com
  gbc3.da.us.criteo.com
  gbc3.fr.eu.criteo.com
+ gbc3.nl.eu.criteo.com
  gbc3.sv.us.criteo.com
  gbc3.va.us.criteo.com
  gbc4.da.us.criteo.com
  gbc4.sv.us.criteo.com
  gbc4.va.us.criteo.com
  gbc5.da.us.criteo.com
+ gbc5.fr.eu.criteo.com
  gbc5.sv.us.criteo.com
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com
@@ -29497,6 +29503,7 @@
  gfnokk.natro.com
  gforge.affex.org
  g.fr.msn.ca
+ gf.s.360.cn
  gfs.affex.org
  gfstest.affex.org
  gfv4.destinia.co.za
