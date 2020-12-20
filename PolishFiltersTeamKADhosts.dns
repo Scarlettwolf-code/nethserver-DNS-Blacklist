@@ -8,8 +8,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 18 Dec 2020, 16:04 UTC+01
-# Version: 2020.12.18.1
+# Last modified: Sat, 19 Dec 2020, 20:04 UTC+01
+# Version: 2020.12.19.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -392,6 +392,7 @@
  demokracjaxxiwieku.pl
  deraspspn.pl
  dersay.pl
+ desin.pl
  diabakter.pl
  diapress.pl
  dietasouthbeach.com.pl
@@ -2265,6 +2266,7 @@
  www.demokracjaxxiwieku.pl
  www.deraspspn.pl
  www.dersay.pl
+ www.desin.pl
  www.diabakter.pl
  www.diapress.pl
  www.dietasouthbeach.com.pl
@@ -5110,6 +5112,7 @@
  cennik.live
  cennik.site
  cennik.space
+ cennik.xyz
  cennik-paczkl.space
  cennlk-przesylki.online
  centralmovies.network
@@ -5948,6 +5951,7 @@
  gloosuj-pomagaj.eu
  gloriakurier.org
  glosowanie-gniezno.vot.pl
+ glosowanie-katowice.vot.pl
  glosowanie-kliknij.eu
  glosowanie-konkurs.eu
  glosowanie-lodzkie.edl.pl
@@ -5955,6 +5959,7 @@
  glosowanie-quiz.eu
  glosowanie-slask.vot.pl
  glosowanie-voucher.eu
+ glosowanie-warszawa.microhost.com.pl
  glosowanie-wielkopolska.vot.pl
  glosowanie-wykonuj.eu
  glosujemy-konkursy.eu
@@ -6444,6 +6449,7 @@
  lifikurier.com
  lightcloud.pl
  lightmusic.pl
+ liheas.com
  likuidator.com
  limit24.you2.pl
  limkon.com
@@ -6452,6 +6458,7 @@
  linkpay.cc
  linkpay.top
  linkpaypl.xyz
+ linkssd.com
  link-operator24.com
  lisygarments.com
  lite-messenger.com
@@ -6464,6 +6471,7 @@
  lngstart-business.com
  lng-business-start.com
  lng-start-business.com
+ lnkpay.me
  lnnpost.net
  lnpost.cc
  lnpost.me
@@ -7122,7 +7130,9 @@
  olx-q.pl
  olx-save.pl
  olx-secure.pl
+ olx-service.pl
  olx-shipping.eu
+ olx-si.pl
  olx-spedycja.pl
  olx-trade.pl
  olx-transfer.info
@@ -7132,6 +7142,7 @@
  olx-wyplata.pl
  olx-y.pl
  olx-z.pl
+ olx-zamowienie.co
  olx-zamowienie.eu
  olx-zamowienie.me
  olx-zamowienie.org
@@ -7269,6 +7280,7 @@
  oplaty24-kurier.com
  opliaty.com
  opole-24-pl.netlify.app
+ opole-24-pl.netlify.com
  optimalpoland.pl
  optminers.com
  orange-kodzik.890m.com
@@ -7489,6 +7501,7 @@
  plansznoobki.pl
  plast-chem.com.pl
  platinumtradeinvestment.com
+ platnosci.live
  platnosci.netflix.kutuasetat.com
  platnosci24.services
  platnoscionline.xyz
@@ -7757,6 +7770,7 @@
  profa.cba.pl
  profitgems.co
  profitmaximum.pl
+ profitrevolution.live
  programyobywatelskie.pl
  projectsociety.pl
  projekt-pomocy.eu
@@ -8955,6 +8969,7 @@
  www.cennik.live
  www.cennik.site
  www.cennik.space
+ www.cennik.xyz
  www.centralmovies.network
  www.centram24.pl
  www.centrolinguisticorobert.com
@@ -9890,6 +9905,7 @@
  www.lifikurier.com
  www.lightcloud.pl
  www.lightmusic.pl
+ www.liheas.com
  www.likuidator.com
  www.limit24.you2.pl
  www.limkon.com
@@ -9898,11 +9914,13 @@
  www.linkpaypl.xyz
  www.linkpay.cc
  www.linkpay.top
+ www.linkssd.com
  www.lisygarments.com
  www.liversely.com
  www.liviaoptions.com
  www.living2winning.com
  www.lldi.pl
+ www.lnkpay.me
  www.lnnpost.net
  www.lnpost24.net
  www.lnpostapps.com
@@ -10489,6 +10507,7 @@
  www.platinumtradeinvestment.com
  www.platnosci24.services
  www.platnoscionline.xyz
+ www.platnosci.live
  www.platnosci.netflix.kutuasetat.com
  www.play18ok.info
  www.play24sklep.com
@@ -10624,6 +10643,7 @@
  www.profa.cba.pl
  www.profitgems.co
  www.profitmaximum.pl
+ www.profitrevolution.live
  www.programyobywatelskie.pl
  www.projectsociety.pl
  www.promienieszczescia.pl
@@ -11727,6 +11747,7 @@
  www.glob-markets.pro
  www.gloosuj-pomagaj.eu
  www.glosowanie-gniezno.vot.pl
+ www.glosowanie-katowice.vot.pl
  www.glosowanie-kliknij.eu
  www.glosowanie-konkurs.eu
  www.glosowanie-lodzkie.edl.pl
@@ -11734,6 +11755,7 @@
  www.glosowanie-quiz.eu
  www.glosowanie-slask.vot.pl
  www.glosowanie-voucher.eu
+ www.glosowanie-warszawa.microhost.com.pl
  www.glosowanie-wielkopolska.vot.pl
  www.glosowanie-wykonuj.eu
  www.glosujemy-konkursy.eu
@@ -12150,7 +12172,9 @@
  www.olx-q.pl
  www.olx-save.pl
  www.olx-secure.pl
+ www.olx-service.pl
  www.olx-shipping.eu
+ www.olx-si.pl
  www.olx-spedycja.pl
  www.olx-trade.pl
  www.olx-transfer.info
@@ -12160,6 +12184,7 @@
  www.olx-wyplata.pl
  www.olx-y.pl
  www.olx-z.pl
+ www.olx-zamowienie.co
  www.olx-zamowienie.eu
  www.olx-zamowienie.me
  www.olx-zamowienie.org
@@ -12250,6 +12275,7 @@
  www.oplata-przesylki.space
  www.oplaty24-kurier.com
  www.opole-24-pl.netlify.app
+ www.opole-24-pl.netlify.com
  www.orange-kodzik.890m.com
  www.organizacja-spoleczna.eu
  www.ortezanakolano-pl.com
@@ -12769,6 +12795,7 @@
  www.wypadki24.e-kei.pl
  www.wypozycz-film.pl
  www.wyraz-pomoc.eu
+ www.wyroznij-siebie.eu
  www.wyscig-wygranych.eu
  www.wytypuj-wynik.eu
  www.wzmianka-duza.eu
@@ -12855,6 +12882,7 @@
  wypadki24.e-kei.pl
  wypozycz-film.pl
  wyraz-pomoc.eu
+ wyroznij-siebie.eu
  wys24h.eu
  wyscig-wygranych.eu
  wysybdhl.com

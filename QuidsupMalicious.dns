@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 13 Dec 2020
+#Updated: 19 Dec 2020
 #LatestVersion 20.11
 #---------------------
 2track.info #Adware
@@ -371,6 +371,7 @@ theseoffersforyou.com #Adware
 tiny.ie #Phishing
 toftothisle.info #Malvertising
 togetherforwine.com #Malware
+topprofitablegate.com #Adware
 tourtodaylaboratory.com #PUA - Filezilla
 trafficpage.cool #Adware Lnkr
 trafficvalidation.tools #Adware Lnkr
@@ -399,6 +400,7 @@ workdevapp.com #Adware Lnkr
 worksrc.cool #Adware Lnkr
 worldmodel.biz #Adware Lnkr
 wwclickroot.club #Adware
+www.mijn-ing-nl-login.com #phishing
 wwwyoutube.com #Malware
 xn--gmail-bgd.com #Fake Site
 xyz.com.br #Scammer

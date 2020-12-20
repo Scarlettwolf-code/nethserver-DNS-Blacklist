@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 13 Dec 2020
+#Updated: 19 Dec 2020
 #LatestVersion 20.11
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
@@ -371,6 +371,7 @@ analytics-static.ugc.bazaarvoice.com #Bazaar Voice
 analytics.163.com #163.com - Tracker
 analytics.amakings.com
 analytics.archive.org #Archive.Org - Tracker
+analytics.bluemosh.com #Bluemosh.com - Tracker
 analytics.brave.com #Brave Browser
 analytics.businessinsider.com #BusinessInsider Tracker
 analytics.ccs.mcafee.com #McAfee
@@ -1324,6 +1325,7 @@ imitrk4.com #Unknown - Tracker
 imitrk5.com #Unknown - Tracker
 impact-ad.com
 impact-ad.jp
+impact.com #Impact - Tracker
 impactradius-event.com #Impact Radius
 impactradius.com #Impact Radius
 impdesk.com
@@ -13241,7 +13243,7 @@ smetrics.barclays.co.uk #Barclays.Co.Uk - Tracker
 smetrics.bbva.com.co #Adobe - Tracker
 smetrics.bbva.es #Adobe - Tracker
 smetrics.bbvanet.com.co #Adobe - Tracker
-smetrics.bestbuy.com #Bestbuy.Com - Tracker
+smetrics.bestbuy.com #Adobe - Tracker
 smetrics.binarystew.com #Adobe - Tracker
 smetrics.biosimilarsbyboehringer.com #Adobe - Tracker
 smetrics.blockchain-linkdrive.cf #Adobe - Tracker
@@ -13253,10 +13255,12 @@ smetrics.boehringer-interactief.nl #Adobe - Tracker
 smetrics.boehringer-interaktiv.de #Adobe - Tracker
 smetrics.boezemfibrilleren.nl #Adobe - Tracker
 smetrics.cartoonnetwork.ca #Adobe - Tracker
+smetrics.casio.info #Adobe - Tracker
 smetrics.cisco.com #Adobe - Tracker
 smetrics.cnn.com #Cnn.Com - Tracker
 smetrics.coinbene.plus #Adobe - Tracker
 smetrics.corus.ca #Iobit - Tracker
+smetrics.danchuangglobal.com #Adobe - Tracker
 smetrics.desparasitaatumascota.es #Adobe - Tracker
 smetrics.disneychannel.ca #Adobe - Tracker
 smetrics.disneylachaine.ca #Adobe - Tracker
@@ -13283,9 +13287,12 @@ smetrics.jewsonpartnershipsolutions.com #Adobe - Tracker
 smetrics.krugerseed.com #Adobe - Tracker
 smetrics.lasexta.com #Adobe - Tracker
 smetrics.mcafee.com #McAfee
+smetrics.miles-and-more.com #Adobe - Tracker
+smetrics.mosquitojoe.com #Adobe - Tracker
 smetrics.mrelectric.com #Adobe - Tracker
 smetrics.mrrooter.ca #Adobe - Tracker
 smetrics.mutua.es #Adobe - Tracker
+smetrics.mutuactivos.com #Adobe - Tracker
 smetrics.mutuateayuda.es #Adobe - Tracker
 smetrics.myhome.ie #Adobe - Tracker
 smetrics.ondacero.es #Adobe - Tracker
@@ -13315,6 +13322,7 @@ smetrics.vikingline.ax #Adobe - Tracker
 smetrics.vikingline.ru #Adobe - Tracker
 smetrics.vodafone.co.uk #Vodafone Tracker
 smetrics.wilsonniblett.com #Adobe - Tracker
+smetrics.windowgenie.com #Adobe - Tracker
 smetrics.yahoodictionary.hk #Adobe - Tracker
 smetrics.ytv.com #Adobe - Tracker
 smrk.io #Smarkio
@@ -13409,6 +13417,7 @@ stats.paypal.com #PayPal
 stats.qnapclub.eu #Qnapclub.Eu - Tracker
 stats.redditmedia.com #Reddit Tracker
 stats.royalbank.com #Canadian Royal Bank
+stats.rs-online.com #RS - Tracker
 stats.ryzeo.com #Ryzeo - Tracker
 stats.searchanise.com #Searchanise.Com - Tracker
 stats.unity3d.com #Unity3d.Com - Tracker

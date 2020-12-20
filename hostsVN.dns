@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 09 Dec 2020 10:42 UTC+7
-# Version: 2012091042
-# Blocked: 18,333 domains
+# Last modified: 19 Dec 2020 19:49 UTC+7
+# Version: 2012191949
+# Blocked: 18,419 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13560,6 +13560,113 @@
 #[mobads.baidu.com]
  mobads.baidu.com
  static.mobads.baidu.com
+#[userreport.com]
+ analytics.userreport.com
+ cdn.userreport.com
+ sak.userreport.com
+ sdscdn.userreport.com
+ sync.userreport.com
+ tag.userreport.com
+ userreport.com
+#[appier.net]
+ a.c.appier.net
+ ad.appier.net
+ ad2.apx.appier.net
+ ad3.apx.appier.net
+ adserv.c.appier.net
+ adx.c.appier.net
+ aiqua-config.c.appier.net
+ aiqua-sdk.c.appier.net
+ aiqua-user.c.appier.net
+ anylist.c.appier.net
+ apn.c.appier.net
+ apnjp.c.appier.net
+ appier.net
+ apx.appier.net
+ arm.c.appier.net
+ c.appier.net
+ c.c.appier.net
+ cr-mon.appier.net
+ d.c.appier.net
+ dynamic-ads.appier.net
+ dync.c.appier.net
+ dync2.c.appier.net
+ dync4.c.appier.net
+ g.c.appier.net
+ gocm.c.appier.net
+ in.c.appier.net
+ jprtb.c.appier.net
+ jscdn.appier.net
+ pmp-beacon.apx.appier.net
+ rcp.c.appier.net
+ rtb.appier.net
+ s.c.appier.net
+ sg.c.appier.net
+ ss.c.appier.net
+ t0.c.appier.net
+ track.appier.net
+ tw.c.appier.net
+ vad.appier.net
+ vst.c.appier.net
+ xx.c.appier.net
+#[loopme.me]
+ adtag.api.loopme.me
+ adtag.loopme.me
+ cdn.loopme.me
+ csync.loopme.me
+ i.loopme.me
+ loopme.me
+ m.loopme.me
+ tag-eu.loopme.me
+ tag-us.loopme.me
+ track.loopme.me
+ www.loopme.me
+#[eskimi.com]
+ ads.eskimi.com
+ api.eskimi.com
+ dsp-ap.eskimi.com
+ dsp-media.eskimi.com
+ dsp-trk.eskimi.com
+ eskimi.com
+ m.eskimi.com
+ stats.eskimi.com
+ trk.eskimi.com
+ www.eskimi.com
+#[pinterest.com]
+ ads.pinterest.com
+ analytics.pinterest.com
+ ct.pinterest.com
+ log.pinterest.com
+ trk.pinterest.com
+ trk2.pinterest.com
+ widgets.pinterest.com
+#[storiespace.com]
+ links.storiespace.com
+ rotator.storiespace.com
+ storiespace.com
+ trk.storiespace.com
+ www.storiespace.com
+#[supercounters.com]
+ supercounters.com
+ widget.supercounters.com
+ www.supercounters.com
+#[cdnads.com]
+ cdnads.com
+ pads.cdnads.com
+ perf.cdnads.com
+ push.cdnads.com
+ www.cdnads.com
+#[neptuneadspush.com]
+ ads.neptuneadspush.com
+ neptuneadspush.com
+ pushlite.neptuneadspush.com
+ pushlite1.neptuneadspush.com
+ pushrev.neptuneadspush.com
+#[mavq.net]
+ adware.mavq.net
+ cdn.mavq.net
+ mavq.net
+ www.mavq.net
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -13806,23 +13913,27 @@
 #[coccoc]
  ads-target.coccoc.com
  banners-gallery.coccoc.com
- catalog.qc.coccoc.com
  cdn-qc.coccoc.com
  cdn.comedia.coccoc.com
+ metrics.coccoc.com
+ nt-cdn.coccoc.com
+ qc-static.coccoc.com
+ shop-cdn.coccoc.com
+ shopping.coccoc.com
+#[qc.coccoc.com]
+ catalog.qc.coccoc.com
  cdn.qc.coccoc.com
  context.qc.coccoc.com
  cp.qc.coccoc.com
  display.qc.coccoc.com
- metrics.coccoc.com
- nt-cdn.coccoc.com
  ntrb.qc.coccoc.com
- qc-static.coccoc.com
  qc.coccoc.com
  searcher.qc.coccoc.com
- shop-cdn.coccoc.com
- shopping.coccoc.com
- qccoccocmedia.vn
+ ssp.qc.coccoc.com
+#[qc.coccoc.vn]
  qc.coccoc.vn
+ qccoccocmedia.vn
+#[itim.vn]
  itim.vn
  spell.itim.vn
 #[rungrinh.vn]
@@ -13939,6 +14050,15 @@
  retg.ambient-platform.com
  static.ambient-platform.com
  www.ambient-platform.com
+#[ambientdsp.com]
+ ambientdsp.com
+ clk.ambientdsp.com
+ cm.ambientdsp.com
+ imp.ambientdsp.com
+ metrics.ambientdsp.com
+ static.ambientdsp.com
+ trk.ambientdsp.com
+ www.ambientdsp.com
 #[ants.vn]
  a.ants.vn
  abs.ants.vn
@@ -14888,6 +15008,7 @@
  admin.sothuchi.vn
  adpostback.headlines.pw
  ads-cdn.fptplay.net
+ ads.1thegioi.vn
  ads.baodatviet.vn
  ads.baotainguyenmoitruong.vn
  ads.bkitsoftware.com
@@ -14896,15 +15017,20 @@
  ads.home.vn
  ads.ictnews.vn
  ads.khoahocdoisong.vn
+ ads.kiemsat.vn
+ ads.lamchame.vn
+ ads.laodongnghean.vn
  ads.nghenhinvietnam.vn
  ads.phunuonline.com.vn
  ads.phunusuckhoe.vn
  ads.phunuvagiadinh.vn
  ads.thegioitiepthi.vn
  ads.thesaigontimes.vn
+ ads.thitruongtaichinhtiente.vn
  ads.tiki.vn
  ads.vietbao.vn
  ads.vkool.info
+ ads.vovlive.vn
  ads.xemphimso.com
  ads1.careerbuilder.vn
  adserver.lag.vn
@@ -14943,6 +15069,7 @@
  bgadx.com
  boxpr.aiservice.vn
  cdn-ads.thesaigontimes.vn
+ cdn2.cache.vn
  cdnasset.dantri.com.vn
  chiasephim.xyz
  click-ads.saoteen.net
@@ -15255,7 +15382,6 @@
  ad.lupa.cz
  ad.mail.ru
  ad.media-servers.net
- ad.mediastorm.hu
  ad.mgd.de
  ad.mox.tv
  ad.musicmatch.com
@@ -15286,7 +15412,6 @@
  ad.unimhk.com
  ad.usatoday.com
  ad.virtual-nights.com
- ad.wavu.hu
  ad.way.cz
  ad.weatherbug.com
  ad.wsod.com
@@ -15393,8 +15518,6 @@
  adimages.been.com
  adimages.carsoup.com
  adimages.homestore.com
- adimages.omroepzeeland.nl
- adimages.sanomawsoy.fi
  adimg.cbsi.com
  adimg.net
  adimg.uimserv.net
@@ -15555,7 +15678,6 @@
  ads.cc
  ads.cdn.rovio.com
  ads.centraliprom.com
- ads.channel4.com
  ads.clearchannel.com
  ads.co.com
  ads.colombiaonline.com
@@ -15566,7 +15688,6 @@
  ads.cybersales.cz
  ads.dada.it
  ads.datingyes.com
- ads.deltha.hu
  ads.dennisnet.co.uk
  ads.desmoinesregister.com
  ads.detelefoongids.nl
@@ -15847,13 +15968,10 @@
  adserver.nydailynews.com
  adserver.o2.pl
  adserver.oddschecker.com
- adserver.omroepzeeland.nl
  adserver.pl
  adserver.portugalmail.net
  adserver.pressboard.ca
  adserver.quizdingo.com
- adserver.realhomesex.net
- adserver.sanomawsoy.fi
  adserver.sciflicks.com
  adserver.sharewareonline.com
  adserver.spankaway.com
@@ -15861,7 +15979,6 @@
  adserver.twitpic.com
  adserver.viagogo.com
  adserver.virginmedia.com
- adserver01.de
  adserver1-images.backbeatmedia.com
  adserver1.backbeatmedia.com
  adserver1.mindshare.de
@@ -15910,7 +16027,6 @@
  adsrevenue.net
  adsrocket.net
  adsrv.deviantart.com
- adsrv.iol.co.za
  adsrv.vidnt.com
  adsrveys.com
  adsstat.com
@@ -15966,7 +16082,6 @@
  adventory.com
  adverserve.net
  advert.bayarea.com
- advert.dyna.ultraweb.hu
  advert360.com
  adverticum.com
  adverticum.net
@@ -16092,7 +16207,6 @@
  anglishreasts.site
  annonser.dagbladet.no
  anrdoezrs.net
- antiviruspro-vietnam.info
  antvoice.com
  anxiousapples.com
  apathetictheory.com
@@ -16117,7 +16231,6 @@
  appflood.com
  appia.com
  appier.com
- appier.net
  appnext-a.akamaihd.net
  appolicious.com
  apprebates.com
@@ -16169,8 +16282,6 @@
  audienceinsights.com
  audiencemanager.de
  audiens.com
- audit.median.hu
- audit.webinform.hu
  audrte.com
  augur.io
  auto-bannertausch.de
@@ -16187,6 +16298,7 @@
  axdsz.pro
  axiomaticalley.com
  aylarl.com
+ azoaltou.com
  b-1st.com
  b4psads.com
  babs.tv2.dk
@@ -16650,7 +16762,6 @@
  crownrecluse.com
  crsspxl.com
  crtv.mate1.com
- ctnetwork.hu
  cubics.com
  cumbersomecloud.com
  curtaincows.com
@@ -16695,6 +16806,7 @@
  deloplen.com
  deloton.com
  demdex.net
+ denetsuk.com
  desertedbreath.com
  desertedrat.com
  detailedglue.com
@@ -16761,6 +16873,7 @@
  e-ssl.apsalar.com
  e.apsalar.com
  e.kde.cz
+ e2ertt.com
  e2wysbacctt1.com
  eadexchange.com
  earnify.com
@@ -17028,6 +17141,7 @@
  havamedia.net
  healthyoffers.com
  heap.com
+ heeteefu.com
  hegarberetrof.pro
  heias.com
  hellobar.com
@@ -17131,7 +17245,6 @@
  images.footballaddicts.se
  imarketservices.com
  imatmobile.com
- img.prohardver.hu
  imgpromo.easyrencontre.com
  imimobile.com
  immensehoney.com
@@ -17189,7 +17302,6 @@
  intergi.com
  internetfuel.com
  interreklame.de
- interstat.hu
  intnotif.club
  intowow.com
  inuvi.com
@@ -17213,6 +17325,7 @@
  j93557g.com
  jadeitite.com
  jaduda.com
+ jaftouja.net
  jaizouji.com
  jatxt.com
  jcount.com
@@ -17223,6 +17336,7 @@
  jiwire.com
  joetec.net
  jokedollars.com
+ jomtingi.net
  js.hsforms.net
  jugjetwok.com
  julysystems.com
@@ -17236,7 +17350,6 @@
  karonty.com
  keapeiros.xyz
  ketchapp.org
- keymedia.hu
  keynotedeviceanywhere.com
  kindads.com
  kiolim.com
@@ -17645,6 +17758,7 @@
  onlinecashmethod.com
  onlinerewardcenter.com
  onlyadshere.info
+ onmarshtompor.com
  onmobile.com
  onstunkyr.com
  onvictinitor.com
@@ -17967,7 +18081,6 @@
  reklam.rfsl.se
  reklama.mironet.cz
  reklama.reflektor.cz
- reklamcsere.hu
  reklame.unwired-i.net
  relevanz10.de
  relmaxtop.com
@@ -18032,6 +18145,7 @@
  rundsp.com
  rusenov.com
  ruthlessrobin.com
+ ruwertur.com
  s.click.aliexpress.com
  s2d6.com
  sageanalyst.net
@@ -18103,7 +18217,6 @@
  shareasale.com
  sharepointads.com
  sharppatch.com
- sher.index.hu
  shermore.info
  shinystat.com
  shinystat.it
@@ -18221,7 +18334,6 @@
  startsmajesty.com
  stat.cliche.se
  stat.dealtime.com
- stat.dyna.ultraweb.hu
  stat.pl
  stat.su
  stat.webmedia.pl
@@ -18397,8 +18509,6 @@
  top.list.ru
  top.mail.ru
  top.proext.com
- top100-images.rambler.ru
- top100.mafia.ru
  top123.ro
  top20.com
  top20free.com
@@ -18410,7 +18520,6 @@
  topgamesites.net
  toplist.cz
  toplist.pornhost.com
- toplista.mw.hu
  toplistcity.com
  topmmorpgsites.com
  topping.com.ua
@@ -18616,11 +18725,9 @@
  web-stat.com
  web.btncdn.com
  web.informer.com
- web2.deja.com
  webads.eu
  webads.nl
  webangel.ru
- webcash.nl
  webcontentassessor.com
  webcounter.cz
  webcounter.goweb.de
@@ -18634,7 +18741,6 @@
  webreseau.com
  webseoanalytics.com
  websponsors.com
- webstat.channel4.com
  webstat.com
  webstat.net
  webstats4u.com
@@ -18701,7 +18807,6 @@
  www.allmygoodlife.com
  www.allmyverygreatlife.com
  www.anrdoezrs.net
- www.antiviruspro-vietnam.info
  www.axdsz.pro
  www.beauty-tea.com
  www.beharmalted.info
@@ -18772,7 +18877,6 @@
  www.zekiatagur.com
  www.zxc.world
  x-traceur.com
- x6.yakiuchi.com
  xad.com
  xchange.ro
  xclicks.net
@@ -18841,6 +18945,7 @@
  zmedia.com
  zqtk.net
  zumobi.com
+ zuphaims.com
  zxc.world
 # --- Block other trackingVN ---
  2o7.net
@@ -18922,8 +19027,6 @@
  ccgateway.net
  cdn.onesignal.com
  cdn.promotionengine.com
- cdn.zarget.com
- cedexis.com
  clerrrep.com
  cleverpush.com
  client-analytics.braintreegateway.com
@@ -18939,7 +19042,6 @@
  creative.dailymail.co.uk
  crittercism.com
  csdian.net
- ct.pinterest.com
  d24n15hnbwhuhn.cloudfront.net
  d4n.platformd.com
  databerries.com
@@ -19017,7 +19119,6 @@
  log.getdropbox.com
  log.kmplayer.com
  log.kuwo.cn
- log.pinterest.com
  log.quora.com
  log.snapdeal.com
  log.tutuapp.com
@@ -19149,7 +19250,6 @@
  tracking.lenzmx.com
  traffic.spot.im
  trk.clinch.co
- trk.pinterest.com
  ultimedia.com
  um.videmob.com
  unicaitaly.it
