@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 19 Dec 2020 19:49 UTC+7
-# Version: 2012191949
-# Blocked: 18,419 domains
+# Last modified: 30 Dec 2020 20:43 UTC+7
+# Version: 2012302043
+# Blocked: 18,427 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3410,24 +3410,6 @@
  realtime.services.disqus.com
  referrer.disqus.com
  tempest.services.disqus.com
-#[viglink]
- api.viglink.com
- apicdn.viglink.com
- catalog.viglink.com
- cdn.viglink.com
- hosted.viglink.com
- ideas.viglink.com
- images.viglink.com
- info.viglink.com
- mc.viglink.com
- merchants.viglink.com
- optimize.viglink.com
- publishers.viglink.com
- qa.viglink.com
- redirect.viglink.com
- rest.viglink.com
- viglink.com
- www.viglink.com
 #[adspruce.com]
  adspruce.com
  ani.adspruce.com
@@ -4194,13 +4176,6 @@
  mmccint.com
  sf.mmccint.com
  controller-gateway.mmccint.com
-#[adobe]
- assets.adobedtm.com
- commerce.adobedtm.com
- connect.adobedtm.com
- sslproxy-prod.adobedtm.com
- sstats.adobe.com
- du8783wkf05yr.cloudfront.net
 #[3lift.com]
  3lift.com
  amp.3lift.com
@@ -13754,14 +13729,9 @@
  code.admicro.vn
  content-ml.admicro.vn
  contract.admicro.vn
- contracttest.admicro.vn
  cpd.admicro.vn
  chamcong.admicro.vn
- chamcongtest.admicro.vn
  defaultdsp.admicro.vn
- demo.admicro.vn
- demo-adopt.admicro.vn
- dev.email-analytics.admicro.vn
  display.admicro.vn
  dl.logging.admicro.vn
  drive.admicro.vn
@@ -13770,7 +13740,6 @@
  ea.logging.admicro.vn
  e-learning.admicro.vn
  enterpriseapi.admicro.vn
- erptest.admicro.vn
  f.admicro.vn
  file.admicro.vn
  fingerprint.admicro.vn
@@ -13782,7 +13751,6 @@
  img.admicro.vn
  in.admicro.vn
  ir.admicro.vn
- ketoan.admicro.vn
  kpi.admicro.vn
  lab.admicro.vn
  layout.admicro.vn
@@ -13814,7 +13782,6 @@
  publisher.admicro.vn
  redmine.admicro.vn
  remarketing.admicro.vn
- sale.test.admicro.vn
  saledev.admicro.vn
  snews.admicro.vn
  sso.admicro.vn
@@ -13969,7 +13936,6 @@
  pub.lavanetwork.net
  revive.lavanetwork.net
  slv1.lavanetwork.net
- test.lavanetwork.net
  video.lavanetwork.net
  www.lavanetwork.net
  xaxis.lavanetwork.net
@@ -14364,7 +14330,6 @@
  smtp6.younetmedia.com
  socialheat.younetmedia.com
  static.younetmedia.com
- testing.younetmedia.com
  www.younetmedia.com
  younetmedia.com
 #[mangoads.vn]
@@ -14986,6 +14951,23 @@
  worth.smartconvert.co
  wsite.smartconvert.co
  www.smartconvert.co
+#[flygame.io]
+ api.flygame.io
+ flygame.io
+ game.flygame.io
+ images.flygame.io
+ inapi.flygame.io
+ ingame.flygame.io
+ lottery.flygame.io
+ stat.flygame.io
+ thapi.flygame.io
+ thgame.flygame.io
+ www.flygame.io
+#[kabbmedia.com]
+ ads.kabbmedia.com
+ delivery.kabbmedia.com
+ images.kabbmedia.com
+ kabbmedia.com
 # --- Block adsVN ---
  703531862.vws.vegacdn.vn
  ad-admin.vnay.vn
@@ -15009,6 +14991,7 @@
  adpostback.headlines.pw
  ads-cdn.fptplay.net
  ads.1thegioi.vn
+ ads.baobinhduong.vn
  ads.baodatviet.vn
  ads.baotainguyenmoitruong.vn
  ads.bkitsoftware.com
@@ -15102,6 +15085,7 @@
  mobileads.dieuviet.com
  myad.vn
  ng-vn-notice.gameitop.com
+ nspapi.aiservice.vn
  offerwall.headlines.pw
  phimmedia03.com
  polyad.galaxypub.vn
@@ -15125,9 +15109,11 @@
  sv-api-lottery.headlines.pw
  sv-static-lottery.headlines.pw
  sv-static1-lottery.headlines.pw
+ syncwowsails.com
  toppage.vn
  trenddigital.vn
  truoctran.com
+ tulipluv.xyz
  tvnotice.kg.garena.vn
  upfile16.mediaphim.com
  user.headlines.pw
@@ -15149,6 +15135,7 @@
  www.microad.vn
  www.realclick.vn
  www.sbbanner.com
+ www.tulipluv.xyz
  www.vietbuzzad.com
  www.vietdorje.com
  www.vtvcab.xyz
@@ -15156,7 +15143,9 @@
  addlog.thuvienphapluat.vn
  admin.phunusuckhoe.vn
  alexajstrack.com
+ analytic.baodantoc.vn
  analytics.bkav.com
+ analytics.bkav.com.vn
  analytics.easyvideo.vn
  analytics.explus.vn
  analytics.hub-js.com
@@ -15167,6 +15156,7 @@
  analytics.vietnamfinance.vn
  analytics.vnreview.vn
  apl.headlines.pw
+ clientinfo.phimmoizz.net
  counter.ntdvn.com
  deqik.com
  elogs.vnexpress.net
@@ -15195,8 +15185,10 @@
  log.ngaynay.vn
  log.nhipcaudautu.vn
  log.sggp.org.vn
+ log.tapchimattran.vn
  log.tapchitaichinh.vn
  log.thanhnien.vn
+ log.theleader.vn
  log.tienphong.vn
  log.tinnhanhchungkhoan.vn
  log.vietnamdaily.net.vn
@@ -15223,6 +15215,7 @@
  s.tuoitre.vn
  sharefb.cnnd.vn
  stat.headlines.pw
+ static.subiz.com
  staticad.thethao247.vn
  statistics.vov.vn
  stats.123c.vn
@@ -15264,6 +15257,7 @@
  widget.sbz.vn
  widget.subiz.xyz
 # --- Block scamVN ---
+ bloodleian.club
  celerantatters.com
  hashearog.com
  rituationscardb.info
@@ -16194,6 +16188,7 @@
  amazingcounters.com
  ambiguousquilt.com
  ambitiousagreement.com
+ ambleads.com
  americash.com
  amgdgt.com
  amillionads.com
@@ -16207,6 +16202,7 @@
  anglishreasts.site
  annonser.dagbladet.no
  anrdoezrs.net
+ antiadblocksystems.com
  antvoice.com
  anxiousapples.com
  apathetictheory.com
@@ -16801,7 +16797,6 @@
  deepintent.com
  defectivesun.com
  delegatediscussion.com
- deliver.vkcdnservice.com
  deloo.de
  deloplen.com
  deloton.com
@@ -16847,6 +16842,7 @@
  domainsponsor.com
  domainsteam.de
  domdex.com
+ domeleco.top
  doubleadserve.com
  doubleclick.com
  doubleclick.de
@@ -17068,10 +17064,10 @@
  fxclix.com
  fxstyle.net
  g2afse.com
- ga.clearbit.com
  ga87z2o.com
  galaksion.com
  galaxien.com
+ gavnogeeygaika.com
  gayadnetwork.com
  gemius.pl
  genieesspv.jp
@@ -17098,6 +17094,7 @@
  go.mobisla.com
  go.onclasrv.com
  go.padstm.com
+ go.trvdp.com
  go2affise.com
  goadservices.com
  goingplatinum.com
@@ -17975,6 +17972,7 @@
  ps7894.com
  psstt.com
  ptairtug.net
+ ptywajofa.pro
  pub.chez.com
  pub.club-internet.fr
  pub.hardware.fr
@@ -18806,7 +18804,9 @@
  www.agroupadx.com
  www.allmygoodlife.com
  www.allmyverygreatlife.com
+ www.ambleads.com
  www.anrdoezrs.net
+ www.antiadblocksystems.com
  www.axdsz.pro
  www.beauty-tea.com
  www.beharmalted.info
@@ -19027,6 +19027,7 @@
  ccgateway.net
  cdn.onesignal.com
  cdn.promotionengine.com
+ cedexis.com
  clerrrep.com
  cleverpush.com
  client-analytics.braintreegateway.com
@@ -19044,6 +19045,7 @@
  csdian.net
  d24n15hnbwhuhn.cloudfront.net
  d4n.platformd.com
+ dap.digitalgov.gov
  databerries.com
  discountcode.dailymail.co.uk
  distillery.wistia.com
@@ -19069,8 +19071,10 @@
  fathomseo.com
  fff.dailymail.co.uk
  flagcounter.com
+ freegeoip.net
  frog.wix.com
  g.3gl.net
+ ga.clearbit.com
  ga.kvideo.io
  geoip.nekudo.com
  geoip.tnt-ea.com
@@ -19111,6 +19115,7 @@
  kissmetrics.com
  kitbit.net
  kkvmaj.com
+ largeer.com
  leadzutw.com
  lem-computers.net
  lfeeder.com
@@ -19181,7 +19186,9 @@
  redinvestor.com
  remyyadan.online.fr
  reports.ubimo.com
+ reveal.clearbit.com
  richmetrics.com
+ risk.clearbit.com
  rlog.9gag.com
  robinkornett.com
  rochesterdata.com
@@ -19201,6 +19208,7 @@
  showbiz.owndata.network
  si.dailymail.co.uk
  simplesharebuttons.com
+ singular.net
  smart-dmp.com
  smetrics.bestbuy.com
  smetrics.boston.com

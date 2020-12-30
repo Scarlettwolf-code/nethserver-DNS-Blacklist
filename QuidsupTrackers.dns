@@ -11,8 +11,8 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 19 Dec 2020
-#LatestVersion 20.11
+#Updated: 29 Dec 2020
+#LatestVersion 20.12
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
 1000mercis.com #Numberly - Tracker
@@ -24,6 +24,7 @@
 123-tracker.com #Lead Forensics - Tracker
 123count.com #SpidersWatchp
 152media.com #152Media - Advertising
+1e3af2bf58df83b8e9e1973f2dcadf72b4c7da97efe420ffcd138616.com #Appodeal - Tracker
 1s3h4f7sl.com #HelloWorld
 200summit.com #Lead Forensics - Tracker
 2020mustang.com #Unknown - Advertising
@@ -160,7 +161,7 @@ adlnk.net #AdLink Advertising
 adlooxtracking.com
 adlucent.com #Adlucent
 admailtiser.com
-admantx.com
+admantx.com #ADmantX - Advertising
 admarketplace.net
 admathhd.com #WhiteOps
 admatic.com.tr
@@ -313,7 +314,6 @@ adzhub.com
 adzip.co #Adbox Digital
 aegdigitalgroup.com
 aerserv.com #AerServ
-aetna.com #IBM Silverpop
 affec.tv
 affhit.com #Unknown - Tracker
 affilbox.cz #AffilBox
@@ -473,6 +473,7 @@ appnexus.com #AppNexus Inc
 appnexus.net #AppNexus Inc
 appnexuscloud.com #AppNexus Inc
 appround.biz
+appsflyer.com #AppsFlyer - Tracker
 appsmonitoring.com #AppDynamics
 apptimize.com #Apptimize
 appuniverseapplication.com #Tracker unknown
@@ -489,7 +490,6 @@ atgsvcs.com
 ati-host.net
 atl-6-ga.com #Lead Forensics - Tracker
 atomz.com #Adobe - Tracker
-attraqt.com
 atwola.com #AOL - Advertising
 audienceinsights.net #Adthink
 audienceiq.com
@@ -649,6 +649,7 @@ c.afekv.com #Public DNS Scan
 c1exchange.com #C1 Exchange
 c3t-system-err.club #Trackerry Tracker
 c3tag.com
+c6671581dda7a5be963b9104bf94a1be28a5379983eb8083ca54e9f3.com #Appodeal - Tracker
 cadreon.com #IPG Mediabrands
 campaignmonitor.com #Campaign Monitor Pty
 canddi.com #CANDDi
@@ -1298,6 +1299,7 @@ hxtrack.com
 i-transactads.com
 i10c.net #instartlogic
 iadvize.com #iAdvize
+iamtelemetrycollector.microsoft.com #Microsoft - Tracker
 iasds01.com
 ib-ibi.com #Trancos
 ibillboard.com
@@ -12620,6 +12622,7 @@ notificationmessaging.com #Email Vision
 nowinteract.com #Now Interact Tracker
 npario-inc.net #nPario
 npario.com #nPario
+npttech.com #Rubicon - Tracker
 nr-data.net #New Relic
 nster.net
 nt.vc #House of Next Tuesday
@@ -12835,6 +12838,7 @@ prijspakkertje.nl #Unknown - Advertising
 prijspakkertjes.nl #Unknown - Advertising
 priority-static-api.nkstatic.com #NinjaKiwi
 privacy.aol.com #AOL - Advertising
+privatestats.whatsapp.net #Whatsapp - Tracker
 prnx.net
 pro-market.net
 prod-telemetry.paradox-interactive.com #Paradox-interactive.com - Tracker
@@ -13229,6 +13233,9 @@ smartstream.tv
 smct.co
 smetrics.3monoamines.com #Adobe - Tracker
 smetrics.aaamidatlantic.com #Adobe - Tracker
+smetrics.aavacations.com #Adobe - Tracker
+smetrics.aem.playstation.com #Adobe - Tracker
+smetrics.aireserv.ca #Adobe - Tracker
 smetrics.alainmikli.com #Adobe - Tracker
 smetrics.americanairlines.be #Adobe - Tracker
 smetrics.americanairlines.cl #Adobe - Tracker
@@ -13264,9 +13271,11 @@ smetrics.danchuangglobal.com #Adobe - Tracker
 smetrics.desparasitaatumascota.es #Adobe - Tracker
 smetrics.disneychannel.ca #Adobe - Tracker
 smetrics.disneylachaine.ca #Adobe - Tracker
+smetrics.dryerventwizard.com #Adobe - Tracker
 smetrics.eastdane.com #Adobe - Tracker
 smetrics.elsevier.com #Elsevier - Tracker
 smetrics.faceipf.com #Adobe - Tracker
+smetrics.fivestarpainting.com #Adobe - Tracker
 smetrics.forthedriven.com #Adobe - Tracker
 smetrics.foxnews.com #Foxnews.com - Tracker
 smetrics.frontline.com.ar #Adobe - Tracker
@@ -13286,10 +13295,17 @@ smetrics.investec.com #Adobe - Tracker
 smetrics.jewsonpartnershipsolutions.com #Adobe - Tracker
 smetrics.krugerseed.com #Adobe - Tracker
 smetrics.lasexta.com #Adobe - Tracker
+smetrics.lunglife.com #Adobe - Tracker
+smetrics.marriottvacationclub.com #Adobe - Tracker
 smetrics.mcafee.com #McAfee
 smetrics.miles-and-more.com #Adobe - Tracker
+smetrics.mollymaid.com #Adobe - Tracker
 smetrics.mosquitojoe.com #Adobe - Tracker
+smetrics.mrappliance.ca #Adobe - Tracker
+smetrics.mrappliance.com #Adobe - Tracker
 smetrics.mrelectric.com #Adobe - Tracker
+smetrics.mrhandyman.ca #Adobe - Tracker
+smetrics.mrhandyman.com #Adobe - Tracker
 smetrics.mrrooter.ca #Adobe - Tracker
 smetrics.mutua.es #Adobe - Tracker
 smetrics.mutuactivos.com #Adobe - Tracker
@@ -13298,6 +13314,7 @@ smetrics.myhome.ie #Adobe - Tracker
 smetrics.ondacero.es #Adobe - Tracker
 smetrics.otel.com #Adobe - Tracker
 smetrics.otsuka-us.com #Adobe - Tracker
+smetrics.portlandglass.com #Adobe - Tracker
 smetrics.quickenloans.org #Adobe - Tracker
 smetrics.rainbowintl.com #Adobe - Tracker
 smetrics.redhat.com #Redhat.com - Tracker
@@ -13306,6 +13323,7 @@ smetrics.respimat.com #Adobe - Tracker
 smetrics.santandree.xyz #Adobe - Tracker
 smetrics.shopbop.com #Adobe - Tracker
 smetrics.sky.com #Sky
+smetrics.sony.com.br #Adobe - Tracker
 smetrics.sony.com.sg #Adobe - Tracker
 smetrics.sony.hu #Adobe - Tracker
 smetrics.southaustralia.com #Adobe - Tracker
@@ -13793,6 +13811,7 @@ waudit.cz #WAudit
 wayin.com #Cheetah Digital - Tracker
 wbtrk.net #Casale Media
 we-stats.com #Unknown - Tracker
+wearehearken.com #We are Hearken - Tracker
 web-01-gbl.com #Lead Forensics - Tracker
 web-metrica.yandex.ru #Yandex
 webanalytics2.ovh.net #OVH

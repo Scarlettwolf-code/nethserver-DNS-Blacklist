@@ -11,8 +11,8 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 19 Dec 2020
-#LatestVersion 20.11
+#Updated: 29 Dec 2020
+#LatestVersion 20.12
 #---------------------
 2track.info #Adware
 59cn7.com #Malware
