@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 30 Dec 2020 20:43 UTC+7
-# Version: 2012302043
-# Blocked: 18,427 domains
+# Last modified: 03 Jan 2021 19:22 UTC+7
+# Version: 2101031922
+# Blocked: 18,457 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13642,6 +13642,35 @@
  cdn.mavq.net
  mavq.net
  www.mavq.net
+#[mondiad.net]
+ cdn.mondiad.net
+ dsp.mondiad.net
+ img.mondiad.net
+ ip.mondiad.net
+ mondiad.net
+ serve.mondiad.net
+ www.mondiad.net
+#[aimtell.com]
+ aimtell.com
+ api.aimtell.com
+ b.aimtell.com
+ beacon.aimtell.com
+ cdn.aimtell.com
+ click.aimtell.com
+ log.aimtell.com
+ www.aimtell.com
+#[webpushr.com]
+ api.webpushr.com
+ app.webpushr.com
+ cdn.webpushr.com
+ click.webpushr.com
+ webpushr.com
+ www.webpushr.com
+#[zx-adnet.com]
+ cdn.zx-adnet.com
+ quiz.zx-adnet.com
+ www.zx-adnet.com
+ zx-adnet.com
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -14231,29 +14260,6 @@
  wakeup.klick.vn
  wakeup247.klick.vn
  www.klick.vn
-#[cokhach.com]
- admin.cokhach.com
- c.cokhach.com
- cokhach.com
- w.cokhach.com
- www.cokhach.com
-#[fff.com.vn]
- a.fff.com.vn
- admin.fff.com.vn
- client.fff.com.vn
- crm.fff.com.vn
- chanclickao.fff.com.vn
- chat.fff.com.vn
- f.fff.com.vn
- fb.fff.com.vn
- fff.com.vn
- files.fff.com.vn
- hmt.fff.com.vn
- khachhang.fff.com.vn
- report.fff.com.vn
- tracking.fff.com.vn
- ws.fff.com.vn
- www.fff.com.vn
 #[ladipage.vn]
  api.ladipage.vn
  builder.ladipage.vn
@@ -14280,6 +14286,9 @@
  v.ladicdn.com
  w.ladicdn.com
  www.ladicdn.com
+#[ladisales.com]
+ api.ladisales.com
+ ladisales.com
 #[ezimar.com]
  caohavan.ezimar.com
  ezdns.ezimar.com
@@ -14456,17 +14465,9 @@
  phanquang.vn
  quangcao.phanquang.vn
  www.phanquang.vn
-#[laydata.com]
- api.laydata.com
- cms.laydata.com
- databox.laydata.com
- facefone.laydata.com
- laydata.com
- www.laydata.com
 #[ohchat.net]
  ohchat.net
  app.ohchat.net
- hostmaster.ohchat.net
  www.ohchat.net
 #[mediaz.vn]
  adwords.mediaz.vn
@@ -14969,6 +14970,7 @@
  images.kabbmedia.com
  kabbmedia.com
 # --- Block adsVN ---
+ 5734a40f2d.vws.vegacdn.vn
  703531862.vws.vegacdn.vn
  ad-admin.vnay.vn
  ad.24h.com.vn
@@ -15014,10 +15016,12 @@
  ads.vietbao.vn
  ads.vkool.info
  ads.vovlive.vn
+ ads.xedoisong.vn
  ads.xemphimso.com
  ads1.careerbuilder.vn
  adserver.lag.vn
  adserver.luzu.vn
+ adserver.trangphim.net
  adsgo.nhipcaudautu.vn
  adsplus.vn
  adsv2.autodaily.vn
@@ -15030,6 +15034,7 @@
  advserver.cgv.vn
  adx.baolongan.vn
  adx.edutimes.com.vn
+ adx.hongtinnhanh.com
  adx.kul.vn
  adx.xemvtv.net
  affiliate.k4.tinhte.vn
@@ -15050,6 +15055,7 @@
  banner.5giay.vn
  banner.vietnamfinance.vn
  bgadx.com
+ bluemaulpuffs.com
  boxpr.aiservice.vn
  cdn-ads.thesaigontimes.vn
  cdn2.cache.vn
@@ -15067,7 +15073,9 @@
  delivery.vtcnew.com.vn
  deltago.com
  demopage.me
+ deqik.com
  dt.vnecdn.com
+ duamilsyr.com
  ff.imacdn.com
  financial-agent.headlines.pw
  fptad.com
@@ -15093,6 +15101,7 @@
  qcv5.blogtruyen.vn
  quangcao.24h.com.vn
  quangcao.baovannghe.com.vn
+ quangcao.fff.com.vn
  quangcao.thanhnien.vn
  quangcao.tuoitre.vn
  quangcao247.com.vn
@@ -15149,6 +15158,7 @@
  analytics.easyvideo.vn
  analytics.explus.vn
  analytics.hub-js.com
+ analytics.nhattao.com
  analytics.sohatv.vn
  analytics.thethao247.org
  analytics.tiki.vn
@@ -15158,7 +15168,8 @@
  apl.headlines.pw
  clientinfo.phimmoizz.net
  counter.ntdvn.com
- deqik.com
+ crm.bizfly.vn
+ crmbizfly.todo.vn
  elogs.vnexpress.net
  event.headlines.pw
  event.vntoday.news
@@ -15198,6 +15209,7 @@
  log.vnay.vn
  log.vntoday.news
  log.vov.vn
+ log.zamba.vn
  log4x.nixcdn.com
  logg4u.cnnd.vn
  logging.galaxypub.vn
@@ -15215,6 +15227,7 @@
  s.tuoitre.vn
  sharefb.cnnd.vn
  stat.headlines.pw
+ static.accesstrade.vn
  static.subiz.com
  staticad.thethao247.vn
  statistics.vov.vn
@@ -15242,6 +15255,8 @@
  tracking.appwifi.com
  tracking.dantri.com.vn
  tracking.fado.vn
+ tracking.fff.com.vn
+ tracking.hongtinnhanh.com
  tracking.vht.com.vn
  tracking.vietbao.vn
  tracking.vtc.vn
@@ -15254,6 +15269,8 @@
  userstats.shopee.vn
  vn.alexajstrack.com
  vtrack.vht.com.vn
+ webpush.bizfly.vn
+ webpush.todo.vn
  widget.sbz.vn
  widget.subiz.xyz
 # --- Block scamVN ---
@@ -16283,6 +16300,7 @@
  auto-bannertausch.de
  autohits.dk
  automaticflock.com
+ auweelta.net
  avenuea.com
  avocet.io
  avpa.javalobby.org
@@ -16447,7 +16465,6 @@
  bluecava.com
  bluekai.com
  bluelithium.com
- bluemaulpuffs.com
  bluewhaleweb.com
  blushingbeast.com
  blushingboundary.com
@@ -16999,6 +17016,7 @@
  fastbuy.biz
  fastclick.com
  fastclick.net
+ fathuntsgall.com
  faultycanvas.com
  faultyfowl.com
  fbcdn2.com
@@ -17218,6 +17236,7 @@
  iapclick.gowadogo.com
  iasds01.com
  ib-ibi.com
+ iclickcdn.com
  iconadserver.com
  icptrack.com
  idcounter.com
@@ -17319,6 +17338,7 @@
  ivwbox.de
  ivykiosk.com
  ivypixel.com
+ iwhugaul.com
  j93557g.com
  jadeitite.com
  jaduda.com
@@ -17334,7 +17354,6 @@
  joetec.net
  jokedollars.com
  jomtingi.net
- js.hsforms.net
  jugjetwok.com
  julysystems.com
  jumptap.com
@@ -17896,6 +17915,7 @@
  playmobileads.com
  plethoramobile.com
  plista.com
+ plufdsb.com
  plugrush.com
  pndelfast.com
  pocitadlo.cz
@@ -17917,6 +17937,7 @@
  possibleboats.com
  potentionsdarket.site
  potenza.cz
+ pouluwie.net
  powerad.ai
  ppfrlfe.com
  pr-star.de
@@ -18099,6 +18120,7 @@
  revsci.net
  revstats.com
  rhythmnewmedia.com
+ ribunews.com
  richaudience.com
  richmails.com
  richstring.com
@@ -18302,6 +18324,7 @@
  sponsorpay.com
  sponsorpro.de
  sponsors.thoughtsmedia.com
+ sporedfryhum.com
  spot.fitness.com
  spotx.tv
  springaftermath.com
@@ -18495,6 +18518,8 @@
  tithewtog.com
  tizers.net
  tlvmedia.com
+ tm-banners.gamingadult.com
+ tm-offers.gamingadult.com
  tnkexchange.com
  tns-counter.ru
  tntclix.co.uk
@@ -18952,6 +18977,7 @@
  a.axmtrack.com
  a.klaviyo.com
  a.quora.com
+ a.ria.ru
  a3cloud.net
  acint.net
  adentify.com
@@ -19109,6 +19135,7 @@
  invoca.net
  js.hscollectedforms.net
  js.hsleadflows.net
+ jsonip.com
  k6r.net
  kameleoon.eu
  kidsghibli.com
@@ -19146,6 +19173,7 @@
  mousestats.com
  movestone.net
  mybbc-analytics.files.bbci.co.uk
+ netcore.co.in
  nexus.ensighten.com
  nonglirili.net
  nppmwatch.com
@@ -19172,6 +19200,7 @@
  play.leadzutw.com
  playtomic.com
  plrxserv.com
+ popupmaker.com
  presage.io
  promotionengine.com
  prooffactor.com
@@ -19251,6 +19280,7 @@
  track.tenjin.io
  track.videmob.com
  trackcmp.net
+ tracker.idocdn.com
  tracker.vgame.us
  trackersimulator.org
  tracking.adsrv.io
@@ -19289,6 +19319,7 @@
  www.fastly-insights.com
  www.hitcpm.com
  www.hypestat.com
+ www.jsonip.com
  www.montacarichi.it
  www.mousestats.com
  www.npttech.com
@@ -19306,6 +19337,7 @@
 # --- Block other scamVN ---
  abutparker.com
  agiegoeig.com
+ cdn.cluodlfare.com
  comptrffc.com
  cpa-tc.com
  d1nmxiiewlx627.cloudfront.net

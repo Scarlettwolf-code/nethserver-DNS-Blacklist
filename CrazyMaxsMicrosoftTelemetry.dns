@@ -7,7 +7,7 @@
 # Confidence      : 4 
 ### WindowsSpyBlocker - Hosts spy rules
 ### License: MIT
-### Updated: 2020-08-24T04:31:00Z02:00
+### Updated: 2020-12-31T01:22:00Z02:12
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
  a.ads1.msn.com
@@ -295,6 +295,11 @@
  hk2sch130022135.wns.windows.com
  hk2wns1.wns.windows.com
  hk2wns1b.wns.windows.com
+ i-am3p-cor001.api.p001.1drv.com
+ i-am3p-cor002.api.p001.1drv.com
+ i-am3p-cor003.api.p001.1drv.com
+ i-am3p-cor004.api.p001.1drv.com
+ i-am3p-cor005.api.p001.1drv.com
  i-bl6p-cor001.api.p001.1drv.com
  i-bl6p-cor002.api.p001.1drv.com
  i-bn3p-cor001.api.p001.1drv.com
@@ -303,6 +308,11 @@
  i-by3p-cor002.api.p001.1drv.com
  i-ch1-cor001.api.p001.1drv.com
  i-ch1-cor002.api.p001.1drv.com
+ i-db3p-cor001.api.p001.1drv.com
+ i-db3p-cor002.api.p001.1drv.com
+ i-db3p-cor003.api.p001.1drv.com
+ i-db3p-cor004.api.p001.1drv.com
+ i-db3p-cor005.api.p001.1drv.com
  i-sn2-cor001.api.p001.1drv.com
  i-sn2-cor002.api.p001.1drv.com
  i-sn3p-cor001.api.p001.1drv.com
@@ -322,6 +332,7 @@
  nw-umwatson.events.data.microsoft.com
  oca.telemetry.microsoft.com
  onecollector.cloudapp.aria.akadns.net
+ par02p.wns.windows.com
  pre.footprintpredict.com
  preview.msn.com
  rad.live.com

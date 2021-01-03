@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 29 Dec 2020
+#Updated: 03 Jan 2021
 #LatestVersion 20.12
 #---------------------
 2track.info #Adware
@@ -41,7 +41,6 @@ auslogics.com #PUA
 baidu.om #Fake Site
 barenudism.com #Malware RIG
 bbc.co #Malware
-beeforced.com #Adware Lnkr
 best2018games.com #Popups
 bestadbid.com #Malvertising
 bestconvertersearch.com #Malware
@@ -341,7 +340,6 @@ securesurf.biz #Browser Hijacker
 sendmepush.com #Adware
 serenityart.biz #Adware Lnkr
 serverads.net #Adware Lnkr
-shopstorys.com #Adware Lnkr
 simonzody.com #Adware Lnkr
 singtraff.cool #Adware Lnkr
 slickfluide.com #Adware Lnkr

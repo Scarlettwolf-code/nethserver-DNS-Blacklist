@@ -5,23 +5,23 @@
 # Maintainer	: https://mahakala.is/
 # Category        : suspicious
 # Confidence      : 4 
-# Entries: 81,089
-# As of 2020-12-17 02:04:40 UTC
+# Entries: 81,140
+# As of 2020-12-29 03:48:51 UTC
 # this.generated using github.com/Laicure/HostsZ
 
 # Sources: 16
 # [2,808] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# [9,194] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-# [813] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# [114] https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-# [14,571] https://someonewhocares.org/hosts/zero/hosts
+# [9,187] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# [806] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+# [233] https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+# [14,572] https://someonewhocares.org/hosts/zero/hosts
 # [2,214] https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-# [1,044] https://urlhaus.abuse.ch/downloads/hostfile/
-# [3,562] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=
+# [986] https://urlhaus.abuse.ch/downloads/hostfile/
+# [3,563] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=
 # [8,815] http://winhelp2002.mvps.org/hosts.txt
-# [389] https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+# [390] https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 # [3,595] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# [965] https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+# [969] https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 # [2,701] https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # [2,736] https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 # [34] https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
@@ -7111,7 +7111,6 @@
  ads.intergi.com
  cdn.intergi.com
  intermarkets.net
- cloud.internetstores.com
  intowow.com
  adcfg.intowow.com
  geoinfo.intowow.com
@@ -7146,9 +7145,6 @@
  media-cdn.ipredictive.com
  sync.ipredictive.com
  adserver.iprom.net
- cdn.ipromote.com
- fra1.ipromote.com
- fra2.ipromote.com
  i.ipromote.com
  iad1.ipromote.com
  iad2.ipromote.com
@@ -7241,8 +7237,6 @@
  sync.jivox.com
  traffick.jivox.com
  ad.jorte.com
- finlogs.joyeggs.com
- payback.joyeggs.com
  im64.jpush.cn
  s.jpush.cn
  sis.jpush.io
@@ -7301,7 +7295,6 @@
  screencaptue-cdn.kampyle.com
  screencapture.kampyle.com
  udc-neb.kampyle.com
- kaotic.com
  ad-monitor.kargo.com
  storage.cloud.kargo.com
  cma.kargo.com
@@ -12072,16 +12065,12 @@
  a-5.info
  a85.info
  a94.info
- aa08daf7e13b6345e09e92f771507fa5f4.com
- aa14ab57a3339c4064bd9ae6fad7495b5f.com
- aa625d84f1587749c1ab011d6f269f7d64.com
  aa81bf391151884adfa3dd677e41f94be1.com
  aa9bd78f328a6a41279d0fad0a88df1901.com
  aa9d046aab36af4ff182f097f840430d51.com
  aaannuairex.com
  aaaurgentcare.net
  aab94f698f36684c5a852a2ef272e031bb.com
- aac500b7a15b2646968f6bd8c6305869d7.com
  aac52006ec82a24e08b665f4db2b5013f7.com
  aad1f4acb0a373420d9b0c4202d38d94fa.com
  aadroid.net
@@ -12246,7 +12235,6 @@
  amatrixe.free.fr
  amatvideo.free.fr
  amospalla.es
- amphorasf.com
  ampower.me
  amt-k.ru
  amwatching.com
@@ -12465,7 +12453,6 @@
  goforexvps.com
  gofun.info
  go-gal.com
- go.game2me.cn
  gotporn.info
  gotwebsite1.com
  gov.yanao.ru
@@ -12507,7 +12494,6 @@
  hunger.xyz
  hunks-hardcore.com
  hunks-naked.com
- hunktoons.com
  hunshop.natureflower.com
  hunt4porn.com
  hustlervip.net
@@ -20810,120 +20796,239 @@
  www.zedo.com
  rt.udmserve.net
  www.stickylogic.com
- 1105355415.rsc.cdn77.org
- 654tyfcdr4654fytfy.top
- 88canada.com
- amgpartyrentals.com
- antipiracywsdydetectorganisationfwsfeem.ydns.eu
- apk1.bans.com.br
- app.catholicchurch.co.in
- apsp.down.easydown.stnts.com
- archivourologia.com.mx
- arnavsoftware.in
- atacado.bigstorex.com.br
- atelierspuzzle.com
- bistrosuyaz.shop
- blockly.com.br.evandrojunior.pro.br
- borioliadvogados.com.br
- c3perucorp.com
- camaradomexpeditolopes.pi.gov.br
- cardvest.ng
- chatsafe.tecnova.com.br
- chnesstdyqudusisabadassniggainthestgls.ydns.eu
- clients.siplprojects.co.in
- cloud.rawntech.com
- cnc.c25e6559668942.xyz
- cogitosoftware.in
- collegemonodgagny.fr
- compprotect.com
- demo2.advisorhelp.ca
- dl.rina-roleplay.com
- down.05779b0d24fb315d.xyz
- dream.pics
- easydown.stnts.com
- e.dangeana.com
+ 9jacology.com
+ abissnet.net
+ accionistas.balneariodealange.com
+ admin.erapor.smk-alasror.net
+ ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
+ advokatemelyanov.ru
+ aeropilates.cl
+ agrabadgroup.com
+ aktuel.marduk.kim
+ alkhayyatbusiness.com
+ allstagingwork.com
+ alsaudiacuttingmaster.com
+ alshuwail.com
+ andeanreach.com
+ angiearm.top
+ anjumanclick.com
+ antipiracytudydetectorganisationfftugpb.ydns.eu
+ apiat.org
+ aramisconstruct.ro
+ ardenneweb.com
+ asawaja.bijukonix.online
+ asustech.cf
+ atom.lk
+ aulavirtual.neptalireyes.org
+ awakenservers.com
+ azraktours.com
+ b2bcom.com.br
+ bayern-sperrmuellabholung.com
+ bekape.co.id
+ biglaughs.org
+ binatones.gq
+ biolandmedical.litofis.com
+ blog.oyinblogs.com
+ blog.vishou.net
+ bohler-edelstahl-at.com
+ bookallon.com
+ bot.lobodomarketingonline.com
+ braam.com.br
+ brinde-top.lobodomarketingonline.com
+ busandvanrentalmalaysia.com
+ cairocad.com
+ cbt2.smk-alasror.net
+ cdn.app.yourwebdesignguys.com
+ cdn.i-xinnuo.com
+ cearacultural.com.br
+ cheetahridge.mediadevstaging.com
+ chile.micorredora.email
+ chnesstdyqudusisabadassniggainthestfmv.ydns.eu
+ ciroiluminacion.litofis.com
+ companieshouseonlinedownload.com
+ comunicacaovertical.com.br
+ countsquare.com
+ crudtest.srintegrated.com
+ cyber.searchkero.com
+ dagranitegiare.com
+ datawyse.net
+ datnenduanbd.com
+ d-cem.com
+ degepro.com
+ demo.seoexpertsinnepal.com
+ dfgggloadf01.top
+ dfgggloadr06.top
+ dfgggloadt05.top
+ dicasdecabelodabiah.com
+ drchaudharisdentalclinic.com
+ du-wizards.com
  elleaesthetics.com.au
- enugeresult.com
- fasttrips.resultaweb.com.br
- fresnocagaragerepair.com
- getactivators.com
- globe.bz
- halten.in
- icy-beppu-4146.under.jp
- ipcc.project.webscript.co.in
- iptv16.com
- kalamiksndyonlinedeliverystoreservsnfqm.ydns.eu
- kalamikstdyonlinedeliverystoreservstvmq.ydns.eu
- kangaroo.techonext.com
- kfcbuenisimo.punto99.website
- leadingpips.com
- leehtourviagens.resultaweb.com.br
- lgturviagens.resultaweb.com.br
- lissinternational.com
- liual.by
- login.radikari.co.id
- lswesbank.co.za
- magnobrasiladvogados.com.br
- mail.life-at-night.ca
- mangero.ga
- marksidfgs.ug
- mbsperu.com
- mindforcehypnosis.com
- mkontakt.az
- mndyneverwalkachinese2loneinlifekmnkkp.ydns.eu
- mobitel-servis.si
- modernacademycancun.org
- mokiastrade.com
- monikagraphics.in
- myelementor.com.br
- mymilld.com
- mypolicyguide.com
- patrick.achi.residencemas.com
- phukien2a.net
- pm.kezto.co.uk
- pool090.telepuzz.net
- postnordse.top
+ enableinfosolutions.com
+ endurotanzania.co.tz
+ expeditionquest.com
+ fi.bonitastores.com
+ firenmoske.xyz
+ fishing4tackle.com
+ fixhomes.ca
+ flow-sol.com
+ friendsofchrist10.com
+ fyadvertising.com
+ game.vlexor.com
+ geisterhouse.com
+ genzmag.com
+ geoffoglemusic.com
+ giatot365.com
+ goldcoastoffice365.com
+ goldilockstraining.com
+ gp.thetpainghtut.com
+ guojiazui.com
+ gurucbt.smk-alasror.net
+ gxd3fp7fe7cac6jzn2sac.online
+ halalcosmetics.uz
+ hbprivileged.com
+ heaventoearth.com
+ hotelshivansh.com
+ howwevacation.sheltonpropertiesllc.com
+ htetkaungclinic.thetpainghtut.com
+ hubinfo.co.za
+ hvbevents.com
+ impeledu.com
+ indabol.com.bo
+ inovations.searchkero.com
+ iog.com.cn
+ jarodcharity.org
+ jcteamcapital.com
+ jeffdahlke.com
+ jespersen.org
+ jmonedero.net
+ johnhaydenwrites.com
+ josefpeters.com
+ josegene.com
+ kelaschool.com
+ kelulusan.smk-alasror.net
+ kkgroupbd.com
+ knzazmrserv194.xyz
+ koofuku.com
+ ko-racingshop.com
+ koreankidsedu.com
+ lampoone.top
+ laptop.smk-alasror.net
+ leatherbond.top
+ mdflandres.com
+ mehostin.com
+ melara.app.jarcatech.com
+ milaskentyasamevleri.com
+ mnv.terasoffshore.xyz
+ modem.smk-alasror.net
+ monshaallahu.olaitanoluwasegunglobalent.org.ng
+ moshiresidence.com
+ motobuin.eltipodelasfotos.cl
+ mumglobal.com
+ musickidsprogram.com
+ mvldesign.ca
+ nec-i.com
+ necla.co.ke
+ nemraafrica.org
+ networkwheels.co.za
+ nevertudywalkachinese2loneinlifektugwq.ydns.eu
+ nguyenphuchn.com
+ nicknewsteadconstructions.com.au
+ odev.tarsusbilkoleji.com
+ olebaby.in
+ opheliasbrewery.com
+ order.nordbyvaktmesterogvaktservice.no
+ ourteam.searchkero.com
+ ownitconsignment.com
+ palanskaotg.org.ua
+ palladium.tdmcdev.co.za
+ parakkunnathtemple.com
+ paulscomputing.com
+ pellesbar.co.il
+ penambahberatbadan.info
+ phasdesign.com
+ physio-svdh.ch
+ pos-egypt.com
+ post.lobodomarketingonline.com
+ pox23.io
+ ppdb-legacy.man1lamongan.com
+ preparateparaloquevenga.com
+ priyabeatus.com
  procesotg.com
- raiodesolexcursoes.resultaweb.com.br
- rarceresearch.fun
- robej.com
- rogatech.cf
- runningcrewteam.com
- sadiahyat.com
- santoantoniodelisboa.pi.gov.br.planecomp.com.br
- sarojgotame.com.np
- sistemapdv.sistemasbrasilonline.com.br
- skincrawling.top
- sndyworkfinesanotherrainbowlomoyentsnfrw.ydns.eu
- sodown.xyz
- sparepartiran.com
- ss.monita.co.id
- stdyantipiracydetectorganisationfstfbbc.ydns.eu
- stdygreenkegheedahatakankeadeshnaastfyw.ydns.eu
- sukusenterprises.com
- systemic.casa
- tacefradio.com
- teste.bigstorex.com.br
- usa.artillery.cf
- validserver.com
- vremenew.ddns.net
- web2web.in
- woezon.agency
- workfinefrdysanotherrainbowlomoyentfrnew.ydns.eu
- wprockets.me
- wsdychnesqudusisabadassniggainthewsbkq.ydns.eu
- wsdyshgshgnationalobjindustrialatwsgtq.ydns.eu
- www.arctiler.com
- www.cleimmo.ma
- www.danielvandeutekom.nl
- www.fam-int.com
- www.laxmirugnaseva.online
- www.sodown.xyz
- www.virtech-bg.com
- www.webdispo.com
- yoramfriedman.co.il
- ytmfynt.com
+ qualcommmedia.com
+ radiofmlive.com
+ rechargkitmail.com
+ reconindia.co.in
+ redareg8aas.top
+ rentosweep.co.uk
+ report.radikari.co.id
+ resuco.net
+ russchine2stdymapanxmenischangednestvdq.ydns.eu
+ russk16.icu
+ rycomputer.com
+ sanolifescence.com
+ sarfizmir.com
+ schoolbustracker.softgig.co.ke
+ schooldz.co
+ sharpelevators.in
+ shgsqfdzin.ru
+ shop.eldalile.com
+ shop.gulatani.com
+ siamimplement.co.th
+ sibernetix.fr
+ sisantri.smk-alasror.net
+ sistacweb.com
+ smitattorneys.co.za
+ sociallit.lobodomarketingonline.com
+ ssdgatewaysolutions.com
+ stdyneverwalkachinese2loneinlifekstgqm.ydns.eu
+ suhu.site
+ superiorsurfacings.com
+ suriagrofresh.com
+ swallow.tdmcdev.co.za
+ tarsusbilkoleji.com
+ technohub.searchkero.com
+ tenrougroup.com
+ testapi.app.jarcatech.com
+ thebestfikrah.com
+ themesgiant.net
+ theoakridgeinternational.com
+ theotokoseb.com
+ thoitrangtrungnienkim.vn
+ tillmoon.lt
+ topcell9.com
+ t-o-u-c-h-s-m-a-r-t.com
+ transfersuvan.com
+ tsrv4.ws
+ tube.focodahora.com
+ tudychnesqudusisabadassniggainthetubmx.ydns.eu
+ tudyrusschine2mapanxmenischangednetuicm.ydns.eu
+ tumsell.com
+ udesk.searchkero.com
+ umzug-angebote-vergleichen.com
+ unikaryapools.com
+ upcndg.org
+ up.llw0.com
+ vilajansen.com.br
+ vintageartgalleria.com
+ vod.vishou.net
+ vyn-ascensores.com
+ weatherwindows.pk
+ web.smarts-works.com
+ wildtrust.mediadevstaging.com
+ wsfapp.cn
+ www.aciparis.com
+ www.agnespagan.com
+ www.alshuwail.com
+ www.bmsystem.ro
+ www.errepartributario.com.ar
+ www.hbprivileged.com
+ www.isatechnology.com
+ www.lixko.com
+ www.ukndesw19x.com
+ wxdgut.cn
  z1001.net
+ zebaorganics.com
+ zsartandcraft.com
  goatse.cx
  www.goatse.cx
  oralse.cx
@@ -22931,6 +23036,7 @@
  livecheck.theperfectsystoupdating.date
  livecheck2update.thepointofforcontentingclear.bid
  liveupdate.feednowforbrandnewcontestdistributor.win
+ lnfo-can7651.com
  load.jsecoin.com
  loseweight.asdjiiw.com
  lp.cleanmymac.online
@@ -35637,277 +35743,255 @@
  zenback.jp
  ziyu.net
  zmnqoymznwng.com
- 14936-1011.s2.webspace.re
+ 009.tw
+ 10022020newfolder1002-0153251002202035.site
  1am.co.nz
  21robo.com
  2203610rwd.projects-airnetwork.asia
  24kitten.com
+ 30sheji.com
  360.lcy2zzx.pw
  379code.com
- 48bistro.com.vn
  49parallel.ca
+ 7alwan.net
  aarvytechnologies.in
- abdzwuazduroowdufa.ru
+ abcd.bg
  aboveandbelow.com.au
- academyshademani.com
- accordadvertising.com
  accounting-qualifications.co.za
  acellr.co.uk
- acreclothing.com
  acteon.com.ar
  activecost.com.au
  addahealingmusic.com
  admin.grandoceanvilla.com
- afkar-tech.com
  afmahsports.com
- afonyaporta.hu
- afrifashiontalent.com
  agencia.fal.cl
+ agentsambal.com
+ agentt.ac.ug
  ahansatan.com
  ajstudiollc.com
- albasisgroup.com
+ alabamaballdrop.com
  alemelektronik.com
  alexian-construction.co.uk
  alfaltda.cl
- alimar.com.ar
- alphagembio.com
+ alizarei.ir
+ alka.institute
  alquileresolavarria.com.ar
  alvisoft.in
  amarteargentina.com.ar
- amazedelectrical.com.au
  ambala.infoigy.com
  amsolarturnkey.com
+ ancorals.com
  andreelapeyre.com
  andremaraisbeleggings.co.za
  andreonemaia.com
- angelsdetour.com
+ andres.ac.ug
+ andres.ug
+ angelazgheibld.com
+ angeshemaria.com
  anhung1102.vn
  annabphotography.co.uk
+ anuron.co.in
+ anurontv.com
  anvietpro.com
  anysbergbiltong.co.za
- apartmentsecurity.cf
  api-ms.cobainaja.id
  apisms.e-mobiletech.com
  apoolcondo.com
+ app.catholicchurch.co.in
+ applecn-abrasives.com
  arabcoegypt.com
+ archersrocksafaris.co.za
  arctiler.com
  areeba.eci7.com
- armofmercy.com
- artwebsite.uk
+ artismc.in
  arvidarena.com
  ask-regard.call-save.biz
- ask.maxfaxtalk.in
- aswm.in
- atc.iyclm.in
+ atacado.bigstorex.com.br
  atfile.com
  atteuqpotentialunlimited.com
- aulist.com
  automaticrefreshments.com
  avaconbuilders.com
+ avanttipisos.com.br
  avitech.net.au
- azharseo.website
- azlan.design
+ axocollege.com
  azmeasurement.com
- azraktours.com
  b2b.toptanakaryakit.com.tr
  babsite.com
- bachs.group
- backup.agewsage.com
+ backgrounds.pk
  badeggdesign.com
  bahriatownshops.com
- ballatstone.com
  banahtv.com
  bangkok-orchids.com
+ bariqn.com
  bary.sz4h.com
  bash.givemexyz.in
+ bavhome.com
+ bazarkotulpur.com
  bbia.co.uk
  bearmed.in
- beenakker.eu
- belayadver.com
  bespokeweddings.ie
+ bethapro.com
  betone.co.kr
  betterleisures.com
- betycopaints.com
+ bgmails.com
+ bgmtechnologies.com
+ bharattimeslive.com
  bigbusinesscall.geteasycustomers.com
- biglaughs.org
+ bilbosaquet.ug
  binarywebtechsolutions.com
  bisolar.ro
- bizu.januarioadvocacia.com.br
- blog.takbelit.com
- blog.vishou.net
+ blog.cebecitekstil.com
+ blog.knowlodge.com.br
  bluefaceleicester.co.uk
  blueprintvehicles.net
  bodenstein.co.za
  bolichomissioneiro.com.br
  booksearch.com
- boostgreen.org
+ borioliadvogados.com.br
  boyama.medyanef.com
  bqkj2013.com
  bradleyinstitute.co.za
  brandscanltd.com
- brandsstudio.pk
- brandtrust.com.pk
  brasiltripstour.resultaweb.com.br
  brightmega.com
  brightonrooms.co.uk
  brightstarshop.com
  britishwebmasters.co.uk
- brshahed.ir
- buigiaphat.com.vn
+ bsangels.com
  bumdesnesia.com
- business.binkhalidinternational.com
- business.perkss.co.uk
- buyautoparts.in
  c.vvvvvvvvv.ga
- cab-vietnam.org
+ c3perucorp.com
  caballo.com.au
- cacapavaonline.sdserver144.com.br
  cacsnetwork.co.in
  cadastrabrasil.com.br
- cahrhomeopathy.com
+ calgaryautorepairservice.com
+ camaradomexpeditolopes.pi.gov.br
  camaraitainopolis.pi.gov.br
+ caminhodosveadeiros.com.br
  camminachetipassa.it
- camrash.com
  capepatioblinds.co.za
  carpe-vita.de
- cartagourmet.com
- cartrade.co.za
  carwmcci.residencemas.com
- cassovia.sk
- cateringmuslimcemangi.com
+ cashcart.loan
+ cashyinvestment.org
+ catchpoolshetlands.co.uk
  ccsau.com
  cdaonline.com.ar
  celinehjeily.com
  cghmedia.com
+ chainreactiondev.com
  chanvribloc.com
- cheap8x10s.com
- childselect.com
- chipest.com.ng
- chocovana.co.uk
+ chat.aarvytechnologies.in
  cifeer.net
  citybasket.in
- citymobile.rs
  cleanbydesignllc.com
- cleimmo.ma
- clickable.dwmarketing.us
- clients.bandw.com.ar
+ clients.siplprojects.co.in
  climarosario.net.ar
- climax.co.in
  clone.affordable.cm
- cojestgrane.simplicitygames.pl
+ coastlinepoolspa.com
+ codsambal.com
  colfarse.com.ar
+ collegemonodgagny.fr
  colorpak.pl
  comerford.org.uk
  commodex.com
  complan.hu
  complanbt.hu
- conciergeandco.co.uk
+ confidentcaredentistry.com
  config.cqhbkjzx.com
+ config.kuaisousou.top
  config.younoteba.top
  conjurosdeamoryhechiceriaacacio.com
+ consejosdeorlando.com
  construtorahabite.com.br
  consultingevolved.com
+ contractrequest.nirmal-co.xyz
  copelandscapes.com
  corporatebusinessmachines.co.in
  coulsongraphics.com
- count.mail.163.com.impactmedfoundation.com
+ countrynavigator.com
  cpsirx.com
  cqjcc.org
  cqsoiltesting.yourpageserver.com
- cranport.com
  crearechile.cl
  creationskateboards.com
  crittersbythebay.com
  crm.lavieenrose.com.sg
  crm.notariavieitoyvelamazan.com
+ csarad.com
  cse-engineer.com
  csnserver.com
  ctracknxt.in
  cuadros.pe
- cubectivel.com
- cuencadistributions.com
- currantmedia.com
  cygnilux.com
  cytechcn.com
  czsl.91756.cn
- d.powerofwish.com
  d9.99ddd.com
  da-industrial.com
  da.alibuf.com
- dandyair.com
  dannexgh.com
  daoisthealing.com
  daprofesional.com
+ darkface.ac.ug
  dartoonpictures.com
  data.kaoyany.top
- datsom.vn
  daugia.org
- daunhotq10.com
- davethompson.me.uk
  dby1230.com
- ddynamooverseas.com
- deepakjain.net
  defiteqazerbaycan.com
- degepro.com
  dekovizyon.com
  dental.xiaoxiao.media
  dentalalliance.se
- depcosmetics.vn
  designerliving.co.za
- designmakers.co.in
+ desiringhands.com
  detorre.es
  dev.academiacrcafe.com
  dev.sebpo.net
- dezineinnovation.com
+ dezcom.com
  dfcf.91756.cn
  dheeranet.com
- dhmo.org.ua
  diaadi.com
  dieselpower.sysnavtechnologies.mobi.ke
  diesner.de
  digilib.dianhusada.ac.id
- directadmissionbanglore.com
  djomare.com
  dl.1003b.56a.com
+ dl.rina-roleplay.com
  dllth.com
+ dnn.alibuf.com
+ docomo.asia
  dodsonimaging.com
- doktorlarrehberim.com
- domoportugal.com
  dongphuctop.com
+ doodahlabs.com
  dosame.com
- dosha.bg
- dosman.pl
  dovberger.com
- down.pcclear.com
+ down.flash-plays.com
+ down.webbora.com
+ downkzvideo1.xyz
+ downkzvideo2.xyz
  download.exrnybuf.cn
- downloads.iyclm.in
  downloads.jxtsteel.cn
  dpicenter.edu.vn
- dpoonabakers.com
+ dr-yasser.com
  dragonsknot.com
+ dreamsmattress.in
+ drive.google.com.it-barcelona.com
+ drpamelageorge.com
  dsid.e-mobiletech.com
- dukan24-7.pk
  dunkingbirdproductions.com
+ dupuisacademy.com
  durbanbusinesscollege.co.za
  dutapp.wisolve.co.za
  eagle-family.co.uk
- earntrend.club
- ecity.mvmms.in
  ecoconcretos.com
- edu.findx.lk
+ ecologi.in
+ ediet.ir
  educationorder.com
  efficientegroup.com
  egemarteknik.com
- elearn.scholarsmind.in
- electrocardsystems.com
- elegenttrucking.co.zw
- elitechauffeurservices.ro
- elixerdigitall.com
- elranchomarkets.com
+ eixoarquitetura.com.br
  elsiesamson.com
  emmashop.sk
  employee.aarvytechnologies.in
- emsshippingservices.com
  eneosdemo.digitalcanali.com
  engeserv.com.br
  eosouthasia.showtimemobileapp.com
@@ -35917,12 +36001,10 @@
  esnconsultants.com
  esquinerosaguilarlerma.com
  estatus.cyou
- etechpk.net
- eubanks7.com
  eventandcasino.com
- exagono.com.mx
+ evsaspot.com
  excursoesdeinhamais.resultaweb.com.br
- exilum.com
+ eytsoft.com
  ezfintechcorp.com
  ezi-pos.com
  ezselika.com
@@ -35930,441 +36012,432 @@
  f6.com.vn
  fakemoney.website
  familiamk.resultaweb.com.br
- fangs.co.in
+ fandangles.uk
  fanyaya.cn
+ fapp1.globelinkww.com
  fashionatingworld.cn
- fatturanumeroverde.com
- felicienne.nl
- fellowfunding.com
+ fasttrips.resultaweb.com.br
+ fcee10.forumeniso.com
+ feants.com
  fenfa.vishou.net
  ff.vishou.net
- ffa.odessa.ua
+ fffdownload.xyz
  fgtowingservices.com
  files6.uludagbilisim.com
  final.makkahkmcc.com
  findsaloon.sistemasbrasilonline.com.br
  fkd.derpcity.ru
- flash-update.buyonebuy.top
  flightscozy.com
  flyhightraveller.com
  flyingbuddhadesign.com
  fmcav.com
  fmpanamby.ga
- forestanalytics.net
- fortiol.com
  forum.mdb.nu
  fotoobjetivo.com
  foxeps.com.br
  freecnetdownload.com
+ freeprivacytools.ru
+ fresnocagaragerepair.com
  fuji-housing.com
  fullelectronica.com.ar
  fundacionemme.com.ar
  funletters.net
+ furgonsuperior.com
  fusionfiresolutions.com
  futuregraphics.com.ar
- gade4senate.com
+ gacetaeditorial.com
+ gadgetbay.com
+ gamesforconsoles2222.top
  gaminggalaxy.live
- ganamcaters.in
- gbbulls.co.uk
- geisterhouse.com
  gemm07.com.br
- gemtree.digitalnoirtest.net.au
- geoffoglemusic.com
- gesocomputers.com
- giel.shop
+ generaldeviales.com
+ gestione.co
  gipfelengg.com
+ girisimlers.com
  girlgeekdinners.com
  gjvtri.org
- glamwithfashion.com
- globacity.my
  gnimelf.net
- goldcoastoffice365.com
+ gnscrew.ro
  goldcoastoffice365.com.au
  golden-memories-funerals.yourpageserver.com
- goldilockstraining.com
+ goldentrading.com.bd
  goldoni.co.uk
+ gotmatnoisoi.com
  gracetab.co.za
- greatceremonies.in
  grupoinmare.com
- gruposantos.puentesdiaz.com.ar
  gssgroups.com
  gstatus.bar
  gvpcdpgc.edu.in
- gym.aarvytechnologies.in
  h5g2.vishou.net
  h5game.vishou.net
- h5yx.vishou.net
  hagebakken.no
- hbprivileged.com
+ hanoiemyeuanh.com
+ havuzkolbandi.net
  hby.yngw518.com
  hds.sz4h.com
- healthdepartmentnews.com
  heartssetfree.org
+ helionspharmaceutical.com
  help.hizuko.com
- heraclitotattoostudio.com
+ herchinfitout.com.sg
  hercinovic.com
- hero-sport.ir
  hesa.co.id
- hfhn.mvmms.in
- hfrt.mvmms.in
- hikangaroo5.com
+ highlandslasvegas.atakdev.com
+ hightimesmarketingandconsulting.com
+ hitstation.nl
  hivasafety.ir
+ hmlifekoltuk.com
  hmpmall.co.kr
- hnelse4.com
  hoagietesting10.com
- holidaybooking.mu
- holisticdreams.org.np
+ homdecfurniture.com
+ homewatchamelia.com
  hongluosi.com
+ hoofdynamics.com
+ hornnetsources.online
+ hos365llc.com
  hostzaa.com
  housewifes.co
- hoyamu.tellwhom.com
  hraad.com
- hsmwebapp.com
+ hseda.com
  htownbars.com
  huffpuff.com.au
  humanresourceslifeline.com
  hunggiang.vn
+ huxere.xyz
  hx.sxheping120.com
  hyb.ircms.in
  hybv2.ircms.in
  ibexcamps.com
  iconickidz.in
- idaka.co.id
  idilsoft.com
  ienglishabc.com
- iexist.in
  ifund.my
  ikexpert.com
  illumin.org
  ilrafrica.com
  imaspro.com
  imeraipur.com
- improvewomenshealth.com
- inauto74.ru
+ imoblarimoveis.com.br
  incrediblepixels.com
- ini.egkj.com
- inigbiseijfji.ru
+ incredicole.com
+ indemnity360.com
+ infraheroes.ir
+ initiativepropertiesltd.com
  innovent.innodaba.com
  inodesthetotaldesigners.com
- inter.creativeintertech.ca
  intersel-idf.org
- iog.com.cn
+ intrasistemas.com
  iotforall.ru
  ipmes.ma
- iprosl.com
  irashares.prodigygroupindia.com
  iremart.es
  irvingstudios.com
  iscamenabe.com
- israrulhaq.me
- isso.ps
  istatus.bar
- istatus.casa
  istatus.cyou
- janalynthirlwall.com
+ jada.co.in
+ jamiekaylive.com
+ jamshed.pk
+ janakre.com
+ jansen-heesch.nl
  janvierassocies.fr
- javatank.ru
- jeffdahlke.com
+ jdkems.com
  jiafunongye.com
+ jiaoyuzixun.cn
  jmtc.91756.cn
  joba-mikasch.de
+ johnloveskim.com
  join.cl8movement.co.za
- joiningofficialilluminati.com
- joostpieter.com
- josegene.com
- josetyres.co.ke
+ jokerca.com
  jpwoodfordco.com
  juliacarrera.com
- kabiryogashramlimbdi.com
- kadigital.co.uk
- kangaroo.technonext.com
+ junzhizaixian.com
+ kangaroo.techonext.com
+ karavantekstil.com
  karer.by
- ketogenicmealplans.info
+ karlagaray.com
+ karsonhomecare.com
  kevin.netdati.com
  kevinley.com
  keywatch.yourpageserver.com
- kgvidhyashram.in
- khangdienhouse.net
- kientrucadhome.vn
  kinesiolog.de
- kittstr.com
+ kitabemas.or.id
+ kleinendeli.co.za
  kmatechnicalinno.innodaba.com
- kmbdiffer6.com
+ knzvncadvert549.xyz
+ kolaycaingilizce.com
+ kolerkar.com
  komakapp.ir
+ kos4.monster
+ kostjamusic.com
  ktmmarts.com
- kumbrescr.webscript.co.in
  laboratbahasa.com
+ labtop.pe
  laidbackexcursions.com
+ lainiotisllc.com
  lameguard.ru
  lancasterroofer.com
- lapapeteria.at
  laravel.e-mobiletech.com
  lblcomputacion.com
  ldgcorp.com
+ leadingpips.com
  learningcomputing.org
- legalpyramids.com
+ leehtourviagens.resultaweb.com.br
  legend.nu
+ lgturviagens.resultaweb.com.br
  libya-info.com
  lidoraggiodisole.it
- lifes-m.com
- likeszone.com
  lindnerelektroanlagen.de
  linkintec.cn
- livetrack.in
+ lissinternational.com
+ localvocal.com
  location-voitures.ma
- lock.omkarfatale.in
- loctraders.com
  logotypfabriken.se
+ lojacancaoelouvor.com.br
+ longline.cyou
+ longlive.casa
+ longlive.cyou
+ longstat.cyou
  lotix.de
  lotusanddragonfly.com
  lt02.datacomspecialists.net
- lubricentroimperial.cl
  luciabarrueta.com
  luckybrownie.com
- lvr.samacomplus.com
+ lukelive.in
  m3wealth.com
+ mackleyn.com
+ magnobrasiladvogados.com.br
  magnusdc.com
+ mahaluxmioil.com
+ mail.101marketinghelp.com
  mail.bs-eiendomme.co.za
- malaya.tv
- mankarcrusher.webscript.co.in
+ mail.life-at-night.ca
+ mairie-koumassi.eaglepgi.com
+ manayradio.com
+ manicapital.com
  mankota.com
  mansanz.es
+ marcapinyo.ru
  marketinfosales.com
+ marksidfgs.ug
  martiniandgrey.com
  mashroo3i.bh
+ matadorfashions.com
+ matajikrishi.com
  materialescantu.com
  mattayom31.go.th
- maverickhiliving.in
  mbgrm.com
  mbsolutions.ge
- mcs.ihdf.org
- meadtimes.com
+ md5.5ofj.pw
  medianews.ge
- medicelcoolers.cn
  meeweb.com
  mehsana42golprajapatisamaj.org
+ members.nlbformula.com
+ memoria.od.ua
  merbay.ru
  merkadito.mx
+ mettaanand.org
  mexcorp.net
  mffyjcdn.btgame.com
- miatossolutions.com
  micalle.com.au
  michaelphilip.com
  microcomm-group.com
  mikkelraunsgaard.dk
- militar.januarioadvocacia.com.br
+ mindmill.me
  mirror.mypage.sk
  mis.nbcc.ac.th
  misterson.com
+ mistydeblasiophotography.com
+ mkontakt.az
  mktf.mx
  mkvs.org.in
- mkzone.com.ng
- mlrodasepneus.com.br
- monacofieldson.co.uk
- moodle.prepajilo.mx
+ mncarteam.com
+ modernmanna.org
  mophp-ye.com
- moremoreno.com
  moscow11.at
  motorcomunicacion.com
- mteng.mmj7.com
  mvb.kz
- mvswf17.mvmms.in
- my.loungu.com
  myanmarlegalservices.com
+ myelementor.com.br
  myinstantguru.com
- myopenbank.jdosa.com
- mysub.iyclm.in
- mythikall.com
  n-brake.com
  nadsupplies.co.za
  nas.svk-telecom.ru
- natsturismo.resultaweb.com.br
+ natunkantha.com
+ naya-center.com
  nepalelectrical.com
- news24mrl.com
+ networkhardwaresol.com
+ new.icfcfilm.com
  newtreedesign.co.uk
  nextdigitalday.ru
  nguyenthuyquynhhoa.com
- nidhi.iexist.in
+ nhorangtreem.com
+ niislelaudit.mn
  nikanpolimer.ir
- nikmarkelov.ru
+ nirmalvermicompost.com
  nobius.org
- norkupong.com
+ nobletrade.top
+ nomalware.info
  ns1.the-widyantos.com
  nsb.org.uk
  nsheldon.co.uk
- ntradrsventas.ga
  nurmarkaz.org
  nuwagi.com
+ ny-accounting.co.za
  oakleyandfriends.co.uk
  obseques-conseils.com
- oceanofgamespc.com
  office.horussolution.com
- office.loopweb.lk
  ohsewgorgeous.co.uk
- okankoleji.com
  oknoplastik.sk
  oleholeh.memangbeda.website
  omega.az
+ onevoice.co.in
  onivenis.es
- onlineerp.co.in
  onourstyle.com
- onthemoveworld.com
  onw.kx1.in
- open.iyclm.in
  open.warehousesaas.co.uk
  optimus.com.sg
- order.viralizers.com
  originador.com
- orion.me
- orite.lk
+ orion445.com
+ osdsoft.com
+ oteroindustrial.com
  ottimade.com
- outdoorsphoto.net
  ozemag.com
  pablobrothel.com.ar
  pacificgroup.ws
  pacwebdesigns.com
  pade-russia.ru
+ pageshare.net
  pagrama.motocascos.com.co
- pais.realizartesublimacao.com.br
- panchie.mvmms.in
- pano.digitalnoirtest.net.au
+ pantuflasychocolates.cl
  parallel.rockvideos.at
  paramassociates.co.in
+ pastorpaulocosta.com
  pataphysics.net.au
- patch2.51lg.com
  patch2.99ddd.com
  patch3.99ddd.com
+ patrick.achi.residencemas.com
  paulmercier.biz
- paulscomputing.com
- pccreed.com
  pcsoori.com
  pd.oceaniarp.net
- pehchaanlivefoundation.org
  pellero.ir
+ penniesforsense.com
+ perfect-ly.de
  perfectdegreeshvac.com
- pet.vishou.net
  petercollie.com
- phadishago.co.za
+ ph4s.ru
+ phawayagency.com
+ phmcpak.com
  phudieusongma.com
+ phukien2a.net
  pink99.com
- pinsaved.com
  planktonik.hu
  plasfan.ind.br
- plumbersinadelaide.net
- portalaspra.softdrive.com.br
  portalltd100.scbmanagement.com
- pos.staysafe.pk
  pos.sumatosolutions.com
  posmicrosystems.com
  prashantshastri.com
+ praticideas.net
  prestasicash.com.ar
  primecigarettes.com
  principles.webseite-programmierung.de
- prisecomparer.com
+ printsaga.in
  producoesdahora.inclusaodahora.com.br
  proqualityodontologia.com.br
- prorish.com
+ prosoc.nl
  prosyarmakassar.com
- psmedien.de
  ptfcatpal.com
  publicidad.fal.cl
- puchoff.com
  pujashoppe.in
+ purpledot.io
  pvcprinting.co.uk
+ qdfljd.cn
  qm.vishou.net
- qmsled.com
  quicksaleecuador.com
- rackz.su
  radiocanibal.com
- raformatico.com
  rainbowisp.info
- rasadbar.ir
+ raiodesolexcursoes.resultaweb.com.br
  ravenproductionsltd.com
- rc.ixiaoyang.cn
+ rdgame.fr
  real-song.tjmedia.co.kr
- realtyxioma.com
+ redchillicrackers.com
  reifenquick.de
- religonclothes.com
  remotefacilities.com
  removepctrojan.com
- renehavis.com.ua
- repcamedical.com
  res.uf1.cn
  revipharma.com
  rezkabum.ru
- rgmvanijya.com
  rhema.com.sg
- richardsilk.com
  riminvest.vn
  rinkaisystem-ht.com
- rntekno.com
- robertsinclair.net
- rock.binkhalidinternational.com
  romanianpoints.com
  romeroexcursoes.resultaweb.com.br
  ronnietucker.co.uk
  roomsvc.servegate.kr
  roshnijewellery.com
- royalengrs.com
  royalsit.com.np
+ rsii.in
+ rubisasphalt.com
  ruisgood.ru
- ryvpro.cl
+ runningcrewteam.com
  s.51shijuan.com
  sacredscentsonline.com
  sadiqgill.com
  sahathaikasetpan.com
- saiappstore.com
- saishaktipatholab.arogyapatholab.in
- sakrobazar.com
  salecorner.yourpageserver.com
  saluvite.com
- samarth.group
- sanamlive.in
+ sambalgaringchiangrai.com
+ sambalmeletup.com
+ sambalviral.com
+ sancydubai.com
  sandovalgraphics.com
- sanjoseroofing.org
+ santoantoniodelisboa.pi.gov.br.planecomp.com.br
  santyago.org
- saraceninvestments.co.uk
+ sarojgotame.com.np
  sarvmaticgroup.com
  sasystemsuk.com
+ scglobal.co.th
  schalke04rss.de
  scheff.com
- scoalajupinesti.ro
- script.rentpayez.com
- sculetus.nl
- seaplanescenics.net
+ school.aarvytechnologies.in
+ scope-sci.org
+ secretmassageclub.co.uk
  semear7.com.br
  servermoov.e-mobiletech.com
- sfcityofchampions.com
  sgofficecleaner.com
- shahrakyar.com
- shakour2020.ir
+ sh.epelcdn.com
  sharkrigs.com
- shembefoundation.com
- shikdeveloper.ir
+ shfire.cn
  shivakunwar.com.np
+ shop.symplyfabrics.com
  shopjuttis.com
+ siamaromatherapy.com
+ siitav.net
  simoneporzi.it
- sindicato1ucm.cl
- sistelligent.com
+ simplygrocery.simplypos.org.in
+ sipahielektrik.com
+ sistemapdv.sistemasbrasilonline.com.br
+ sistempark.net
  siyahkalemresim.com
  skinfolabs.com
- skvflexandoffset.in
- smartforklift.com
  smarthouseforum.ru
  smarts.tj
- smileclothingofficial.com
+ smatduc.com
  snyderlawns.com
  soft.110route.com
  soft.officelabo.net
- solodarydar.net
  somcorbera.cat
+ somosleyendas.cl
  soralapps.com
  sortl.in
+ sparepartiran.com
  spent.com.pl
- spg.digitalnoirtest.net.au
+ sportucc.com
  spsinghmedicine.com
  src1.minibai.com
- sriglobalit.com
+ ss.monita.co.id
+ sslv3.at
+ steller-family.ru
+ stmichaelcv.org
  store.aarvytechnologies.in
  stott-thompson.co.uk
  stratexec.co.za
@@ -36373,258 +36446,222 @@
  sunbayhotel.vn
  support-4-free.com
  support.clz.kr
+ surfboarddigital.com
  surgaya.com.ua
- suriagrofresh.com
- surmaconcrete.com
  sutomoresmestaj.net
- svtn.mvmms.in
  sw.yourpageserver.com
  sweaty.dk
  swiftlogisticseg.com
  swwbia.com
  sylhetibeautiespower.com
- synergy.webscript.co.in
+ sypher.biz
  syracusecoffee.com
- systemlive.casa
- systemok.casa
- systemst.casa
- systemu.casa
- sytraders.co
- t.honker.info
- takisaat.com
- tapalkoedacoffee.com
+ tadoo.ca
  tarravalleyfoods.com.au
+ taxpos.com
  tc.snpsresidential.com
  techgms.com
- tecnovalores.cl
- tekkys.repair
  telescopelms.com
- telesys-team.com
  telesys.co.in
  temptmag.com
+ tessaract.be
  tessrobins.com
  test.88582.com
- test.arogyapatholab.in
  test.techofi.in
+ teste.bigstorex.com.br
  testes.deltafilisoft.com.br
  testing.clickitsolutionsmw.com
  testnew.yourpageserver.com
  teteaffiche.stephanebillon.com
  tewoerd.eu
- thaisell.com
- thammynhp.com
+ tgpiran.cf
  tharringtonsponsorship.com
- thebestunited.com
- theedgemedia.in
+ theblacksheep.org
+ thehopstopsd.com
  thejiayin.com
  thekassia.co.uk
- thekiranastore.co.in
+ theo.digital
+ therearehumansintheroom.csdconsulting.net
  thichdocu.com
- thoko.co.ke
  thosewebbs.com
  thuetrongtin.online
- thuythuysanvertex.com
+ thuytinhhungky.com
  tianangdep.com
  timamollo.co.za
  timegonebuy.com
  tipsartists.com
- tiptopvideo.in
  tldrbox.top
- tldrnet.top
+ tnkhanh.info
  tocakids.resultaweb.com.br
- tolensociety.com
  tonydong.com
+ tonyzhuangxiu.com
  tonyzone.com
  totalprotectionltd.com
  totebarreto.com.br
- tourisme.eaglepgi.com
- toyotacollege.ac.th
- tradingworldchina.com
- trafficformulas.com
+ tradestarintl.com
+ travianbot.net
  troki.com.co
  trumsango.com.vn
  tsd.jxwan.com
- ttson.name.vn
+ tudatosmarketing.hu
  tulli.info
  tung-shu.cf
- turismochaco.com
- tutuler.com
- tvonlinehd.com.br
+ tv5a.com.br
  twomissa.com
- uc-56.ru
- ufaam789.com
+ udre3kvzatwrx6ues4p2u.top
+ uduakcharlesdiaries.com.ng
  ultimate-24.de
  ulusalofis.com
- unicorpbrunei.com
- uniengrisb.com
- unik-cursos.com.br
- unikaryapools.com
+ umwelt-kirchhof.de
+ unitedmdy.com
  urlac.de
  urquilam.com.ar
  usmadetshirts.com
  uss.ac.th
- uwwlesson8.com
  vbcargo.hu
  vcah.co.uk
- ventas.website
- versatilcamiseteria.com.br
+ vermapaints.com
  vfocus.net
  viajandobrasilafora.resultaweb.com.br
- vilabobabor.rs
+ vidyabhartiekalvidyalya.com
+ villamarand.com
  villatera.com
  vinvent.in
  violinstop.com
- visionlightenterprises.com
- vivationdesign.com
+ visualhome.cl
+ vivc.edu.vn
  vivitour.resultaweb.com.br
- vmracing507.com
- vmusicsound.com
- vod.vishou.net
+ vjsi.top
  vrindapublicschool.com
  vuatritue.com
- wafatrust.com.pk
- wallcab.com
+ wadsoncables.co.za
  wanderlustmedia.co.za
- wap.dosame.com
  weareactum.com
  webmotion-design.com
  webpower.pdc-ind.com
  webpresario.com
  webso.ca
- weixin.vishou.net
  west-tv.dp.ua
  wewege.com
  whatsyourmedicine.org
+ whiteresponse.com
  wikihookah.com
  wildnights.co.uk
  windcomtechnologies.com
- windomains.bar
- windowsmain.casa
  windowssecurityhome.com
- winnercircle.it
  wippe13.de
  wishesconcierge.com
- wisp.servitel.com.co
- wnews.eaglepgi.com
  wolfgang-brodte.de
  womenstyle.pk
- woodsytech.com
+ worldcologistics.co.za
+ wp52.meroketetapjaya.com
+ writesofpassage.co.za
  ws4polisi.pdc-ind.com
+ wubwubwub.nl
  www.0-24bpautomentes.hu
  www.21robo.com
+ www.68yuanzhijia.xyz
+ www.87du.vip
+ www.aaskuu.com
  www.acep-xploit.tk
- www.addahealingmusic.com
+ www.agsir.com
  www.al-wahd.com
- www.altavidatechnology.com
+ www.allowitlive.com
+ www.alphasierra.wp.appswind.com
+ www.andremaraisbeleggings.co.za
  www.anysbergbiltong.co.za
  www.arabcoegypt.com
+ www.arctiler.com
  www.bendys.com.au
  www.betone.co.kr
- www.cassovia.sk
  www.catamountcenter.org
+ www.celinepeyraud-psychologue.fr
  www.cellas.sk
- www.cushionsandumbrellas.com
+ www.christopherenovation.fr
+ www.cible-energy.com
+ www.cwa.mx
  www.cyclomove.com
  www.datapolish.com
- www.deayoungkiki.com
  www.dental.xiaoxiao.media
- www.digihacks.in
- www.dongphuctop.com
- www.dzinestudio87.co.uk
+ www.doodahlabs.com
  www.eipsnc.com
- www.electricwest.com.au
  www.enc-tech.com
  www.esupervivencia.com
+ www.fam-int.com
  www.fanyaya.cn
- www.flexiblecow.com
  www.fonixpizza.no
- www.geisterhouse.com
  www.genregis.com
  www.glitzygal.net
- www.hadismerkezi.com
  www.hambook.com
  www.hekahealth.org
  www.hldschool.com
  www.hmpmall.co.kr
  www.hseda.com
  www.iaicare.org
- www.infomaker.jp
  www.iremart.es
  www.katanvetov.co.il
+ www.kelam.co.in
  www.kjcpromo.com
  www.kwanfromhongkong.com
- www.lidaxianren.com
+ www.lautarosanmiguel.com
  www.lincsdomesticservices.co.uk
- www.lixko.com
- www.masjidnuruliman.my
  www.mfevr.com
- www.mskimya.com
+ www.n4autocraft.co.za
  www.newxing.com
  www.notamuzikaletleri.com
- www.okankoleji.com
  www.opolis.io
  www.palestina.gob.ec
  www.pedidoslalacteo.com.ar
- www.petro7.com.sa
  www.pharmainstruelec.com
  www.prestasicash.com.ar
- www.prorish.com
+ www.prishaartcreations.com
  www.quartier-midi.be
- www.realestatelp.it
  www.reifenquick.de
  www.removepctrojan.com
  www.riminvest.vn
  www.robertmcardle.com
- www.rpsraipur.com
+ www.savedahorses.org
+ www.scheff.com
  www.sefp-boispro.fr
- www.sindicato1ucm.cl
  www.sisromasicurezza.com
  www.siyahkalemresim.com
  www.skyscan.com
- www.slnewsflash.com
+ www.sota-france.fr
+ www.sprintnegociosdigitais.com
  www.sslv3.at
  www.starcountry.net
- www.surani.co.in
  www.sutomoresmestaj.net
+ www.szyhdzpcb.com
  www.tandenblekenhoofddorp.nl
  www.teleargentina.com
- www.thoko.co.ke
  www.tinhofer.legal
- www.tirelli.it
- www.tldrbox.top
- www.trafficformulas.com
  www.tvsmiami.com
- www.uniengrisb.com
- www.valetourvirtual.com
+ www.ummahstars.com
  www.vipi.co.ke
  www.vvsskmodinationalschool.com
- www.warner1010.com.tw
+ www.willow-nettica.com
  www.windowssecurityhome.com
- www.xaqan.co
+ www.x-treme.gr
  www.xn--2z1b30g3yitydsucda1o601f.kr
- www.yuefuep.com
+ www.zysbpt.com
  wxapp.vishou.net
  wxzg.yngw518.com
  wyklej.pl
  xia.beihaixue.com
- xiheiufisd.su
- xn--12c4bs.com
- xtremeforumz.com
+ xiaowo.ltd
  yakimovaksyphoto.ru
  yara2eatcheadle.co.uk
- yeichner.com
  yoast.yourpageserver.com
- yourjobchange.com
+ yoramfriedman.co.il
  yp.hnggzyjy.cn
  yun.vishou.net
- yunwu.sx
- yuxigon.com
  yzkzixun.com
- zhen.gq
+ zenzhabitz.com
+ zhengtiankai.com
  zhongshixingchuang.com
- znojmo.sreport.cz
- zsinstrument.com
  zylko.com
+ zysbpt.com
+ zzz111.uk
  1-1ads.com
  101com.com
  101order.com
@@ -37126,7 +37163,6 @@
  adserver.pampa.com.br
  adserver.portugalmail.net
  adserver.sciflicks.com
- adserver.viagogo.com
  adserver01.de
  adserver1.mindshare.de
  adserver2.mindshare.de
@@ -38050,6 +38086,7 @@
  joetec.net
  js.users.51.la
  jsrdn.com
+ juicyads.me
  jumptap.com
  jungroup.com
  justicejudo.com
@@ -38060,7 +38097,6 @@
  kameleoon.com
  kanoodle.com
  kargo.com
- karisimbi.net
  karonty.com
  keymedia.hu
  kindads.com
@@ -38446,7 +38482,6 @@
  pixel.digitru.st
  placed.com
  play4traffic.com
- playmobileads.com
  pleasantpump.com
  plista.com
  plotrabbit.com
@@ -38610,6 +38645,7 @@
  revenuedirect.com
  revenuehits.com
  revive.docmatic.org
+ revive.dubcnm.com
  revive.haskovo.net
  revive.netriota.hu
  revive.plays.bg
@@ -38763,6 +38799,7 @@
  sponsorads.de
  sponsorpro.de
  sponsors.thoughtsmedia.com
+ sportsad.net
  spot.fitness.com
  springaftermath.com
  springserve.com
@@ -38982,6 +39019,7 @@
  trafficholder.com
  traffichunt.com
  trafficleader.com
+ trafficshop.com
  trafficspaces.net
  trafficstrategies.com
  trafficswarm.com
@@ -39534,6 +39572,7 @@
  meetclick.biz
  www.bdotransactions.refund.ktkingtiger.com
  ktkingtiger.com
+ speakstandcolony-4.live
  000.0x1f4b0.com
  001.0x1f4b0.com
  002.0x1f4b0.com
@@ -43013,70 +43052,77 @@
  zzqhsrg.ru
  scalaproject.io
  0-24bpautomentes.hu
- 365dayscoffee.com
- 7alwan.net
+ 48bistro.com.vn
+ 68yuanzhijia.xyz
+ 87du.vip
  8poieq.bn.files.1drv.com
  insignificantfinecore.testmail4.repl.co
  a352057.mcdir.ru
+ a353306.mcdir.ru
  aa-1255839675.cos.ap-chengdu.myqcloud.com
+ aaskuu.com
+ academyshademani.com
  accountant01.sutoweb.com
+ acep-xploit.tk
  aeromiic.com
  agsir.com
  al-wahd.com
  alena1971.es
  allcannabismeds.com
+ allowitlive.com
+ alphasierra.wp.appswind.com
  am-concepts.ca
- amistalabs.org
- angelazgheibld.com
- angeshemaria.com
- animadellepietre.it
+ angelsdetour.com
+ anurontv.co.in
+ ask.maxfaxtalk.in
  att.hsw.cn
  attach.66rpg.com
- bbs1.marisfrolg.com
- bekape.co.id
+ aulist.com
  bendys.com.au
- bionet.nsc.ru
- blog.cebecitekstil.com
- blog.knowlodge.com.br
+ bestarget.in
+ blog.takbelit.com
  bludau.webseite-programmierung.de
+ bmsystem.ro
  bpo.correct.go.th
- bunchproperties.com
- bureaubarac.com
+ brandtrust.com.pk
+ buigiaphat.com.vn
  c0140529.ferozo.com
+ cassovia.sk
  catamountcenter.org
+ cateringmuslimcemangi.com
  cdn-10049480.file.myqcloud.com
+ celinepeyraud-psychologue.fr
  cellas.sk
- cfs5.tistory.com
  ch.rmu.ac.th
+ cheap8x10s.com
  chinhdropfile.myvnc.com
  chinhdropfile80.myvnc.com
- clean2clear.com
+ chocovana.co.uk
+ christopherenovation.fr
+ cible-energy.com
  company01.sutoweb.com
- config.kuaisousou.top
- crease-resistant-al.000webhostapp.com
- cushionsandumbrellas.com
+ connecticutsfinestmovers.com
+ count.mail.163.com.impactmedfoundation.com
+ currantmedia.com
  cwa.mx
  cyclomove.com
+ dajshans.org.ua
  damagedessentialtelecommunications.testmail4.repl.co
  data.over-blog-kiwi.com
+ datsom.vn
  de.gsearch.com.de
- desiringhands.com
- dev1.assar.in
- dezcom.com
- digihacks.in
+ democcsl.freeenglishacademy.com
  dl.198424.com
  dl.zkytech.com
+ dns.alibuf.com
  dockerupdate.anondns.net
- docomo.asia
  donghobinhminh.com
- down.flash-plays.com
+ down.pcclear.com
  down.udashi.com
- down.webbora.com
  down1.arpun.com
  download.doumaibiji.cn
  download.fixdown.com
  download.kaobeitu.com
- download.pdf00.cn
  download.rising.com.cn
  download.skycn.com
  download.zjsyawqj.cn
@@ -43087,152 +43133,156 @@
  dzinestudio87.co.uk
  education01.sutoweb.com
  eipsnc.com
+ elranchomarkets.com
+ emsshippingservices.com
  enc-tech.com
+ errepartributario.com.ar
  esupervivencia.com
  ethar.ae
- evsaspot.com
  fam-int.com
- fandangles.uk
- fonixpizza.no
- fulfillmententertainment.com
+ flash-update.buyonebuy.top
  gamdotuolaam.gb.net
  garenanow.myvnc.com
  garenanow4.myvnc.com
- generaldeviales.com
  genregis.com
  ghislain.dartois.pagesperso-orange.fr
+ glitzygal.net
+ globe.bz
  gruposelt.000webhostapp.com
+ gym.aarvytechnologies.in
  habbotips.free.fr
- hitstation.nl
+ hambook.com
+ harperwoods-001-site3.btempurl.com
+ hekahealth.org
+ heraclitotattoostudio.com
+ hero-sport.ir
  hldschool.com
- hoayeuthuong-my.sharepoint.com
- hos365llc.com
  hr2019.vrcom7.com
- hseda.com
- incredicole.com
- infomaker.jp
- itselfimprove.com
- jaap-online.org
- jamiekaylive.com
- janakre.com
- jansen-heesch.nl
- jiaoyuzixun.cn
+ hsmwebapp.com
+ iaicare.org
+ iprosl.com
+ irispremiere.com
+ isatechnology.com
+ isso.ps
+ joiningofficialilluminati.com
  joule.kpi.ua
- karavantekstil.com
- karlagaray.com
  katanvetov.co.il
+ kelam.co.in
+ kittstr.com
  kjcpromo.com
- kostjamusic.com
+ klikcee.somee.com
  krisbadminton.com
  kwanfromhongkong.com
+ lab.lesh.vn
+ langdingpage.sutoweb.com
+ lapapeteria.at
  ld.mediaget.com
- lenhardtconsultingsolutions.com
  library.uib.ac.id
  lincsdomesticservices.co.uk
+ livetrack.in
+ lixko.com
  luguan.sutoweb.com
  m.sumec.com
  m93701t2.beget.tech
- mackleyn.com
  mail.golimoapp.com
  maksi.feb.unib.ac.id
+ malaya.tv
  marieelondon.com
- masjidnuruliman.my
+ mediajam.co.uk
+ medicelcoolers.cn
  megastararena.com
  members.chello.nl
  mfevr.com
- mhkdhotbot.myvnc.com
  mhkdhotbot80.myvnc.com
  michimal2.000webhostapp.com
- miraclejex.com
- mncarteam.com
- mockdumps.com
- modernmanna.org
- mskimya.com
- mute-saga-0240.lovesick.jp
  mxpiqw.am.files.1drv.com
- naya-center.com
+ natsturismo.resultaweb.com.br
  nelitrianggraeni.000webhostapp.com
  nerve.untergrund.net
- nettube.com.br
- networkhardwaresol.com
- newsbeat.drupalet.com
  newxing.com
- nhatquangtran.com
+ nicolas.ug
  nimblemachines.beta.webenza.in
+ nnpanewswire.com
  notamuzikaletleri.com
- oa.vishou.net
  ohe.ie
+ onedrive.linkpc.net
  opolis.io
- orion445.com
- osdsoft.com
- ospreyfashionbd.com
+ orion.me
  p3.zbjimg.com
  p6.zbjimg.com
+ pais.realizartesublimacao.com.br
  palestina.gob.ec
+ palochusvet.szm.com
+ patch2.51lg.com
+ patriotpath.am
  paymentsconsole.giving.agency
  pedidoslalacteo.com.ar
- perfect-ly.de
+ pehchaanlivefoundation.org
  perpustekim.untirta.ac.id
  pghrc-career.bangkokair.com
- ph4s.ru
- pharmainstruelec.com
- phmcpak.com
- prosoc.nl
+ photo.sohu.com
  ps8002.top
- qdfljd.cn
+ psmedien.de
+ pub03832.duckdns.org
+ qmsled.com
  quartier-midi.be
- realestatelp.it
+ rc.ixiaoyang.cn
+ repcamedical.com
  rkverify.securestudies.com
- rpsraipur.com
- scglobal.co.th
- school.aarvytechnologies.in
+ saiappstore.com
+ savedahorses.org
+ sefp-boispro.fr
  servicemhkd.myvnc.com
  servicemhkd80.myvnc.com
- sipahielektrik.com
+ shakour2020.ir
+ shembefoundation.com
+ shikdeveloper.ir
+ sindicato1ucm.cl
  sisromasicurezza.com
- skyscan.com
- softart-002-site3.dtempurl.com
- somosleyendas.cl
+ sistelligent.com
  sonvietmy.com.vn
+ sota-france.fr
+ sriglobalit.com
  srvmanos.no-ip.info
- sslv3.at
  starcountry.net
- studyingincalifornia.free.fr
- surani.co.in
  system.oneempire4.com
+ sytraders.co
+ szyhdzpcb.com
+ t.honker.info
  taltus.co.uk
- taxpos.com
+ tapalkoedacoffee.com
  tcy.198424.com
  teleargentina.com
  tentandoserfitness.000webhostapp.com
- tessaract.be
- theblacksheep.org
- thecreativecafe.co.uk
+ thuythuysanvertex.com
  tinhofer.legal
- tirelli.it
- tksb.net
+ tools.apecsoft.asia
+ trackdrillng.com
+ umang.nciinfotech.in
+ ummahstars.com
+ uniengrisb.com
+ unik-cursos.com.br
  update.iwang8.com
- usastudy.news
+ usd-gold.com
  useformoney.000webhostapp.com
- villamarand.com
- vipi.co.ke
- visualhome.cl
+ valetourvirtual.com
+ vivationdesign.com
+ vmusicsound.com
  vnav.hueaudio.com
  vvsskmodinationalschool.com
- warner1010.com.tw
+ wafatrust.com.pk
+ wallcab.com
  web.eng.ubu.ac.th
  webserverthai.com
  whcms.yourpageserver.com
  wi522012.ferozo.com
+ willow-nettica.com
  wozata.000webhostapp.com
- writesofpassage.co.za
  wx.hu-wo.com
  x-treme.gr
- xaqan.co
+ x.ziyoubb.com.cn
+ xichengkeji.top
  xn--2z1b30g3yitydsucda1o601f.kr
- yuefuep.com
- zj.9553.com
- zpmagura.com
  123found.com
  140proof.com
  1x1rank.com
@@ -43365,6 +43415,7 @@
  adserver.quizdingo.com
  adserver.realhomesex.net
  adserver.startnow.com
+ adserver.viagogo.com
  adserver1.mokono.com
  adservinginternational.com
  adshost1.com
