@@ -30,6 +30,6 @@ do
 
 create_file $name $website $typee $list
 
-done < csv.txt
+done < /git/nethserver-DNS-Blacklist/csv.txt
 
 
