@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 03 Jan 2021
+#Updated: 07 Jan 2021
 #LatestVersion 20.12
 #---------------------
 2track.info #Adware
@@ -19,7 +19,6 @@
 7hor9gul4s.com #Malware
 96.lt #Phishing
 acountscr.cool #Adware Lnkr
-actextdev.com #Adware Lnkr
 ad2up.com #Potentially Unwanted Application
 adaranth.com #Adware
 addr.cx #Adware Lnkr
@@ -234,7 +233,6 @@ luckypushh.com #Malvertising
 lucretius-ada.com #Adware
 luselucky.com #Adware Lnkr
 madmimi.com #Email spam
-magictraps.com #Adware Lnkr
 mailguardonline.net #Malware
 makefailed.com #Adware Lnkr
 makesource.cool #Adware Lnkr
@@ -250,7 +248,6 @@ mobiclean.xyz #Adware Lnkr
 modelwork.org #Browser Hijacker
 money-hero-tracking.org #Malware
 moradu.com #Malware
-mountihight.com #Adware
 mppmnetwork.com #Adware
 mwor.gq #Malware
 myfood.ltd #Potentially Unwanted Application
@@ -264,7 +261,6 @@ newmayads.com #Malware
 newssound.biz #Adware Lnkr
 nextextlink.com #Adware Lnkr
 nextyourcontent.com #Adware
-noblesourse.com #Adware Lnkr
 nuxues.com #Popups
 o4uxrk33.com #Malware
 oaqjwapqdho.com #Potentially Harmful
@@ -275,7 +271,6 @@ omnibox.bar #Browser Hijacker
 onclickbright.com #Malvertising
 onlineformfinder.com #PUA - Mindspark
 onlinekey.biz #Adware Lnkr
-osdrivers.win #Malware
 outsource.cool #Adware Lnkr
 outube.com #Malware
 oyi9f1kbaj.com #Adware
@@ -357,7 +352,6 @@ statvalidation.website #Adware Lnkr
 stazumik.net #Malware
 stoneshards.ru #Malware
 styleszelife.com #Malware - Unknown
-subscriptions.click #Adware
 successcompassion.com #Malware
 survivecoronavirus.org #Phishing
 sysfileff.com #Adware Lnkr
@@ -398,7 +392,6 @@ workdevapp.com #Adware Lnkr
 worksrc.cool #Adware Lnkr
 worldmodel.biz #Adware Lnkr
 wwclickroot.club #Adware
-www.mijn-ing-nl-login.com #phishing
 wwwyoutube.com #Malware
 xn--gmail-bgd.com #Fake Site
 xyz.com.br #Scammer
@@ -406,5 +399,4 @@ ydpi.pw #Adware Lnkr
 yourfirstcheapshop.com #Adware
 yourrecovery.net #Adware Lnkr
 zief.pl #Malicious Site
-zinessprop.info #Adware
 zoudlogick.net #Adware Lnkr
