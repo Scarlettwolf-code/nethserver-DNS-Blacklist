@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 08 Jan 2021 15:56 UTC+7
-# Version: 2101081556
-# Blocked: 18,466 domains
+# Last modified: 11 Jan 2021 14:14 UTC+7
+# Version: 2101111414
+# Blocked: 18,501 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -186,6 +186,8 @@
 #[googleapis.com]
  ad-creatives-public.commondatastorage.googleapis.com
  clientmetrics-pa.googleapis.com
+ clientmetrics.googleapis.com
+ clouderrorreporting.googleapis.com
  firebaselogging-pa.googleapis.com
  firebaselogging.googleapis.com
 #[google]
@@ -2700,111 +2702,85 @@
  webportal.criteo.com
  widget.criteo.com
  www.criteo.com
-#[taboola]
- 15.taboola.com
- accessrequest.taboola.com
+#[taboola.com]
  actions-am.taboola.com
+ actions-ch.taboola.com
  actions-hk.taboola.com
  actions-latb.taboola.com
  actions-nj.taboola.com
- am-trc.taboola.com
+ actions-sg.taboola.com
+ am-match.taboola.com
+ am-sync.taboola.com
+ am-trc-events.taboola.com
+ am-vid-events.taboola.com
+ am-wf.taboola.com
  api.taboola.com
- api-s2s.taboola.com
+ assets.taboola.com
  backstage.taboola.com
- billing.taboola.com
- branding.taboola.com
+ beacon.taboola.com
  c2.taboola.com
- careers.taboola.com
+ c3.taboola.com
  cdn.taboola.com
- cdn-cc.taboola.com
- clicknj.taboola.com
- consult.taboola.com
- content.taboola.com
- convammp.taboola.com
- convhkmp.taboola.com
- convlatbmp.taboola.com
+ cds.taboola.com
+ ch-match.taboola.com
+ ch-sync.taboola.com
+ ch-vid-events.taboola.com
+ ch-wf.taboola.com
+ convchmp.taboola.com
  convnjmp.taboola.com
- dev-www.taboola.com
- engineering.taboola.com
- gallery.taboola.com
- go.taboola.com
- il-vpn.taboola.com
+ convsgmp.taboola.com
+ hk-match.taboola.com
+ hk-sync.taboola.com
+ hk-vid-events.taboola.com
+ hk-wf.taboola.com
+ images-dl.taboola.com
  images.taboola.com
+ images1.taboola.com
+ images2.taboola.com
+ images3.taboola.com
+ images4.taboola.com
+ images5.taboola.com
+ impr.taboola.com
  imprammp.taboola.com
- imprhkmp.taboola.com
- imprlatbmp.taboola.com
+ imprchmp.taboola.com
  imprnjmp.taboola.com
- jobs.taboola.com
+ imprsgmp.taboola.com
+ la-match.taboola.com
+ la-sync.taboola.com
+ la-trc-events.taboola.com
  la-trc.taboola.com
- ldaps.taboola.com
+ la-vid-events.taboola.com
+ la-wf.taboola.com
  match.taboola.com
  mb.taboola.com
- modes.taboola.com
  mpg.taboola.com
- netstorage.taboola.com
+ nr-events.taboola.com
  nr.taboola.com
- opps.taboola.com
  pages.taboola.com
- perscdn.taboola.com
  popup.taboola.com
- publisher.taboola.com
  resources.taboola.com
- store.taboola.com
- swag.taboola.com
- taboola.com
- test-www.taboola.com
+ sg-match.taboola.com
+ sg-sync.taboola.com
+ sg-trc-events.taboola.com
+ sg-vid-events.taboola.com
+ sg-wf.taboola.com
+ sync.taboola.com
  timeinc.trc.taboola.com
  tracking.taboola.com
+ trc-events.taboola.com
  trc.taboola.com
- trc-cc.taboola.com
- trends.taboola.com
+ us-match.taboola.com
+ us-sync.taboola.com
+ us-vid-events.taboola.com
+ us-wf.taboola.com
  vidanalytics.taboola.com
  vidstat.taboola.com
- vidstatb.taboola.com
- vidutils.taboola.com
- vision.taboola.com
- wf.taboola.com
- workshops.taboola.com
- www.taboola.com
-#[crwdcntrl]
+#[crwdcntrl.net]
  ad.crwdcntrl.net
- ag.tags.crwdcntrl.net
- bb.crwdcntrl.net
  bcp.crwdcntrl.net
- bebo.crwdcntrl.net
- blnk.crwdcntrl.net
- blogtalkradio.crwdcntrl.net
- buzznet.crwdcntrl.net
- cdn.crwdcntrl.net
- celebslam.tags.crwdcntrl.net
- cnnmoney.tags.crwdcntrl.net
- coop.crwdcntrl.net
  crwdcntrl.net
- deviantart.crwdcntrl.net
- fotolog.crwdcntrl.net
- glumbert.crwdcntrl.net
- huffingtonpost.crwdcntrl.net
- justjared.crwdcntrl.net
- livejournal.tags.crwdcntrl.net
- multiply.crwdcntrl.net
- nbcu.tags.crwdcntrl.net
- perfspot.crwdcntrl.net
- reunion.crwdcntrl.net
- sociallitelife.tags.crwdcntrl.net
- somethingawful.crwdcntrl.net
- sportsillustrated.tags.crwdcntrl.net
- superficial.crwdcntrl.net
  sync.crwdcntrl.net
  tags.crwdcntrl.net
- td.crwdcntrl.net
- td2.crwdcntrl.net
- videogum.tags.crwdcntrl.net
- vidilife.crwdcntrl.net
- vsocial.crwdcntrl.net
- worth1000.crwdcntrl.net
- wwtdd.tags.crwdcntrl.net
- www.crwdcntrl.net
- yardbarker.tags.crwdcntrl.net
 #[teads]
  a.teads.tv
  cdn.teads.tv
@@ -3436,6 +3412,7 @@
  collector.newrelic.com
  insights-collector.newrelic.com
  js-agent.newrelic.com
+ log-api.newrelic.com
  metric-api.newrelic.com
  mobile-collector.newrelic.com
  mobile-crash-origin.newrelic.com
@@ -4388,14 +4365,15 @@
  exchange.superfastmediation.com
  track.superfastmediation.com
  www.superfastmediation.com
-#[moengage]
+#[moengage.com]
  api.moengage.com
  apiv2.moengage.com
- apiv2mumbai.moengage.com
  apiv3.moengage.com
- apiv3india.moengage.com
  cdn.moengage.com
+ cfimage.moengage.com
+ ec.moengage.com
  image.moengage.com
+ inapps.moengage.com
  websdk.moengage.com
 #[localytics]
  a.localytics.com
@@ -4842,6 +4820,16 @@
  servedby-buysellads.com
  ss.servedby-buysellads.com
  static.servedby-buysellads.com
+#[buysellads.com]
+ assets.buysellads.com
+ buysellads.com
+ cdn.buysellads.com
+ s1.buysellads.com
+ s2.buysellads.com
+ s3.buysellads.com
+ srv.buysellads.com
+ stats.buysellads.com
+ www.buysellads.com
 #[neustar]
  admin.wpm.neustar.biz
  alert.wpm.neustar.biz
@@ -5411,18 +5399,9 @@
  ums.ayads.co
  www.ayads.co
 #[heapanalytics.com]
- about.heapanalytics.com
  cdn.heapanalytics.com
- content.heapanalytics.com
- data.heapanalytics.com
  go.heapanalytics.com
  heapanalytics.com
- info.heapanalytics.com
- internal.heapanalytics.com
- learn.heapanalytics.com
- marketing.heapanalytics.com
- pantheon.heapanalytics.com
- socket.heapanalytics.com
  www.heapanalytics.com
 #[histats.com]
  cdn.histats.com
@@ -13671,6 +13650,35 @@
  quiz.zx-adnet.com
  www.zx-adnet.com
  zx-adnet.com
+#[pushcrew.com]
+ cdn.pushcrew.com
+ dacdn.pushcrew.com
+ pushcrew.com
+ tracking.pushcrew.com
+#[logoeps.com]
+ cdn.logoeps.com
+ logoeps.com
+ www.logoeps.com
+#[adtilt.com]
+ adc-ad-assets.adtilt.com
+ adtilt.com
+ pop.adtilt.com
+ rm2.adtilt.com
+ www.adtilt.com
+#[tx-hit.com]
+ pub.tx-hit.com
+ tx-hit.com
+#[netund.com]
+ c.netund.com
+ netund.com
+ p.netund.com
+#[adsco.re]
+ 4.adsco.re
+ 6.adsco.re
+ adsco.re
+ c.adsco.re
+ d.adsco.re
+ w.adsco.re
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -13926,6 +13934,10 @@
  qc.coccoc.com
  searcher.qc.coccoc.com
  ssp.qc.coccoc.com
+#[takataka.coccoc.com]
+ cdn.takataka.coccoc.com
+ searcher.takataka.coccoc.com
+ takataka.coccoc.com
 #[qc.coccoc.vn]
  qc.coccoc.vn
  qccoccocmedia.vn
@@ -14192,6 +14204,7 @@
  px.za.zaloapp.com
  static-ads.zaloapp.com
  stats.zaloapp.com
+ trk-pcweb.api.zaloapp.com
  wg.zaloapp.com
  zminer.zaloapp.com
  ztevents.zaloapp.com
@@ -14840,7 +14853,6 @@
  pushdi.com
  api.pushdi.com
  sdk.pushdi.com
- d2ox6x0y9xhicd.cloudfront.net
 #[ad*.24hstatic.com]
  24h-ad.24hstatic.com
  24h-ipad-ad.24hstatic.com
@@ -14969,6 +14981,17 @@
  delivery.kabbmedia.com
  images.kabbmedia.com
  kabbmedia.com
+#[testcentre.vn]
+ k8s2.testcentre.vn
+ testcentre.vn
+#[subiz-cdn.com]
+ public-gcs.subiz-cdn.com
+ subiz-cdn.com
+ www.subiz-cdn.com
+#[piads.vn]
+ api.piads.vn
+ piads.vn
+ static.piads.vn
 # --- Block adsVN ---
  5734a40f2d.vws.vegacdn.vn
  703531862.vws.vegacdn.vn
@@ -14982,9 +15005,11 @@
  ad.sunflower.vn
  ad.vkool.net
  adadmin.headlines.pw
+ adapi.tuyensinh247.com
  adc.quantrimang.com
  adchoice.com
  adclient.vietnamnetjsc.vn
+ addtop.trangvangvietnam.com
  adfox.vn
  adjusts.info
  adm.phunuvagiadinh.vn
@@ -15001,6 +15026,7 @@
  ads.fptplay.net.vn
  ads.home.vn
  ads.ictnews.vn
+ ads.itsgroup.vn
  ads.khoahocdoisong.vn
  ads.kiemsat.vn
  ads.lamchame.vn
@@ -15053,6 +15079,7 @@
  avoadsservices.com
  banhtv.org
  banner.5giay.vn
+ banner.trangvangvietnam.com
  banner.vietnamfinance.vn
  bgadx.com
  bluemaulpuffs.com
@@ -15098,6 +15125,7 @@
  phimmedia03.com
  polyad.galaxypub.vn
  qc.designervn.net
+ qc.itsgroup.vn
  qcv5.blogtruyen.vn
  quangcao.24h.com.vn
  quangcao.baovannghe.com.vn
@@ -15149,6 +15177,7 @@
  www.vietdorje.com
  www.vtvcab.xyz
 # --- Block trackingVN ---
+ a.vtvdigital.vn
  addlog.thuvienphapluat.vn
  admin.phunusuckhoe.vn
  alexajstrack.com
@@ -15163,9 +15192,11 @@
  analytics.sohatv.vn
  analytics.thethao247.org
  analytics.tiki.vn
+ analytics.viblo.asia
  analytics.videocloud.top
  analytics.vietnamfinance.vn
  analytics.vnreview.vn
+ api.sbz.vn
  apl.headlines.pw
  clientinfo.phimmoizz.net
  counter.ntdvn.com
@@ -15188,6 +15219,7 @@
  log.baonghean.vn
  log.baophapluat.vn
  log.batdongsan.com.vn
+ log.beecost.vn
  log.daidoanket.vn
  log.dantocmiennui.vn
  log.doanhnhan.vn
@@ -15196,6 +15228,7 @@
  log.kienthuc.net.vn
  log.ngaynay.vn
  log.nhipcaudautu.vn
+ log.oto.com.vn
  log.sggp.org.vn
  log.tapchimattran.vn
  log.tapchitaichinh.vn
@@ -15203,6 +15236,7 @@
  log.theleader.vn
  log.tienphong.vn
  log.tinnhanhchungkhoan.vn
+ log.tinxe.vn
  log.vietnamdaily.net.vn
  log.vietnamfinance.vn
  log.vietnamplus.vn
@@ -15227,7 +15261,9 @@
  s.kenh14.vn
  s.soha.vn
  s.tuoitre.vn
+ sentry.mediacdn.vn
  sharefb.cnnd.vn
+ st-a.vtvdigital.vn
  stat.headlines.pw
  static.accesstrade.vn
  static.subiz.com
@@ -15259,6 +15295,7 @@
  tracking.fado.vn
  tracking.fff.com.vn
  tracking.hongtinnhanh.com
+ tracking.tinxe.vn
  tracking.vht.com.vn
  tracking.vietbao.vn
  tracking.vtc.vn
@@ -15274,6 +15311,7 @@
  webpush.bizfly.vn
  webpush.todo.vn
  widget.sbz.vn
+ widget.subiz.net
  widget.subiz.xyz
 # --- Block scamVN ---
  bloodleian.club
@@ -15950,7 +15988,6 @@
  adscan.yelabapp.com
  adscholar.com
  adscience.nl
- adsco.re
  adscpm.com
  adscpm.site
  adsdaq.com
@@ -16063,7 +16100,6 @@
  adtheorent.com
  adthis.com
  adtiger.de
- adtilt.com
  adtoll.com
  adtology.com
  adtoma.com
@@ -16519,7 +16555,6 @@
  bustlinganimal.com
  butheptesitrew.pro
  buyhitscheap.com
- buysellads.com
  buzzonclick.com
  bvalphaserver.com
  bwp.download.com
@@ -16790,6 +16825,7 @@
  cybermonitor.com
  d.appsdt.com
  d2cmedia.ca
+ d3mzokty951c5w.cloudfront.net
  dadslims.com
  dakic-ia-300.com
  damdoor.com
@@ -16859,6 +16895,7 @@
  dmtracker.com
  dmtracking.alibaba.com
  dmtracking2.alibaba.com
+ dnemkhkbsdbl.com
  docksalmon.com
  domaining.in
  domainsponsor.com
@@ -16893,6 +16930,7 @@
  e.kde.cz
  e2ertt.com
  e2wysbacctt1.com
+ eacdn.com
  eadexchange.com
  earnify.com
  earthquakescarf.com
@@ -17125,6 +17163,7 @@
  goldspotmedia.com
  goldstats.com
  gondolagnome.com
+ googleads.github.io
  gorgeousground.com
  gossipmiser.com
  gostats.com
@@ -18140,7 +18179,6 @@
  rkdms.com
  rlcdn.com
  rle.ru
- rm2.adtilt.com
  rmedia.boston.com
  rmiesnorthur.pro
  roar.com
@@ -18552,6 +18590,7 @@
  topmmorpgsites.com
  topping.com.ua
  toprebates.com
+ toprevenuecpmnetwork.com
  topsearcher.com
  topsir.com
  topsite.lv
@@ -18829,7 +18868,6 @@
  www.adsluna.com
  www.adspyglass.com
  www.adstune.com
- www.adtilt.com
  www.advinci.co
  www.agroupadx.com
  www.allmygoodlife.com
@@ -18906,6 +18944,7 @@
  www.zap.buzz
  www.zekiatagur.com
  www.zxc.world
+ wyjimapsi.pro
  x-traceur.com
  xad.com
  xchange.ro
@@ -19023,6 +19062,7 @@
  analytics.swiggy.com
  analytics.ziftsolutions.com
  analyticsapi.bsbportal.com
+ android-stat.acestream.net
  anhui-attorney.com
  annedouglas.com
  api.prooffactor.com
@@ -19102,6 +19142,7 @@
  fastly-insights.com
  fathomseo.com
  fff.dailymail.co.uk
+ firsthive.com
  flagcounter.com
  freegeoip.net
  frog.wix.com
@@ -19172,6 +19213,7 @@
  mebed.dm.gg
  media-match.com
  mediaforce.com
+ metric.nimo.tv
  metricfast.com
  metrics.brightcove.com
  metrics.cloudflarebolt.com
@@ -19261,6 +19303,7 @@
  static.leaddyno.com
  stats.apester.com
  stats.betradar.com
+ stats.hstatic.net
  stats.unlimapps.com
  stats.wp.com
  stats.xtraffic.xyz
@@ -19273,6 +19316,7 @@
  t.9gag.com
  t.dailymail.co.uk
  tag.researchnow.com
+ tdf.ringier.ch
  ted.dailymail.co.uk
  ted.metro.co.uk
  tedgenet.com
@@ -19317,6 +19361,7 @@
  wa.metro.co.uk
  wc-tracking.lavasoft.com
  web-t.9gag.com
+ web.mxradon.com
  web.ventunotech.com
  weborama.net
  weigezhiyao.com
@@ -19341,6 +19386,7 @@
  www.vdtrack.com
  www.w3counter.com
  www.weigezhiyao.com
+ ylog.nimo.tv
  ymtracking.com
  youthfire.com
  zarget.com
