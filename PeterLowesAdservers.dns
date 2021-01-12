@@ -9,8 +9,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 07 Jan 2021 10:35:34 GMT
-# entries:        3559
+# last updated:   Mon, 11 Jan 2021 12:45:10 GMT
+# entries:        3561
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -18,7 +18,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 16 Jan 2001 00:00:00
+# start date:    Wed, 17 Jan 2001 00:00:00
  1-1ads.com
  101com.com
  101order.com
@@ -2269,6 +2269,7 @@
  matheranalytics.com
  mathtag.com
  matomo.activate.cz
+ matomo.kmkb.ru
  mautic.com
  max.i12.de
  maximiser.net
@@ -3075,6 +3076,7 @@
  stats.mirrorfootball.co.uk
  stats.olark.com
  stats.pusher.com
+ stats.rdphv.net
  stats.self.com
  stats.townnews.com
  stats.unwired-i.net

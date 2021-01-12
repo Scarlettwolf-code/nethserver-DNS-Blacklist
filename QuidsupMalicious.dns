@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 07 Jan 2021
+#Updated: 11 Jan 2021
 #LatestVersion 20.12
 #---------------------
 2track.info #Adware
@@ -23,6 +23,7 @@ ad2up.com #Potentially Unwanted Application
 adaranth.com #Adware
 addr.cx #Adware Lnkr
 adfuture.cn #Android Malware
+adp.om #Malware
 adqy6rzwcs.com #Malvertising
 adsunflower.com #Android Malware
 adultsonly.pro #Malware
@@ -42,6 +43,7 @@ barenudism.com #Malware RIG
 bbc.co #Malware
 best2018games.com #Popups
 bestadbid.com #Malvertising
+bestbuyc.om #Malware
 bestconvertersearch.com #Malware
 bestupdatemeta.com #Adware
 beta.infopicked.com #Malware RIG
@@ -95,11 +97,13 @@ covid19quiz.com #Phishing
 cozytech.biz #Adware
 cpm20.com #Malware
 craftprimes.com #Adware Lnkr
+creditkarma.om #Malware
 criticalltech.com #Adware Lnkr
 crphone.mireene.com #Phishing
 cybergateway.net #Phishing
 cybersecuritiesinc.net #Malware
 cybertransfer.net #Adware Lnkr
+dafa888.om #Malware
 dardendly.info #Adware
 dashvintage.biz #Adware Lnkr
 data1rtb.com #Adware
@@ -107,6 +111,7 @@ dataanalytic.biz #Adware Lnkr
 datapro.website #Adware Lnkr
 debrahinton.pro #Malvertising
 deloplen.com #Malvertising
+delta.om #Malware
 denetsuk.com #Malware
 devappstor.com #Adware Lnkr
 digitaloptout.com #Ad Injector
@@ -121,6 +126,7 @@ dreamwoman-finder2.com #Malware
 drivensource.net #Adware Lnkr
 drivethelife.com #PUA
 easy-download.co #Malware
+ebates.om #Malware
 edatasales.com #PUA
 epicunitscan.info #PUA
 evenffext.com #Adware Lnkr
@@ -134,6 +140,7 @@ fastnewstream.com #Adware
 ffdns.net #DNS Exploiters
 filehippo-filehippo.com #Fake Site
 filehorse.com #Malware
+findsearchresults.info #Browser Hijacker
 flexylincks.com #Adware Lnkr
 fmnetwork.nl #Malware
 forwardrb.bid #Malware
@@ -149,6 +156,7 @@ freecontent.science #Malware
 freecontent.stream #Malware
 freecontent.trade #Malware
 freshaudio.net #Adware
+geef.om #Malware
 genyhome.com #Adware Lnkr
 getsearchgo.com #Adware Lnkr
 gettop.info #RIG Exploit
@@ -161,6 +169,7 @@ gmail.om #Malware
 gmial.com #Malware
 gmil.com #Fake Site
 gnatgrocery.com #Malware
+gnc.om #Malware
 goldapps.org #Adware Lnkr
 golinkapp.com #Adware Lnkr
 googe.com #Malware
@@ -185,7 +194,9 @@ hostingcloud.faith #Malware
 hostingcloud.loan #Malware
 hostingcloud.racing #Malware
 hostingcloud.science #Malware
+hotmailc.om #Malware
 icontent.us #Adware Lnkr
+ikgeef.om #Malware
 ilo134ulih.com #Malvertising
 imgfarm.com #PUA - Mindspark
 incluster.com #PUA
@@ -219,6 +230,7 @@ licupexthis.com #Adware Lnkr
 lifebounce.net #Adware Lnkr
 lifeimpressions.net #Adware
 linkangood.com #Adware Lnkr
+linkedinc.om #Malware
 linkojager.org #Adware Lnkr
 linkpowerapp.com #Adware Lnkr
 linkproext.com #Adware Lnkr
@@ -265,6 +277,7 @@ nuxues.com #Popups
 o4uxrk33.com #Malware
 oaqjwapqdho.com #Potentially Harmful
 oc.uk #Typo of .co.uk
+office365.om #Malware
 ofgogoatan.com #PUA
 oilcloze.com #Adware Lnkr
 omnibox.bar #Browser Hijacker
@@ -316,20 +329,25 @@ pyq6n.com #Malware
 qnjdtefk.com #Popups
 qpdownload.com #Malware
 rasenalong.com #Adware Lnkr
+realtor.om #Malware
 reauthenticator.com #Malware
 reddogdangerous.com #Adware Lnkr
+rediff.om #Malware
 reimageplus.com #Scam
 report2.biz #Adware
 returnweb.org #Adware Lnkr
 rgvqcsxqge.com #Malware
 roxlock.com #Adware Lnkr
+rr.om #Malware
 rusenov.com #Malware
 s4yxaqyq95.com #Popups
+samsung.om #Malware
 screensrc.com #Adware Lnkr
 scrlink.cool #Adware Lnkr
 searchnet.com #Malicious Site
 searchtabnew.com #Malicious Site
 searchyfi.com #Adware Lnkr
+securesearchnow.com #Browser Hijacker
 securestudies.com #PUA
 securesurf.biz #Browser Hijacker
 sendmepush.com #Adware
@@ -337,8 +355,10 @@ serenityart.biz #Adware Lnkr
 serverads.net #Adware Lnkr
 simonzody.com #Adware Lnkr
 singtraff.cool #Adware Lnkr
+skype.om #Malware
 slickfluide.com #Adware Lnkr
 smackbolt.com #Adware Lnkr
+sohu.om #Malware
 solvusoft.com #Malicious Files
 sourceapp.cool #Adware Lnkr
 sourcelog.cool #Adware Lnkr
@@ -356,6 +376,8 @@ successcompassion.com #Malware
 survivecoronavirus.org #Phishing
 sysfileff.com #Adware Lnkr
 takethatad.com #Adware Lnkr
+taobao.om #Malware
+taobaoc.om #Malware
 taosha.cc #Android Trojan
 tdsjsext3.life #Malware
 thatsocute.us #Malware
@@ -391,12 +413,16 @@ winworker.club #Adware
 workdevapp.com #Adware Lnkr
 worksrc.cool #Adware Lnkr
 worldmodel.biz #Adware Lnkr
+wsj.om #Malware
 wwclickroot.club #Adware
 wwwyoutube.com #Malware
 xn--gmail-bgd.com #Fake Site
 xyz.com.br #Scammer
+yahoo.om #Malware
 ydpi.pw #Adware Lnkr
+youku.om #Malware
 yourfirstcheapshop.com #Adware
 yourrecovery.net #Adware Lnkr
 zief.pl #Malicious Site
+zillow.om #Malware
 zoudlogick.net #Adware Lnkr

@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 07 Jan 2021
+#Updated: 11 Jan 2021
 #LatestVersion 20.12
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
@@ -215,6 +215,7 @@ ads-creativesyndicator.com
 ads-d.viber.com #Viber
 ads.asccommunications.com #Asccommunications.Com - Advertising
 ads.aws.viber.com #Viber
+ads.cdn.viber.com #Viber - Advertising
 ads.chaturbate.com #Chaturbate
 ads.citymagazine.si #City Magazine
 ads.ebay.com #eBay
@@ -484,6 +485,7 @@ appave.mobi #AppAve
 appdynamics.com #AppDynamics
 appier.net #Appier
 applift.com #AppLift
+applogs-v2.pixelfederation.com #Pixelfederation.com - Tracker
 applovin.com #AppLovin
 applvn.com #AppLovin
 appmetrica.webvisor.com #Yandex Tracker
@@ -1016,6 +1018,7 @@ ed-clr-01.com #Lead Forensics - Tracker
 edatasales.com #Chrome Extension Easy Auto Refresh
 edigitalresearch.com
 edigitalsurvey.com
+edmanalytics.pandahall.com #Pandahall.com - Tracker
 eepurl.com #mailchimp
 efeedbacktrk.com #eFeedbackTrk - Tracker
 effectivemeasure.com #Effective Measure
@@ -1658,6 +1661,7 @@ metrics.postoffice.co.uk #Postoffice.Co.Uk - Tracker
 metrics.raptr.com #Raptr
 metrics.roblox.com #Roblox.com - Tracker
 metrics.royalmail.com #Royalmail.com - Tracker
+metrics.spbtv.com #Spbtv.com - Tracker
 metrics.three.co.uk #Three.Co.Uk - Tracker
 metricswindow.com #Digital Window
 metrigo.com
@@ -12963,6 +12967,7 @@ raasnet.com
 rad.live.com #Microsoft
 radiantsands.com #Unknown Chinese - Tracker
 radiumone.com #RadiumOne
+rags1.com #Unknown Chinese - Tracker
 rampanel.com #Research and Analysis of Media - Tracker
 rat1.com #Unknown Chinese - Tracker
 rayjump.com #Mobvista - Advertising
@@ -13219,6 +13224,7 @@ smetrics.10play.com.au #Adobe - Tracker
 smetrics.1800contacts.com #Adobe - Tracker
 smetrics.24hourfitness.com #Adobe - Tracker
 smetrics.28degreescard.com.au #Adobe - Tracker
+smetrics.360dx.com #Adobe - Tracker
 smetrics.3m.com #Adobe - Tracker
 smetrics.3monoamines.com #Adobe - Tracker
 smetrics.7eleven.com.au #Adobe - Tracker
@@ -13249,6 +13255,7 @@ smetrics.allstate.com #Adobe - Tracker
 smetrics.ally.com #Adobe - Tracker
 smetrics.americanairlines.be #Adobe - Tracker
 smetrics.americanairlines.cl #Adobe - Tracker
+smetrics.americanairlines.com #Adobe - Tracker
 smetrics.americanairlines.de #Adobe - Tracker
 smetrics.americanairlines.hu #Adobe - Tracker
 smetrics.americanairlines.in #Adobe - Tracker
@@ -13329,6 +13336,7 @@ smetrics.bnymellon.com #Adobe - Tracker
 smetrics.boehringer-ingelheim.cn #Adobe - Tracker
 smetrics.boehringer-ingelheim.com #Adobe - Tracker
 smetrics.boehringer-ingelheim.de #Adobe - Tracker
+smetrics.boehringer-ingelheim.it #Adobe - Tracker
 smetrics.boehringer-ingelheim.jp #Adobe - Tracker
 smetrics.boehringer-interactief.nl #Adobe - Tracker
 smetrics.boehringer-interaktiv.de #Adobe - Tracker
@@ -13605,6 +13613,7 @@ smetrics.kanebo-cosmetics.jp #Adobe - Tracker
 smetrics.kanebo.com #Adobe - Tracker
 smetrics.kao.co.jp #Adobe - Tracker
 smetrics.kao.com #Adobe - Tracker
+smetrics.kaobeautybrands.com #Adobe - Tracker
 smetrics.kawai-juku.ac.jp #Adobe - Tracker
 smetrics.kay.com #Adobe - Tracker
 smetrics.kayosports.com.au #Adobe - Tracker
@@ -13680,6 +13689,7 @@ smetrics.mavic.com #Adobe - Tracker
 smetrics.maxi.ca #Adobe - Tracker
 smetrics.maximintegrated.com #Adobe - Tracker
 smetrics.maxxia.com.au #Adobe - Tracker
+smetrics.mbna.ca #Adobe - Tracker
 smetrics.mcafee.com #McAfee
 smetrics.mcdonalds.com #Adobe - Tracker
 smetrics.memberdeals.com #Adobe - Tracker

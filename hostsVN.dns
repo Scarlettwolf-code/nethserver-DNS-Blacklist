@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 11 Jan 2021 14:14 UTC+7
-# Version: 2101111414
-# Blocked: 18,501 domains
+# Last modified: 12 Jan 2021 15:01 UTC+7
+# Version: 2101121501
+# Blocked: 18,535 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5826,6 +5826,7 @@
  parter.api.useinsider.com
  service.useinsider.com
  static.api.useinsider.com
+ thegioididongvn.api.useinsider.com
  unification.useinsider.com
  useinsider.com
  weather.api.useinsider.com
@@ -13679,6 +13680,29 @@
  c.adsco.re
  d.adsco.re
  w.adsco.re
+#[ptengine.com]
+ cjs.ptengine.com
+ js.ptengine.com
+ ptengine.com
+#[ptengine.jp]
+ js.ptengine.jp
+ ptengine.jp
+ xjs.ptengine.jp
+#[ptengine.cn]
+ js.ptengine.cn
+ ptengine.cn
+#[fbshare.me]
+ fbshare.me
+ static.fbshare.me
+ widgets.fbshare.me
+ www.fbshare.me
+#[dfbanners.com]
+ banners.dfbanners.com
+ dfbanners.com
+ www.dfbanners.com
+#[go2speed.org]
+ go2speed.org
+ media.go2speed.org
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -14992,6 +15016,12 @@
  api.piads.vn
  piads.vn
  static.piads.vn
+#[adnet.vn]
+ adnet.vn
+ s0.adnet.vn
+ services.adnet.vn
+ widget.adnet.vn
+ www.adnet.vn
 # --- Block adsVN ---
  5734a40f2d.vws.vegacdn.vn
  703531862.vws.vegacdn.vn
@@ -15018,6 +15048,7 @@
  adpostback.headlines.pw
  ads-cdn.fptplay.net
  ads.1thegioi.vn
+ ads.baoangiang.com.vn
  ads.baobinhduong.vn
  ads.baodatviet.vn
  ads.baotainguyenmoitruong.vn
@@ -15059,10 +15090,12 @@
  advertisement-nhatanh.com
  advserver.cgv.vn
  adx.baolongan.vn
+ adx.chinmedia.vn
  adx.edutimes.com.vn
  adx.hongtinnhanh.com
  adx.kul.vn
  adx.xemvtv.net
+ adx.xtv.vn
  affiliate.k4.tinhte.vn
  ailamtrieuphu.com
  ak9.6895588.com
@@ -15283,6 +15316,7 @@
  track-srv.vietnamnet.vn
  track.accesstrade.vn
  track.icheck.com.vn
+ track.kyna.vn
  track.lapa.pub
  track.pregmomvietnam.com
  track.sendo.vn
@@ -18752,6 +18786,7 @@
  vidcpm.com
  videoadex.com
  videoegg.com
+ videosprofitnetwork.com
  vidora.com
  view4cash.de
  viewpoint.com
@@ -18940,6 +18975,7 @@
  www.unmortalloose.com
  www.velocitycdn.com
  www.vidcpm.com
+ www.videosprofitnetwork.com
  www.webtrendslive.com
  www.zap.buzz
  www.zekiatagur.com
@@ -19018,6 +19054,7 @@
  zxc.world
 # --- Block other trackingVN ---
  2o7.net
+ a.apkpure.com
  a.axmtrack.com
  a.klaviyo.com
  a.quora.com
@@ -19107,6 +19144,7 @@
  cnzz.com
  cognitivlabs.com
  collect.igodigital.com
+ collector.apester.com
  collector.leaddyno.com
  comscoreresearch.com
  cookieinfoscript.com
@@ -19166,6 +19204,7 @@
  hairtease.com
  hitcpm.com
  hits.theguardian.com
+ hostg.xyz
  hsbarbershop.co.uk
  hscta.net
  hsych.com
@@ -19252,6 +19291,7 @@
  plrxserv.com
  popupmaker.com
  presage.io
+ privatestats.whatsapp.net
  promotionengine.com
  prooffactor.com
  propeller-tracking.com
@@ -19372,6 +19412,7 @@
  www.everestjs.net
  www.fastly-insights.com
  www.hitcpm.com
+ www.hostg.xyz
  www.hypestat.com
  www.jsonip.com
  www.montacarichi.it
