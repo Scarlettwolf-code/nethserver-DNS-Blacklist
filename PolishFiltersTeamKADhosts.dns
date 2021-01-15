@@ -5,3 +5,8 @@
 # Maintainer	: https://github.com/PolishFiltersTeam/KADhosts
 # Category        : suspicious
 # Confidence      : 4 
+# Title: KADhosts (zalecana migracja do KADhosts.txt)
+# KADhosts (it is recommended that you migrate to KADhosts.txt)
+# Info:
+# KADhosts nie zawiera teraz kontrowersyjnych witryn, więc KADhosts_without_controversies jest zbędny
+# KADhosts doesn't contain controversial sites now, so KADhosts_without_controversies is redundant
