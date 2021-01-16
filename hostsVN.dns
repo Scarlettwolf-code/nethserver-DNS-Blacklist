@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 15 Jan 2021 13:41 UTC+7
-# Version: 2101151341
-# Blocked: 18,499 domains
+# Last modified: 15 Jan 2021 22:04 UTC+7
+# Version: 2101152204
+# Blocked: 18,518 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13644,6 +13644,29 @@
 #[invl.co]
  invl.co
  xhr.invl.co
+#[dtscout.com]
+ c.dtscout.com
+ dtscout.com
+ e.dtscout.com
+ t.dtscout.com
+ www.dtscout.com
+#[bee7.com]
+ api-proxy.bee7.com
+ api.bee7.com
+ bee7.com
+ cdn.bee7.com
+#[iqzone.com]
+ cdn.iqzone.com
+ iqzone.com
+ pssvc.iqzone.com
+#[apps*.outfit7.com]
+ apps.outfit7.com
+ apps2.outfit7.com
+#[events-api*.outfit7.com]
+ events-api-cn.outfit7.com
+ events-api-ea.outfit7.com
+ events-api-ew1.outfit7.com
+ events-api.outfit7.com
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -19332,6 +19355,7 @@
  sync2ad.com
  t.9gag.com
  t.dailymail.co.uk
+ t.dtscdn.com
  tag.researchnow.com
  tdf.ringier.ch
  ted.dailymail.co.uk
