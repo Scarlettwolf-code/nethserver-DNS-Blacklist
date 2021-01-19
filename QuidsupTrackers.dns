@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 11 Jan 2021
+#Updated: 18 Jan 2021
 #LatestVersion 20.12
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
@@ -433,6 +433,7 @@ analytics.mkini.xyz #Malaysiakini.com - Tracker
 analytics.mlstatic.com #MercadoLibre Tracker
 analytics.mobile.walmart.com #Walmart.Com - Tracker
 analytics.motionarray.com #Motionarray.com - Tracker
+analytics.move.ru #Move.Ru - Tracker
 analytics.nike.com #Nike.Com - Tracker
 analytics.openelec.tv #Openelec - Tracker
 analytics.pinterest.com #pinterest.com - Tracker
@@ -466,6 +467,7 @@ analyticsmsp.com #MSP Tracker
 analyticspixel.microsoft.com #Microsoft Tracker
 and.co.uk
 andmlb.kshwtj.com #Unknown - Advertising
+android-stat.acestream.net #Acestream.net - Tracker
 angorch-cdr7.com #Lead Forensics - Tracker
 anm.co.uk #Associated Newspapers Limited
 anrdoezrs.net
@@ -970,6 +972,7 @@ docalytics.com #Docalytics
 dohi.se #Dohi
 domdex.com
 dotandad.com
+dotmetrics.net #DotMetrics - Tracker
 dotomi.com
 doubleclick.net #Google - Advertising
 doubleclickbygoogle.com #Google
@@ -1323,6 +1326,7 @@ hsms06.com #Hubspot - Tracker
 hsms07.com #Hubspot - Tracker
 hsms08.com #Hubspot - Tracker
 hsstatic.net
+html5-ads.vk-apps.com #VK - Advertising
 httptrack.com #Unknown - Tracker
 hubapi.com #Hubspot - Tracker
 hubspot.com #Hubspot - Tracker
@@ -1377,6 +1381,7 @@ indpcr1.com #Lead Forensics - Tracker
 industrybrains.com
 infernotions.com
 infinity-tracking.net
+influxdata.com #InfluxDB - Tracker
 info.kugou.com #Kugou Music Streaming
 infolinks.com
 ingest.sentry.io #Sentry - Tracker
@@ -1652,7 +1657,10 @@ metrics.allrecipes.co.uk #Allrecipes.Co.Uk - Tracker
 metrics.asos.com #Asos.Com - Tracker
 metrics.cbc.ca #CBC
 metrics.corus.ca #Iobit - Tracker
+metrics.dt.hicloud.com #Hicloud.com - Tracker
+metrics.ebay.com #Ebay.Com - Tracker
 metrics.foxnews.com #Fox
+metrics.g.ebay.com #Ebay.Com - Tracker
 metrics.hackerrank.com #Hackerrank.com - Tracker
 metrics.ikea.com #Ikea
 metrics.marksandspencer.com #Marks and Spencer
@@ -12945,6 +12953,7 @@ qifann.com
 qingcdn.com #Unknown - Advertising
 qmerce.com
 qoe-1.yottaa.net #Yottaa - Tracker
+qos-api.ott.yandex.net #Yandex - Tracker
 qservz.com
 qualtrics.com
 quantcast.com #Quantcast
@@ -13088,6 +13097,7 @@ salesforce.com #Salesforce
 salesmanago.pl #Sales Manago.pl
 samsungads.com #Samsung Advertising
 sas15k01.com #Lead Forensics - Tracker
+sas53netbynet.visualon.info #Visualon.info - Advertising
 sascdn.com #Smart Ad Server
 saymedia.com
 sayu.co.uk #Sayu - Advertising
@@ -13258,6 +13268,7 @@ smetrics.americanairlines.cl #Adobe - Tracker
 smetrics.americanairlines.com #Adobe - Tracker
 smetrics.americanairlines.de #Adobe - Tracker
 smetrics.americanairlines.hu #Adobe - Tracker
+smetrics.americanairlines.ie #Adobe - Tracker
 smetrics.americanairlines.in #Adobe - Tracker
 smetrics.americanairlines.jp #Adobe - Tracker
 smetrics.americancentury.com #Adobe - Tracker
@@ -13476,6 +13487,7 @@ smetrics.ernestjones.co.uk #Adobe - Tracker
 smetrics.esignal.com #Adobe - Tracker
 smetrics.etcanada.com #Adobe - Tracker
 smetrics.etihad.com #Adobe - Tracker
+smetrics.eurocardbyinvitation.dk #Adobe - Tracker
 smetrics.eurowings.com #Adobe - Tracker
 smetrics.eversource.com #Adobe - Tracker
 smetrics.express.com #Adobe - Tracker
@@ -13692,6 +13704,7 @@ smetrics.maxxia.com.au #Adobe - Tracker
 smetrics.mbna.ca #Adobe - Tracker
 smetrics.mcafee.com #McAfee
 smetrics.mcdonalds.com #Adobe - Tracker
+smetrics.medinfo.rs #Adobe - Tracker
 smetrics.memberdeals.com #Adobe - Tracker
 smetrics.mercola.com #Adobe - Tracker
 smetrics.meteomedia.com #Adobe - Tracker
@@ -13742,6 +13755,8 @@ smetrics.nabtrade.com.au #Adobe - Tracker
 smetrics.nadaguides.com #Adobe - Tracker
 smetrics.napacanada.com #Adobe - Tracker
 smetrics.napaonline.com #Adobe - Tracker
+smetrics.napaprolink.ca #Adobe - Tracker
+smetrics.napaprolink.com #Adobe - Tracker
 smetrics.nascar.com #Adobe - Tracker
 smetrics.nationalbusinessfurniture.com #Adobe - Tracker
 smetrics.nationaltrust.org.uk #Adobe - Tracker
@@ -13816,6 +13831,7 @@ smetrics.pharmaintelligence.informa.com #Adobe - Tracker
 smetrics.pkdinfo.com #Adobe - Tracker
 smetrics.plumbenefits.com #Adobe - Tracker
 smetrics.plymouthrock.com #Adobe - Tracker
+smetrics.policies.kpmg #Adobe - Tracker
 smetrics.politico.com #Adobe - Tracker
 smetrics.politicopro.com #Adobe - Tracker
 smetrics.portlandglass.com #Adobe - Tracker
@@ -14010,6 +14026,7 @@ smetrics.tommybahama.com #Adobe - Tracker
 smetrics.toofab.com #Adobe - Tracker
 smetrics.totalwine.com #Adobe - Tracker
 smetrics.toyota.com #Adobe - Tracker
+smetrics.traction.com #Adobe - Tracker
 smetrics.tractorsupply.com #Adobe - Tracker
 smetrics.traderonline.com #Adobe - Tracker
 smetrics.traegergrills.com #Adobe - Tracker
@@ -14057,6 +14074,8 @@ smetrics.vonageforhome.com #Adobe - Tracker
 smetrics.vsemirnyjbank.org #Adobe - Tracker
 smetrics.vueling.com #Adobe - Tracker
 smetrics.vw.com #Adobe - Tracker
+smetrics.vwfs.de #Adobe - Tracker
+smetrics.vwfs.it #Adobe - Tracker
 smetrics.walgreens.com #Adobe - Tracker
 smetrics.waseda-ac.co.jp #Adobe - Tracker
 smetrics.waters.com #Adobe - Tracker
@@ -14091,6 +14110,7 @@ smetrics.yahoodictionary.hk #Adobe - Tracker
 smetrics.ybs.co.uk #Adobe - Tracker
 smetrics.yellow.com.au #Adobe - Tracker
 smetrics.yellowpages.com.au #Adobe - Tracker
+smetrics.yourheartyourdecision.com #Adobe - Tracker
 smetrics.ytv.com #Adobe - Tracker
 smetrics.zales.com #Adobe - Tracker
 smetrics.zalesoutlet.com #Adobe - Tracker
