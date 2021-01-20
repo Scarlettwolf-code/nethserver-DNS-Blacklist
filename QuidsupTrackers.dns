@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 18 Jan 2021
+#Updated: 19 Jan 2021
 #LatestVersion 20.12
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
@@ -221,6 +221,7 @@ ads.citymagazine.si #City Magazine
 ads.ebay.com #eBay
 ads.gold #msales
 ads.hearstmags.com
+ads.ign.com #ign.com - Advertising
 ads.linkedin.com #LinkedIn Advertising
 ads.mindfactory.de #Mindfactory.de - Tracker
 ads.msn.com #Microsoft
@@ -475,9 +476,21 @@ ans.mlb.com #Major League Baseball
 answerscloud.com #Answers Cloud
 anyclip.com #AnyClip
 apester.com
+api-analytics-cn.huami.com #Huami.com - Tracker
+api-analytics-de.huami.com #Huami.com - Tracker
+api-analytics-in.huami.com #Huami.com - Tracker
+api-analytics-ru.huami.com #Huami.com - Tracker
+api-analytics-us.huami.com #Huami.com - Tracker
 api.b2c.com #b2c
 api.mobula.sdk.duapps.com #DU Apps
 apn.co.nz
+app-analytics-cn.huami.com #Huami.com - Tracker
+app-analytics-de.huami.com #Huami.com - Tracker
+app-analytics-in.huami.com #Huami.com - Tracker
+app-analytics-ru.huami.com #Huami.com - Tracker
+app-analytics-sg.huami.com #Huami.com - Tracker
+app-analytics-us.huami.com #Huami.com - Tracker
+app-analytics.huami.com #Huami.com - Tracker
 app-analytics.snapchat.com #Snapchat
 app-measurement.com #Googles android analytics
 app.link #Branch
@@ -577,6 +590,7 @@ betrad.com
 betterinstaller.com #Malware
 betweendigital.com #Between Digital Advertising
 bevyup.com
+bid.glass #Bid Glass - Advertising
 bidgear.com #BidGear
 bidmyqps.xyz #Unknown - Advertising
 bidr.io #Beeswax
@@ -935,6 +949,7 @@ demandjump.com #DemandJump - Tracker
 demdex.com #Adobe - Tracker
 demdex.net #Adobe - Tracker
 deployads.com
+detmir-stats.ru #Grafana - Tracker
 device-metrics-us.amazon.com
 deviceidshare.twitch.tv #Twitch
 devnxs.net #AppNexus Inc
@@ -1402,6 +1417,7 @@ insnw.net #instartlogic
 inspectlet.com #Inspectlet
 instartlogic.com #instartlogic
 instinctiveads.com
+intake-analytics.wikimedia.org #Wikimedia.org - Tracker
 integrousmarketing.com
 intelli-direct.com #Cognesia
 intelligencefocus.com
@@ -1526,6 +1542,7 @@ liveperson.net
 livepromotools.com #Unknown - Advertising
 liverail.com
 liveramp.com #LiveRamp
+livetracker.rfe.pangea-cms.com #Pangea-cms.com - Tracker
 liwio.com #AB Tasty
 lkqd.com #LKQD
 lkqd.net #LKQD
@@ -1569,6 +1586,7 @@ lyrishq.net #Aurea - Advertising
 lyrislabs.com #Aurea - Advertising
 lyrislm.com #Aurea - Advertising
 lytics.io #Lytics Tracker
+m-counter.ru #m-counter.ru - Tracker
 m2.ai #Monetizemore - Tracker
 m6r.eu #MBR Targeting
 madisonlogic.com
@@ -14374,6 +14392,7 @@ track.sublytics-5df8eec4bca66.com #Sublytics Tracker
 track.sublytics-5faedd0b88cec.com #Sublytics - Tracker
 track.sublytics-5fbd3e32d31c2.com #Sublytics - Tracker
 track.thesaurus.com #Thesaurus.Com - Tracker
+track.tproger.ru #Tproger.ru - Tracker
 track.untd.com #UnitedOnline - Tracker
 track.us.org #TrackAd
 track.wikibuy.com #Wikibuy.Com - Tracker
@@ -14383,7 +14402,9 @@ trackcmp.net #ActiveCampaign Tracker
 trackedlink.net
 tracker-api.my.com #Mail.ru - Tracker
 tracker2.itzmx.com
+trackerhqu.com #trackerhqu.com - Tracker
 trackerrysrv.com #Trackerry Tracker
+tracking-receiver.prod-general.stocard-backend.com #Stocard-backend.com - Tracker
 tracking.cmjump.com.au #Unknown - Tracker
 tracking.epicgames.com #epicgames.com Tracker
 tracking.intl.miui.com #Miui - Tracker
