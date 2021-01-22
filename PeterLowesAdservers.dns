@@ -9,8 +9,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Jan 2021 15:38:29 GMT
-# entries:        3569
+# last updated:   Thu, 21 Jan 2021 13:53:20 GMT
+# entries:        3571
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -18,7 +18,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 26 Jan 2001 00:00:00
+# start date:    Sat, 27 Jan 2001 00:00:00
  1-1ads.com
  101com.com
  101order.com
@@ -1328,6 +1328,8 @@
  broadboundary.com
  broadcastbed.com
  broaddoor.com
+ browser-http-intake.logs.datadoghq.com
+ browser-http-intake.logs.datadoghq.eu
  bs.yandex.ru
  btez8.xyz
  btrll.com
@@ -2214,8 +2216,6 @@
  log.pinterest.com
  log.videocampaign.co
  logger.snackly.co
- logs.datadoghq.com
- logs.datadoghq.eu
  logs.roku.com
  logs.spilgames.com
  logsss.com
@@ -2878,6 +2878,8 @@
  rtxplatform.com
  ru4.com
  rubiconproject.com
+ rum-http-intake.logs.datadoghq.com
+ rum-http-intake.logs.datadoghq.eu
  runads.com
  rundsp.com
  ruthlessrobin.com

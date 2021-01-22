@@ -13,7 +13,7 @@
 # See below for acknowledgements.
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
-# Last updated: Fri, 15 Jan 2021 at 21:29:57 GMT
+# Last updated: Thu, 21 Jan 2021 at 09:51:06 GMT
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
 # many types of spyware, reduces bandwidth use, blocks certain pop-up 
@@ -368,6 +368,7 @@ ff02::3		ip6-allhosts
  admin.iovation.com
  adobestats.com
  adopt.specificclick.net
+ adpatrof.com
  ads.tiscali.com
  ads.tiscali.it
  adtrack.appcpi.net
@@ -507,6 +508,7 @@ ff02::3		ip6-allhosts
  cdn.simpleanalytics.io
  cdn.taboolasyndication.com
  cdn.zarget.com
+ cdn1.files.dotandad.com
  cdxbin.vulnerap.com
  celestia.fr
  cf.addthis.com
@@ -849,6 +851,7 @@ ff02::3		ip6-allhosts
  entry-stats.huffingtonpost.com
  environmentalgraffiti.uk.intellitxt.com
  es.optimost.com
+ et.ad.dotandad.com
  eu-track.inside-graph.com
  eus.rubiconproject.com
  exch.quantserve.com
@@ -1906,6 +1909,7 @@ ff02::3		ip6-allhosts
  vs.dmtracker.com
  vsii.spinbox.net
  vsii.spindox.net
+ w.nativery.com
  w1.tcr112.tynt.com
  warlog.info
  warning-message.com
@@ -7170,6 +7174,7 @@ ff02::3		ip6-allhosts
  baiduccdn1.com
  baidutv.baidu.com
  bakkecske.net
+ bal.ad.dotandad.com
  baldehydesupe.info
  bamulat.blogspot.hu
  bananacashback.com
@@ -7662,6 +7667,7 @@ ff02::3		ip6-allhosts
  cdn.mega-tags.com
  cdn.merchenta.com
  cdn.mobicow.com
+ cdn.nativery.com
  cdn.nearbyad.com
  cdn.nsimg.net
  cdn.onescreen.net
@@ -7707,6 +7713,7 @@ ff02::3		ip6-allhosts
  cdn454.telemetryverification.net
  cdn5.tribalfusion.com
  cdn6.emediate.eu
+ cdn99.files.dotandad.com
  cdnads.cam4.com
  cdnaws.mobidea.com
  cdns.mydirtyhobby.com
@@ -9158,6 +9165,7 @@ ff02::3		ip6-allhosts
  js.adscale.de
  js.adserverpub.com
  js.adsonar.com
+ js.adspro.it
  js.adsrvr.org
  js.betburdaaffiliates.com
  js.bizographics.com
@@ -10286,6 +10294,7 @@ ff02::3		ip6-allhosts
  pq.stat.ku6.com
  pqqyhbff.cinci.rr.com
  practeddagek.club
+ prebid.adspro.it
  prefersurvey.net
  preland.softmonetize.com
  preligions.com
@@ -10696,6 +10705,7 @@ ff02::3		ip6-allhosts
  s.atemda.com
  s.baidu.com
  s.boom.ro
+ s.clickiocdn.com
  s.clicktale.net
  s.di.com.pl
  s.domob.cn
@@ -12119,6 +12129,7 @@ ff02::3		ip6-allhosts
  www.blasphemysfhs.info
  www.blatant8jh.info
  www.blazingtrader.biz
+ www.blockadsnot.com
  www.blockchaintop.nl
  www.bluediamondoffers.com
  www.bnnr.nl
@@ -12887,6 +12898,7 @@ ff02::3		ip6-allhosts
  www.worry-free-savings.com
  www.wppluginspro.com
  www.wtp101.com
+ www.xadsmart.com
  www.xaxis.com
  www.xbn.ru
  www.xl-trk.com
