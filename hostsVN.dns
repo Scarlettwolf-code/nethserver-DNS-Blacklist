@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 25 Jan 2021 20:48 UTC+7
-# Version: 2101252048
-# Blocked: 18,563 domains
+# Last modified: 26 Jan 2021 16:34 UTC+7
+# Version: 2101261634
+# Blocked: 18,578 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13673,6 +13673,16 @@
  heatmap.it
  u.heatmap.it
  www.heatmap.it
+#[siteimprove.com]
+ siteimprove.com
+ ts.siteimprove.com
+ us1.siteimprove.com
+ us2.siteimprove.com
+#[salesmanago.pl]
+ app2.salesmanago.pl
+ app3.salesmanago.pl
+ salesmanago.pl
+ www.salesmanago.pl
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -15056,6 +15066,7 @@
  admedia.com.vn
  admin.sothuchi.vn
  adpostback.headlines.pw
+ ads-backend.nhadatmoi.net
  ads-cdn.fptplay.net
  ads.1thegioi.vn
  ads.baoangiang.com.vn
@@ -15077,6 +15088,7 @@
  ads.lamchame.vn
  ads.laodongnghean.vn
  ads.nghenhinvietnam.vn
+ ads.nhadatmoi.net
  ads.phunuonline.com.vn
  ads.phunusuckhoe.vn
  ads.phunuvagiadinh.vn
@@ -15324,6 +15336,7 @@
  partner.accesstrade.vn
  report.vnay.vn
  s.baomoi.xdn.vn
+ s.homedy.com
  s.kenh14.vn
  s.soha.vn
  s.tuoitre.vn
@@ -18380,7 +18393,6 @@
  sinoa.com
  sistacked.com
  sitedataprocessing.com
- siteimproveanalytics.com
  sitemeter.com
  sitestat.com
  sixscissors.com
@@ -19299,6 +19311,7 @@
  mads.dailymail.co.uk
  maper.info
  masasaudi.com
+ measure.admiralmarkets.com
  mebed.dm.gg
  media-match.com
  mediaforce.com
@@ -19347,6 +19360,7 @@
  prooffactor.com
  propeller-tracking.com
  pv.sohu.com
+ q.quora.com
  q2melbourne.com
  qqkabb.com
  r.3gl.net
@@ -19380,6 +19394,8 @@
  si.dailymail.co.uk
  simplesharebuttons.com
  singular.net
+ siteimproveanalytics.com
+ siteimproveanalytics.io
  smart-dmp.com
  smetrics.bestbuy.com
  smetrics.boston.com
@@ -19476,6 +19492,7 @@
  www.npttech.com
  www.placehold.it
  www.rtb123.com
+ www.siteimproveanalytics.com
  www.srmdata.com
  www.statsforads.com
  www.summerhamster.com
