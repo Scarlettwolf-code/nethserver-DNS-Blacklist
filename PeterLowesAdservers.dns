@@ -9,8 +9,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 Jan 2021 11:52:20 GMT
-# entries:        3568
+# last updated:   Wed, 27 Jan 2021 12:39:59 GMT
+# entries:        3570
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -18,7 +18,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 01 Feb 2001 00:00:00
+# start date:    Fri, 02 Feb 2001 00:00:00
  1-1ads.com
  101com.com
  101order.com
@@ -875,6 +875,7 @@
  adsfac.us
  adsfactor.net
  adsfeed.brabys.com
+ adshrink.it
  adside.com
  adsiduous.com
  adskeeper.co.uk
@@ -1467,6 +1468,7 @@
  cluster.adultworld.com
  clustrmaps.com
  cmp.dmgmediaprivacy.co.uk
+ cmp.osano.com
  cmvrclicks000.com
  cnomy.com
  cnt.spbland.ru
