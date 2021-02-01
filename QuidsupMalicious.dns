@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 24 Jan 2021
+#Updated: 31 Jan 2021
 #LatestVersion 20.12
 #---------------------
 2track.info #Adware
@@ -316,7 +316,7 @@ promappdev.com #Adware Lnkr
 promclickapp.biz #Adware Lnkr
 promlinkdev.com #Malware
 promo-bc.com #Ad Injector
-propu.sh #Phishing
+propu.sh #Adware
 protesidenext.com #Adware Lnkr
 proudflex.org #Malware
 proxdevcool.com #Adware Lnkr
