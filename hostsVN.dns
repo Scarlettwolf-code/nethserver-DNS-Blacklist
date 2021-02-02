@@ -6,9 +6,9 @@
 # Category        : advertising
 # Confidence      : 4 
 # Title: hostsVN
-# Last modified: 26 Jan 2021 16:34 UTC+7
-# Version: 2101261634
-# Blocked: 18,578 domains
+# Last modified: 02 Feb 2021 11:34 UTC+7
+# Version: 2102021134
+# Blocked: 18,587 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -13683,6 +13683,10 @@
  app3.salesmanago.pl
  salesmanago.pl
  www.salesmanago.pl
+#[buysellads.net]
+ buysellads.net
+ cdn-s2s.buysellads.net
+ cdn4.buysellads.net
 # --- GroupVN block ---
 #[adtimaserver]
  adtimaserver.vn
@@ -14198,7 +14202,6 @@
 #[zaloapp.com]
  ads.zaloapp.com
  centralized.zaloapp.com
- discovery.api.zaloapp.com
  log.api.zaloapp.com
  log.o2o.service.zaloapp.com
  photo-ads.zaloapp.com
@@ -15041,6 +15044,10 @@
  cdn.starseed.fr
  log.starseed.fr
  starseed.fr
+#[slimads.vn]
+ app.slimads.vn
+ slimads.vn
+ www.slimads.vn
 # --- Block adsVN ---
  5734a40f2d.vws.vegacdn.vn
  703531862.vws.vegacdn.vn
@@ -15145,6 +15152,7 @@
  bluemaulpuffs.com
  boxpr.aiservice.vn
  cdn-ads.thesaigontimes.vn
+ cdn.bongdadem.net
  cdn2.cache.vn
  cdnasset.dantri.com.vn
  chiasephim.xyz
@@ -15331,6 +15339,7 @@
  logsbin.dantri.com.vn
  logscafef.channelvn.net
  monitor.teko.vn
+ myharavan.com
  newlog.daidoanket.vn
  nstat.headlines.pw
  partner.accesstrade.vn
@@ -16221,6 +16230,7 @@
  advbanners.global.ssl.fastly.net
  adventori.com
  adventory.com
+ adverdirect.com
  adverserve.net
  advert.bayarea.com
  advert360.com
@@ -18600,6 +18610,7 @@
  tathitch.net
  tatsumi-sys.jp
  tawdryson.com
+ tawelhawel.com
  tcads.net
  tdxio.com
  tealeaf.com

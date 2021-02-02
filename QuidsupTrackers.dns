@@ -11,7 +11,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 31 Jan 2021
+#Updated: 01 Feb 2021
 #LatestVersion 20.12
 #---------------------
 1-cl0ud.com #Lead Forensics - Tracker
@@ -1308,6 +1308,7 @@ greengrowth.space #Unknown Chinese - Tracker
 greystripe.com #Conversant
 grumft.com #Grumft
 grvcdn.com
+grvmedia.com #GRVMedia - Tracker
 gscontext.net #Grapeshot
 gscontxt.net
 gsecondscreen.com #Gamooga Second Screen
@@ -1447,6 +1448,8 @@ intentmedia.net
 interclick.com
 intercom.com #Intercom - Tracker
 intercom.io
+intergi.com #InterGient - Advertising
+intergient.com #InterGient - Advertising
 invitemedia.com
 invoc.us
 ioam.de
@@ -12673,6 +12676,7 @@ n-core-pipe.com #Lead Forensics - Tracker
 n214adserv.com #Epom
 namesurf.net #HoneyTracks
 nanigans.com
+nanogardens.tech #Unknown Chinese - Tracker
 nanorep.com #NanoRep
 nativeads.com #Native Ads
 navrcholu.cz #Navrcholu
@@ -14595,6 +14599,7 @@ userreport.com #User Report
 userzoom.com
 utarget.ru
 utndln.com #Ad-center Advertising
+v6lvs.com #Unknown Chinese - Tracker
 vacaneedasap.com #Unknown - Tracker
 valassisdigital.io #Valassis Digital
 vcmedia.vn
