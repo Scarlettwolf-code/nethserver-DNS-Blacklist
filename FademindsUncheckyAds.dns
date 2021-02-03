@@ -1,17 +1,3 @@
-#
-# "Fademind's Unchecky Ads"
-#
-#
-# Maintainer	: https://github.com/FadeMind/hosts.extras
-# Category        : advertising
-# Confidence      : 4 
- cdn.appround.biz
- cdn.download.sweetpacks.com
- cdn.insta.playbryte.com
- cdn.msdwnld.com
- cdn.mypcbackup.com
- inno.bisrv.com
- installer.betterinstaller.com
- installer.filebulldog.com
- nsis.bisrv.com
- tracking.opencandy.com.s3.amazonaws.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a229c4a3fd186b4b23e51b34882dc6a8784d340bb7a6cde4f09138c1305d5a3
+size 2254
